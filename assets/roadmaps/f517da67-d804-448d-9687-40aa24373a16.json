@@ -1,0 +1,111 @@
+{
+  "nodes": [
+    {
+      "id": "091b1f06-589c-4d5d-b208-0365524df807",
+      "position": { "x": -25.24596633558761, "y": 106.20716872212716 },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "Security+Auth",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/java-training/main/README.md"
+      },
+      "width": 326,
+      "height": 40,
+      "selected": true,
+      "positionAbsolute": { "x": -25.24596633558761, "y": 106.20716872212716 },
+      "dragging": false
+    },
+    {
+      "id": "526f525d-404f-45d4-babd-5fcf0262bc05",
+      "position": { "x": 72.25569675357832, "y": 9.576056196257355 },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "JDBC",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/java-training/main/README.md"
+      },
+      "width": 132,
+      "height": 40,
+      "selected": false,
+      "positionAbsolute": { "x": 72.25569675357832, "y": 9.576056196257355 },
+      "dragging": false
+    },
+    {
+      "id": "41f4ae72-b4fe-41d5-ae95-3bb0b31a2a49",
+      "position": { "x": -6.50166308916593, "y": -75.83495506966513 },
+      "type": "RoadmapNode",
+      "data": {
+        "id": "41f4ae72-b4fe-41d5-ae95-3bb0b31a2a49",
+        "position": { "x": 45.73137070860153, "y": -70.61165168988838 },
+        "type": "RoadmapNode",
+        "data": {
+          "pathType": "Main path",
+          "label": "JPA ",
+          "isReadonly": false,
+          "url": "https://raw.githubusercontent.com/msg-CareerPaths/java-training/main/README.md"
+        },
+        "width": 96,
+        "height": 40,
+        "selected": true,
+        "positionAbsolute": { "x": 45.73137070860153, "y": -70.61165168988838 },
+        "dragging": false,
+        "pathType": "Main path",
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/java-training/main/README.md",
+        "label": "JPA in action"
+      },
+      "width": 291,
+      "height": 40,
+      "selected": false,
+      "positionAbsolute": { "x": -6.50166308916593, "y": -75.83495506966513 },
+      "dragging": false
+    },
+    {
+      "id": "6fb93614-5a22-4b41-b942-37dc0c161f0e",
+      "position": { "x": -2, "y": -157.5 },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "Annotations",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/java-training/main/README.md"
+      },
+      "width": 282,
+      "height": 40,
+      "selected": false,
+      "positionAbsolute": { "x": -2, "y": -157.5 },
+      "dragging": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "6fb93614-5a22-4b41-b942-37dc0c161f0e",
+      "sourceHandle": "output-handle",
+      "target": "41f4ae72-b4fe-41d5-ae95-3bb0b31a2a49",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-6fb93614-5a22-4b41-b942-37dc0c161f0eoutput-handle-41f4ae72-b4fe-41d5-ae95-3bb0b31a2a49input-handle-top",
+      "type": "step"
+    },
+    {
+      "source": "41f4ae72-b4fe-41d5-ae95-3bb0b31a2a49",
+      "sourceHandle": "output-handle",
+      "target": "526f525d-404f-45d4-babd-5fcf0262bc05",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-41f4ae72-b4fe-41d5-ae95-3bb0b31a2a49output-handle-526f525d-404f-45d4-babd-5fcf0262bc05input-handle-top",
+      "type": "step"
+    },
+    {
+      "source": "526f525d-404f-45d4-babd-5fcf0262bc05",
+      "sourceHandle": "output-handle",
+      "target": "091b1f06-589c-4d5d-b208-0365524df807",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-526f525d-404f-45d4-babd-5fcf0262bc05output-handle-091b1f06-589c-4d5d-b208-0365524df807input-handle-top",
+      "type": "step"
+    }
+  ],
+  "id": "f517da67-d804-448d-9687-40aa24373a16",
+  "tags": ["javascript", "java", "spring"],
+  "title": "JavaScript + Some Technology ",
+  "targetAudience": "Some target Audience "
+}

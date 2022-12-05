@@ -1,0 +1,26 @@
+{
+  "nodes": [
+    {
+      "id": "5e27a6d8-9552-416d-810b-489b7e31bcce",
+      "position": { "x": -30.670474646373663, "y": -218.9799651142931 },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "Jazz in the Parc",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/java-training/main/README.md"
+      },
+      "width": 342,
+      "height": 174,
+      "selected": true,
+      "positionAbsolute": { "x": -30.670474646373663, "y": -218.9799651142931 },
+      "dragging": false,
+      "style": { "height": 174, "width": 342 }
+    }
+  ],
+  "edges": [],
+  "id": "f02cd427-9e0a-4505-b842-96982ec3c84f",
+  "tags": ["aws", "react", "javascript", "angular"],
+  "title": "AWS Training +  FE technologies ",
+  "targetAudience": "Some target Audience with a longer name "
+}

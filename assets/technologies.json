@@ -1,0 +1,17 @@
+{
+  "angular": {
+    "value": "angular",
+    "label": "Angular",
+    "imageUrl": "/images/angular.svg"
+  },
+  "nodejs": {
+    "value": "nodejs",
+    "label": "Node",
+    "imageUrl": "/images/node.svg"
+  },
+  "c#": {
+    "value": "c#",
+    "label": "C#",
+    "imageUrl": "/images/csharp.svg"
+  }
+}

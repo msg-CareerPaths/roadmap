@@ -11,7 +11,7 @@
         "pathType": "Main path",
         "label": "Input Node",
         "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/ro-msg-react-training/resources/master/README.md"
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/README.md"
       },
 
 
@@ -25,7 +25,7 @@
         "pathType": "Optional path",
         "label": "Middle Node",
         "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/ro-msg-react-training/resources/master/README.md"
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/000-introduction.md"
       },
       "type": "RoadmapNode",
       "position": { "x": 100, "y": 125 }

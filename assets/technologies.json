@@ -13,5 +13,30 @@
     "value": "c#",
     "label": "C#",
     "imageUrl": "/images/csharp.svg"
+  },
+"aws":{
+  "value": "aws",
+  "label": "AWS",
+  "imageUrl": "/images/aws.svg"
+},
+  "react": {
+    "value": "react",
+    "label": "React",
+    "imageUrl": "/images/react.svg"
+  },
+  "spring": {
+    "value": "spring",
+    "label": "Spring",
+    "imageUrl": "/images/spring.svg"
+  },
+  "java" : {
+    "value": "java",
+    "label": "Java",
+    "imageUrl": "/images/java.svg"
+  },
+  "javascript": {
+    "value": "javascript",
+    "label": "Javascript",
+    "imageUrl": "/images/javascript.svg"
   }
 }

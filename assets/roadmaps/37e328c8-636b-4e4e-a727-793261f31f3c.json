@@ -1,1 +1,340 @@
-{"nodes":[{"id":"d30e4ac3-9ad0-42a4-8ad3-4622ffe90ccc","position":{"x":-177.57769815199515,"y":396.93808252446263},"type":"RoadmapNode","data":{"pathType":"Main path","label":"Infrastructure-As-Code","isReadonly":false,"url":"https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/009-infrastructure-as-code.md"},"width":509,"height":40,"selected":false,"positionAbsolute":{"x":-177.57769815199515,"y":396.93808252446263},"dragging":false},{"id":"eec1a149-7b0a-4ee7-a592-19e5907e8cb2","position":{"x":-32.75152400810916,"y":313.9506783607181},"type":"RoadmapNode","data":{"pathType":"Main path","label":"AWS - S3","isReadonly":false,"url":"https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/008-aws-s3.md"},"width":219,"height":40,"selected":false,"positionAbsolute":{"x":-32.75152400810916,"y":313.9506783607181},"dragging":false},{"id":"6a854b59-f956-4e39-a821-5255a0c458f4","position":{"x":-51.10381850604152,"y":229.51697319552494},"type":"RoadmapNode","data":{"pathType":"Main path","label":"AWS - RDS","isReadonly":false,"url":"https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/007-aws-rds.md"},"width":255,"height":40,"selected":false,"positionAbsolute":{"x":-51.10381850604152,"y":229.51697319552494},"dragging":false},{"id":"76be79b6-4341-49d5-a8dd-44ecc0894c7a","position":{"x":-46.604083932476414,"y":151.73641038653196},"type":"RoadmapNode","data":{"pathType":"Main path","label":"AWS - ECS","isReadonly":false,"url":"https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/006-aws-ecs.md"},"width":247,"height":40,"selected":false,"positionAbsolute":{"x":-46.604083932476414,"y":151.73641038653196},"dragging":false},{"id":"3a491da6-a820-45e8-bbec-ebf7675687ea","position":{"x":-46.66904755831209,"y":74.24621202458745},"type":"RoadmapNode","data":{"pathType":"Main path","label":"AWS - EC2","isReadonly":false,"url":"https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/005-aws-ec2.md"},"width":247,"height":40,"selected":false,"positionAbsolute":{"x":-46.66904755831209,"y":74.24621202458745},"dragging":false},{"id":"c11acf17-ff1d-4350-b278-d3339cb9338e","position":{"x":-50.20458146424487,"y":-7.778174593052022},"type":"RoadmapNode","data":{"pathType":"Main path","label":"AWS - VPC","isReadonly":false,"url":"https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/004-aws-vpc.md"},"width":254,"height":40,"selected":false,"positionAbsolute":{"x":-50.20458146424487,"y":-7.778174593052022},"dragging":false},{"id":"61a4d256-8433-41df-bb6f-602f2a40ea70","position":{"x":-50.20458146424484,"y":-88.38834764831839},"type":"RoadmapNode","data":{"pathType":"Main path","label":"AWS - IAM","isReadonly":false,"url":"https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/003-aws-iam.md"},"width":254,"height":40,"selected":false,"positionAbsolute":{"x":-50.20458146424484,"y":-88.38834764831839},"dragging":false},{"id":"e9bd8bd1-dc60-47f7-9c5b-df9741a21616","position":{"x":-10.115223689149758,"y":-259.92268274751075},"type":"RoadmapNode","data":{"pathType":"Main path","label":"Docker","isReadonly":false,"url":"https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/001-docker.md"},"width":174,"height":40,"selected":false,"positionAbsolute":{"x":-10.115223689149758,"y":-259.92268274751075},"dragging":false},{"id":"9c3dd624-565d-41f6-b293-951eec6c6bcc","position":{"x":-147.20391005555106,"y":-166.64439489226433},"type":"RoadmapNode","data":{"pathType":"Main path","label":"Introduction in AWS","isReadonly":false,"url":"https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/002-aws-intro.md"},"width":449,"height":40,"selected":false,"positionAbsolute":{"x":-147.20391005555106,"y":-166.64439489226433},"dragging":false},{"id":"085f9cd8-c9d6-4f0a-9e6f-6e263e1fc8e7","position":{"x":-65.50383676390315,"y":-358.3407289969903},"type":"RoadmapNode","data":{"pathType":"Main path","label":"Introduction","isReadonly":false,"url":"https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/000-intro.md"},"width":286,"height":40,"selected":true,"positionAbsolute":{"x":-65.50383676390315,"y":-358.3407289969903},"dragging":false}],"edges":[{"source":"085f9cd8-c9d6-4f0a-9e6f-6e263e1fc8e7","sourceHandle":"output-handle","target":"e9bd8bd1-dc60-47f7-9c5b-df9741a21616","targetHandle":"input-handle-top","id":"reactflow__edge-085f9cd8-c9d6-4f0a-9e6f-6e263e1fc8e7output-handle-e9bd8bd1-dc60-47f7-9c5b-df9741a21616input-handle-top","type":"step"},{"source":"e9bd8bd1-dc60-47f7-9c5b-df9741a21616","sourceHandle":"output-handle","target":"9c3dd624-565d-41f6-b293-951eec6c6bcc","targetHandle":"input-handle-top","id":"reactflow__edge-e9bd8bd1-dc60-47f7-9c5b-df9741a21616output-handle-9c3dd624-565d-41f6-b293-951eec6c6bccinput-handle-top","type":"step"},{"source":"9c3dd624-565d-41f6-b293-951eec6c6bcc","sourceHandle":"output-handle","target":"61a4d256-8433-41df-bb6f-602f2a40ea70","targetHandle":"input-handle-top","id":"reactflow__edge-9c3dd624-565d-41f6-b293-951eec6c6bccoutput-handle-61a4d256-8433-41df-bb6f-602f2a40ea70input-handle-top","type":"step"},{"source":"61a4d256-8433-41df-bb6f-602f2a40ea70","sourceHandle":"output-handle","target":"c11acf17-ff1d-4350-b278-d3339cb9338e","targetHandle":"input-handle-top","id":"reactflow__edge-61a4d256-8433-41df-bb6f-602f2a40ea70output-handle-c11acf17-ff1d-4350-b278-d3339cb9338einput-handle-top","type":"step"},{"source":"c11acf17-ff1d-4350-b278-d3339cb9338e","sourceHandle":"output-handle","target":"3a491da6-a820-45e8-bbec-ebf7675687ea","targetHandle":"input-handle-top","id":"reactflow__edge-c11acf17-ff1d-4350-b278-d3339cb9338eoutput-handle-3a491da6-a820-45e8-bbec-ebf7675687eainput-handle-top","type":"step"},{"source":"3a491da6-a820-45e8-bbec-ebf7675687ea","sourceHandle":"output-handle","target":"76be79b6-4341-49d5-a8dd-44ecc0894c7a","targetHandle":"input-handle-top","id":"reactflow__edge-3a491da6-a820-45e8-bbec-ebf7675687eaoutput-handle-76be79b6-4341-49d5-a8dd-44ecc0894c7ainput-handle-top","type":"step"},{"source":"76be79b6-4341-49d5-a8dd-44ecc0894c7a","sourceHandle":"output-handle","target":"6a854b59-f956-4e39-a821-5255a0c458f4","targetHandle":"input-handle-top","id":"reactflow__edge-76be79b6-4341-49d5-a8dd-44ecc0894c7aoutput-handle-6a854b59-f956-4e39-a821-5255a0c458f4input-handle-top","type":"step"},{"source":"6a854b59-f956-4e39-a821-5255a0c458f4","sourceHandle":"output-handle","target":"eec1a149-7b0a-4ee7-a592-19e5907e8cb2","targetHandle":"input-handle-top","id":"reactflow__edge-6a854b59-f956-4e39-a821-5255a0c458f4output-handle-eec1a149-7b0a-4ee7-a592-19e5907e8cb2input-handle-top","type":"step"},{"source":"eec1a149-7b0a-4ee7-a592-19e5907e8cb2","sourceHandle":"output-handle","target":"d30e4ac3-9ad0-42a4-8ad3-4622ffe90ccc","targetHandle":"input-handle-top","id":"reactflow__edge-eec1a149-7b0a-4ee7-a592-19e5907e8cb2output-handle-d30e4ac3-9ad0-42a4-8ad3-4622ffe90cccinput-handle-top","type":"step"}],"id":"37e328c8-636b-4e4e-a727-793261f31f3c","tags":["aws"],"title":"AWS Cloud Training","targetAudience":"Students"}
+{
+  "nodes": [
+    {
+      "id": "d30e4ac3-9ad0-42a4-8ad3-4622ffe90ccc",
+      "position": {
+        "x": -177.57769815199515,
+        "y": 396.93808252446263
+      },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "Infrastructure-As-Code",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/009-infrastructure-as-code.md"
+      },
+      "width": 509,
+      "height": 40,
+      "selected": false,
+      "style": {
+        "zIndex": 10
+      },
+      "zIndex": 10,
+      "positionAbsolute": {
+        "x": -177.57769815199515,
+        "y": 396.93808252446263
+      },
+      "dragging": false
+    },
+    {
+      "id": "eec1a149-7b0a-4ee7-a592-19e5907e8cb2",
+      "position": {
+        "x": -32.75152400810916,
+        "y": 313.9506783607181
+      },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "AWS - S3",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/008-aws-s3.md"
+      },
+      "width": 219,
+      "height": 40,
+      "selected": false,
+       "style": {
+        "zIndex": 10
+      },
+      "zIndex": 10,
+      "positionAbsolute": {
+        "x": -32.75152400810916,
+        "y": 313.9506783607181
+      },
+      "dragging": false
+    },
+    {
+      "id": "6a854b59-f956-4e39-a821-5255a0c458f4",
+      "position": {
+        "x": -51.10381850604152,
+        "y": 229.51697319552494
+      },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "AWS - RDS",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/007-aws-rds.md"
+      },
+      "width": 255,
+      "height": 40,
+      "selected": false,
+       "style": {
+        "zIndex": 10
+      },
+      "zIndex": 10,
+      "positionAbsolute": {
+        "x": -51.10381850604152,
+        "y": 229.51697319552494
+      },
+      "dragging": false
+    },
+    {
+      "id": "76be79b6-4341-49d5-a8dd-44ecc0894c7a",
+      "position": {
+        "x": -46.604083932476414,
+        "y": 151.73641038653196
+      },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "AWS - ECS",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/006-aws-ecs.md"
+      },
+      "width": 247,
+      "height": 40,
+      "selected": false,
+       "style": {
+        "zIndex": 10
+      },
+      "zIndex": 10,
+      "positionAbsolute": {
+        "x": -46.604083932476414,
+        "y": 151.73641038653196
+      },
+      "dragging": false
+    },
+    {
+      "id": "3a491da6-a820-45e8-bbec-ebf7675687ea",
+      "position": {
+        "x": -46.66904755831209,
+        "y": 74.24621202458745
+      },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "AWS - EC2",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/005-aws-ec2.md"
+      },
+      "width": 247,
+      "height": 40,
+      "selected": false,
+       "style": {
+        "zIndex": 10
+      },
+      "zIndex": 10,
+      "positionAbsolute": {
+        "x": -46.66904755831209,
+        "y": 74.24621202458745
+      },
+      "dragging": false
+    },
+    {
+      "id": "c11acf17-ff1d-4350-b278-d3339cb9338e",
+      "position": {
+        "x": -50.20458146424487,
+        "y": -7.778174593052022
+      },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "AWS - VPC",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/004-aws-vpc.md"
+      },
+      "width": 254,
+      "height": 40,
+      "selected": false,
+       "style": {
+        "zIndex": 10
+      },
+      "zIndex": 10,
+      "positionAbsolute": {
+        "x": -50.20458146424487,
+        "y": -7.778174593052022
+      },
+      "dragging": false
+    },
+    {
+      "id": "61a4d256-8433-41df-bb6f-602f2a40ea70",
+      "position": {
+        "x": -50.20458146424484,
+        "y": -88.38834764831839
+      },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "AWS - IAM",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/003-aws-iam.md"
+      },
+      "width": 254,
+      "height": 40,
+      "selected": false,
+       "style": {
+        "zIndex": 10
+      },
+      "zIndex": 10,
+      "positionAbsolute": {
+        "x": -50.20458146424484,
+        "y": -88.38834764831839
+      },
+      "dragging": false
+    },
+    {
+      "id": "e9bd8bd1-dc60-47f7-9c5b-df9741a21616",
+      "position": {
+        "x": -10.115223689149758,
+        "y": -259.92268274751075
+      },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "Docker",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/001-docker.md"
+      },
+      "width": 174,
+      "height": 40,
+      "selected": false,
+       "style": {
+        "zIndex": 10
+      },
+      "zIndex": 10,
+      "positionAbsolute": {
+        "x": -10.115223689149758,
+        "y": -259.92268274751075
+      },
+      "dragging": false
+    },
+    {
+      "id": "9c3dd624-565d-41f6-b293-951eec6c6bcc",
+      "position": {
+        "x": -147.20391005555106,
+        "y": -166.64439489226433
+      },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "Introduction in AWS",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/002-aws-intro.md"
+      },
+      "width": 449,
+      "height": 40,
+      "selected": false,
+       "style": {
+        "zIndex": 10
+      },
+      "zIndex": 10,
+      "positionAbsolute": {
+        "x": -147.20391005555106,
+        "y": -166.64439489226433
+      },
+      "dragging": false
+    },
+    {
+      "id": "085f9cd8-c9d6-4f0a-9e6f-6e263e1fc8e7",
+      "position": {
+        "x": -65.50383676390315,
+        "y": -358.3407289969903
+      },
+      "type": "RoadmapNode",
+      "data": {
+        "pathType": "Main path",
+        "label": "Introduction",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/000-intro.md"
+      },
+      "width": 286,
+      "height": 40,
+      "selected": true,
+      "positionAbsolute": {
+        "x": -65.50383676390315,
+        "y": -358.3407289969903
+      },
+      "dragging": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "085f9cd8-c9d6-4f0a-9e6f-6e263e1fc8e7",
+      "sourceHandle": "output-handle",
+      "target": "e9bd8bd1-dc60-47f7-9c5b-df9741a21616",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-085f9cd8-c9d6-4f0a-9e6f-6e263e1fc8e7output-handle-e9bd8bd1-dc60-47f7-9c5b-df9741a21616input-handle-top",
+      "type": "step"
+    },
+    {
+      "source": "e9bd8bd1-dc60-47f7-9c5b-df9741a21616",
+      "sourceHandle": "output-handle",
+      "target": "9c3dd624-565d-41f6-b293-951eec6c6bcc",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-e9bd8bd1-dc60-47f7-9c5b-df9741a21616output-handle-9c3dd624-565d-41f6-b293-951eec6c6bccinput-handle-top",
+      "type": "step"
+    },
+    {
+      "source": "9c3dd624-565d-41f6-b293-951eec6c6bcc",
+      "sourceHandle": "output-handle",
+      "target": "61a4d256-8433-41df-bb6f-602f2a40ea70",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-9c3dd624-565d-41f6-b293-951eec6c6bccoutput-handle-61a4d256-8433-41df-bb6f-602f2a40ea70input-handle-top",
+      "type": "step"
+    },
+    {
+      "source": "61a4d256-8433-41df-bb6f-602f2a40ea70",
+      "sourceHandle": "output-handle",
+      "target": "c11acf17-ff1d-4350-b278-d3339cb9338e",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-61a4d256-8433-41df-bb6f-602f2a40ea70output-handle-c11acf17-ff1d-4350-b278-d3339cb9338einput-handle-top",
+      "type": "step"
+    },
+    {
+      "source": "c11acf17-ff1d-4350-b278-d3339cb9338e",
+      "sourceHandle": "output-handle",
+      "target": "3a491da6-a820-45e8-bbec-ebf7675687ea",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-c11acf17-ff1d-4350-b278-d3339cb9338eoutput-handle-3a491da6-a820-45e8-bbec-ebf7675687eainput-handle-top",
+      "type": "step"
+    },
+    {
+      "source": "3a491da6-a820-45e8-bbec-ebf7675687ea",
+      "sourceHandle": "output-handle",
+      "target": "76be79b6-4341-49d5-a8dd-44ecc0894c7a",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-3a491da6-a820-45e8-bbec-ebf7675687eaoutput-handle-76be79b6-4341-49d5-a8dd-44ecc0894c7ainput-handle-top",
+      "type": "step"
+    },
+    {
+      "source": "76be79b6-4341-49d5-a8dd-44ecc0894c7a",
+      "sourceHandle": "output-handle",
+      "target": "6a854b59-f956-4e39-a821-5255a0c458f4",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-76be79b6-4341-49d5-a8dd-44ecc0894c7aoutput-handle-6a854b59-f956-4e39-a821-5255a0c458f4input-handle-top",
+      "type": "step"
+    },
+    {
+      "source": "6a854b59-f956-4e39-a821-5255a0c458f4",
+      "sourceHandle": "output-handle",
+      "target": "eec1a149-7b0a-4ee7-a592-19e5907e8cb2",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-6a854b59-f956-4e39-a821-5255a0c458f4output-handle-eec1a149-7b0a-4ee7-a592-19e5907e8cb2input-handle-top",
+      "type": "step"
+    },
+    {
+      "source": "eec1a149-7b0a-4ee7-a592-19e5907e8cb2",
+      "sourceHandle": "output-handle",
+      "target": "d30e4ac3-9ad0-42a4-8ad3-4622ffe90ccc",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-eec1a149-7b0a-4ee7-a592-19e5907e8cb2output-handle-d30e4ac3-9ad0-42a4-8ad3-4622ffe90cccinput-handle-top",
+      "type": "step"
+    }
+  ],
+  "id": "37e328c8-636b-4e4e-a727-793261f31f3c",
+  "tags": [
+    "aws"
+  ],
+  "title": "AWS Cloud Training",
+  "targetAudience": "Students"
+}

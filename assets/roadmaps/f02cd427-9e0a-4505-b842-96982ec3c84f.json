@@ -15,6 +15,7 @@
       "selected": true,
       "positionAbsolute": { "x": -30.670474646373663, "y": -218.9799651142931 },
       "dragging": false,
+      "zIndex":10,
       "style": { "height": 174, "width": 342 }
     }
   ],

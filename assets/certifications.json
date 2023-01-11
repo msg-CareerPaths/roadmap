@@ -1,14 +1,20 @@
 {
-  "aws": {
-    "key": "aws",
-    "label": "AWS Certification",
-    "imageUrl": "/images/aws.svg",
-    "url": "https://msggroup.sharepoint.com/sites/NET-NCC/SitePages/Guide.aspx?params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA0MDExMTQwOSJ9&xsdata=MDV8MDF8fDc5YjczZDY3OWYzOTRiMWRmZmMyMDhkYWQ5ZTdkYjcxfDc2M2IyNzYwNDVjNTQ2ZDM4ODNlMjk3MDViYmE0OWI3fDB8MHw2MzgwNjE4ODcwNjg3MDA2MTB8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzTURVNU1Ua3dOVGsxTWpzeE5qY3dOVGt4T1RBMU9UVXlPekU1T20xbFpYUnBibWRmVGtSV2ExbFhTVEpQUkUxMFdXcEZOVTVETURCT1ZFNXNURlJzYVUxVVNYUk5ha0Y0V1dwWk5VNXFWbXhaZW1NMVFIUm9jbVZoWkM1Mk1nPT18NWVlNTVmMmY2YjY1NDI1YWZmYzIwOGRhZDllN2RiNzF8Yzc0NzkzNzg5MGVmNDJiOWExMTRiMmQ0NThjNWY4MDM%3D&sdata=a2JvU20xcFV3SzhuTXhtYy9tMUlDQXNUaDJlOHNvSkUwT1UzVHk5a3VYVT0%3D&ovuser=763b2760-45c5-46d3-883e-29705bba49b7%2CAna-Maria.Foglietta%40msg.group&OR=Teams-HL&CT=1670836815410&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjExMzAwNDEwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D"
-  },
-  "azure": {
-    "key": "azure",
-    "label": "Azure Certification",
-    "imageUrl": "/images/azure.svg",
-    "url": "https://msggroup.sharepoint.com/sites/NET-NCC/SitePages/Guide--Microsoft-Certifications.aspx?params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA0MDExMTQwOSJ9&xsdata=MDV8MDF8fDExNjFiNDA2NjI1YTQyNTk3YTBjMDhkYWQ5ZTdlZWEwfDc2M2IyNzYwNDVjNTQ2ZDM4ODNlMjk3MDViYmE0OWI3fDB8MHw2MzgwNjE4ODczOTA1MTM2NzZ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzTURVNU1Ua3pPRE0zTlRzeE5qY3dOVGt4T1RNNE16YzFPekU1T20xbFpYUnBibWRmVGtSV2ExbFhTVEpQUkUxMFdXcEZOVTVETURCT1ZFNXNURlJzYVUxVVNYUk5ha0Y0V1dwWk5VNXFWbXhaZW1NMVFIUm9jbVZoWkM1Mk1nPT18MDQ0NTJiZDhlZmNjNDE0ZjdhMGMwOGRhZDllN2VlYTB8NGU3ZTJlM2ZjYjgzNDk3NDhlZDVhMTAyY2EyYzQyMjk%3D&sdata=UXFEdVRucWtPcnFJQlhuTVhKMHEzRkxQRGo3MEJYU1RlN1c3YmZ1Q05Hcz0%3D&ovuser=763b2760-45c5-46d3-883e-29705bba49b7%2CAna-Maria.Foglietta%40msg.group&OR=Teams-HL&CT=1670935686059&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjExMzAwNDEwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D"
-  }
+    "aws": {
+        "key": "aws",
+        "label": "AWS Certification",
+        "imageUrl": "/images/aws.svg",
+        "url": "https://msggroup.sharepoint.com/sites/NET-NCC/SitePages/Guide.aspx?params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA0MDExMTQwOSJ9&xsdata=MDV8MDF8fDc5YjczZDY3OWYzOTRiMWRmZmMyMDhkYWQ5ZTdkYjcxfDc2M2IyNzYwNDVjNTQ2ZDM4ODNlMjk3MDViYmE0OWI3fDB8MHw2MzgwNjE4ODcwNjg3MDA2MTB8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzTURVNU1Ua3dOVGsxTWpzeE5qY3dOVGt4T1RBMU9UVXlPekU1T20xbFpYUnBibWRmVGtSV2ExbFhTVEpQUkUxMFdXcEZOVTVETURCT1ZFNXNURlJzYVUxVVNYUk5ha0Y0V1dwWk5VNXFWbXhaZW1NMVFIUm9jbVZoWkM1Mk1nPT18NWVlNTVmMmY2YjY1NDI1YWZmYzIwOGRhZDllN2RiNzF8Yzc0NzkzNzg5MGVmNDJiOWExMTRiMmQ0NThjNWY4MDM%3D&sdata=a2JvU20xcFV3SzhuTXhtYy9tMUlDQXNUaDJlOHNvSkUwT1UzVHk5a3VYVT0%3D&ovuser=763b2760-45c5-46d3-883e-29705bba49b7%2CAna-Maria.Foglietta%40msg.group&OR=Teams-HL&CT=1670836815410&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjExMzAwNDEwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D"
+    },
+    "azure": {
+        "key": "azure",
+        "label": "Azure Certification",
+        "imageUrl": "/images/azure.svg",
+        "url": "https://msggroup.sharepoint.com/sites/NET-NCC/SitePages/Guide--Microsoft-Certifications.aspx?params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA0MDExMTQwOSJ9&xsdata=MDV8MDF8fDExNjFiNDA2NjI1YTQyNTk3YTBjMDhkYWQ5ZTdlZWEwfDc2M2IyNzYwNDVjNTQ2ZDM4ODNlMjk3MDViYmE0OWI3fDB8MHw2MzgwNjE4ODczOTA1MTM2NzZ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzTURVNU1Ua3pPRE0zTlRzeE5qY3dOVGt4T1RNNE16YzFPekU1T20xbFpYUnBibWRmVGtSV2ExbFhTVEpQUkUxMFdXcEZOVTVETURCT1ZFNXNURlJzYVUxVVNYUk5ha0Y0V1dwWk5VNXFWbXhaZW1NMVFIUm9jbVZoWkM1Mk1nPT18MDQ0NTJiZDhlZmNjNDE0ZjdhMGMwOGRhZDllN2VlYTB8NGU3ZTJlM2ZjYjgzNDk3NDhlZDVhMTAyY2EyYzQyMjk%3D&sdata=UXFEdVRucWtPcnFJQlhuTVhKMHEzRkxQRGo3MEJYU1RlN1c3YmZ1Q05Hcz0%3D&ovuser=763b2760-45c5-46d3-883e-29705bba49b7%2CAna-Maria.Foglietta%40msg.group&OR=Teams-HL&CT=1670935686059&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjExMzAwNDEwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D"
+    },
+    "google-cloud": {
+        "key": "google-cloud",
+        "label": "Google Cloud",
+        "imageUrl": "/images/google-cloud.svg",
+        "url": "https://msggroup.sharepoint.com/sites/msg-ZP/SitePages/en/Google-Cloud.aspx"
+    }
 }

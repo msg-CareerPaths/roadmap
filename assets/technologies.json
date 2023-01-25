@@ -1,42 +1,57 @@
 {
-  "angular": {
-    "value": "angular",
-    "label": "Angular",
-    "imageUrl": "/images/angular.svg"
-  },
-  "nodejs": {
-    "value": "nodejs",
-    "label": "Node",
-    "imageUrl": "/images/node.svg"
-  },
-  "c#": {
-    "value": "c#",
-    "label": "C#",
-    "imageUrl": "/images/csharp.svg"
-  },
-"aws":{
-  "value": "aws",
-  "label": "AWS",
-  "imageUrl": "/images/aws.svg"
-},
-  "react": {
-    "value": "react",
-    "label": "React",
-    "imageUrl": "/images/react.svg"
-  },
-  "spring": {
-    "value": "spring",
-    "label": "Spring",
-    "imageUrl": "/images/spring.svg"
-  },
-  "java" : {
-    "value": "java",
-    "label": "Java",
-    "imageUrl": "/images/java.svg"
-  },
-  "javascript": {
-    "value": "javascript",
-    "label": "Javascript",
-    "imageUrl": "/images/javascript.svg"
-  }
+    "angular": {
+        "value": "angular",
+        "label": "Angular",
+        "imageUrl": "/images/angular.svg"
+    },
+    "nodejs": {
+        "value": "nodejs",
+        "label": "Node",
+        "imageUrl": "/images/node.svg"
+    },
+    "c#": {
+        "value": "c#",
+        "label": "C#",
+        "imageUrl": "/images/csharp.svg"
+    },
+    "aws": {
+        "value": "aws",
+        "label": "AWS",
+        "imageUrl": "/images/aws.svg"
+    },
+    "react": {
+        "value": "react",
+        "label": "React",
+        "imageUrl": "/images/react.svg"
+    },
+    "spring": {
+        "value": "spring",
+        "label": "Spring",
+        "imageUrl": "/images/spring.svg"
+    },
+    "java": {
+        "value": "java",
+        "label": "Java",
+        "imageUrl": "/images/java.svg"
+    },
+    "javascript": {
+        "value": "javascript",
+        "label": "Javascript",
+        "imageUrl": "/images/javascript.svg"
+    },
+    "cap": {
+        "value": "cap",
+        "label": "Cap",
+        "imageUrl": "/images/cap.svg"
+    },
+    "sap": {
+        "value": "sap",
+        "label": "SAP",
+        "imageUrl": "/images/sap.svg"
+    },
+    "ui5": {
+        "value": "ui5",
+        "label": "UI5",
+        "imageUrl": "/images/ui5.svg"
+    }
 }

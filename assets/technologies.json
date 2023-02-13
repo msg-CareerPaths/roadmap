@@ -46,7 +46,7 @@
     },
     "sap": {
         "value": "sap",
-        "label": "SAP",
+        "label": "SAP-RAP",
         "imageUrl": "/images/sap.svg"
     },
     "ui5": {

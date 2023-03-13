@@ -1314,8 +1314,8 @@
       {
          "id":"da77c552-5043-4ff4-812b-189149fcc540",
          "position":{
-            "x":875.0201878234377,
-            "y":277.4869835499704
+            "x":705.0201878234377,
+            "y":269.4869835499703
          },
          "type":"RoadmapNode",
          "zIndex":11,
@@ -1335,16 +1335,16 @@
          "height":43,
          "selected":false,
          "positionAbsolute":{
-            "x":2277.326312103343,
-            "y":587.2565539488114
+            "x":1794.097401994989,
+            "y":549.8344544843517
          },
          "dragging":false
       },
       {
          "id":"154a3e6a-5ab4-4fc7-b7f9-0bb50736fb20",
          "position":{
-            "x":546.7032494397884,
-            "y":275.79789073091985
+            "x":712.7032494397884,
+            "y":205.7978907309198
          },
          "type":"RoadmapNode",
          "zIndex":11,
@@ -1364,39 +1364,8 @@
          "height":43,
          "selected":false,
          "positionAbsolute":{
-            "x":1949.0093737196935,
-            "y":585.5674611297609
-         },
-         "dragging":false
-      },
-      {
-         "id":"d9516e4b-e08d-4762-8410-9a150b4d4866",
-         "position":{
-            "x":765.5460837746843,
-            "y":205.06515803693225
-         },
-         "type":"RoadmapNode",
-         "zIndex":11,
-         "style":{
-            "zIndex":11,
-            "height":43,
-            "width":208
-         },
-         "data":{
-            "pathType":"Main path",
-            "isContainer":false,
-            "label":"Fundamentals",
-            "isReadonly":false,
-            "url":"-"
-         },
-         "extent":"parent",
-         "parentNode":"f47e1b57-a554-4882-8eb5-7336b3f2bb08",
-         "width":208,
-         "height":43,
-         "selected":false,
-         "positionAbsolute":{
-            "x":2167.8522080545895,
-            "y":514.8347284357733
+            "x":1801.7804636113397,
+            "y":486.14536166530115
          },
          "dragging":false
       },
@@ -1490,8 +1459,8 @@
       {
          "id":"f47e1b57-a554-4882-8eb5-7336b3f2bb08",
          "position":{
-            "x":1161.0772141715513,
-            "y":452.34747093438136
+            "x":1089.0772141715513,
+            "y":280.34747093438136
          },
          "type":"RoadmapNode",
          "zIndex":10,
@@ -1509,11 +1478,11 @@
          },
          "width":1710,
          "height":1298,
-         "selected":true,
+         "selected":false,
          "dragging":false,
          "positionAbsolute":{
-            "x":1161.0772141715513,
-            "y":452.34747093438136
+            "x":1089.0772141715513,
+            "y":280.34747093438136
          }
       }
    ],
@@ -1625,20 +1594,6 @@
          "target":"d28b0cac-2ac9-4975-9ad2-ffc1c883dda2",
          "targetHandle":"input-handle-top",
          "id":"reactflow__edge-93a41471-2040-4eb5-a35f-ee479d833affoutput-handle-d28b0cac-2ac9-4975-9ad2-ffc1c883dda2input-handle-top"
-      },
-      {
-         "source":"154a3e6a-5ab4-4fc7-b7f9-0bb50736fb20",
-         "sourceHandle":"output-handle",
-         "target":"93a41471-2040-4eb5-a35f-ee479d833aff",
-         "targetHandle":"input-handle-top",
-         "id":"reactflow__edge-154a3e6a-5ab4-4fc7-b7f9-0bb50736fb20output-handle-93a41471-2040-4eb5-a35f-ee479d833affinput-handle-top"
-      },
-      {
-         "source":"da77c552-5043-4ff4-812b-189149fcc540",
-         "sourceHandle":"output-handle",
-         "target":"93a41471-2040-4eb5-a35f-ee479d833aff",
-         "targetHandle":"input-handle-top",
-         "id":"reactflow__edge-da77c552-5043-4ff4-812b-189149fcc540output-handle-93a41471-2040-4eb5-a35f-ee479d833affinput-handle-top"
       },
       {
          "source":"5b21600a-d2d7-4047-b4d5-95cc56723368",
@@ -1975,6 +1930,28 @@
          "target":"27f91051-5235-48db-9e72-49c07e450014",
          "targetHandle":"input-handle-top",
          "id":"reactflow__edge-21428e7b-c7a3-4dc5-8a17-3cbaa89a8537output-handle-27f91051-5235-48db-9e72-49c07e450014input-handle-top"
+      },
+      {
+         "source":"bf87dfa0-855a-47f6-8494-da5330d0a937",
+         "sourceHandle":"output-handle",
+         "target":"154a3e6a-5ab4-4fc7-b7f9-0bb50736fb20",
+         "targetHandle":"input-handle-top",
+         "id":"reactflow__edge-bf87dfa0-855a-47f6-8494-da5330d0a937output-handle-154a3e6a-5ab4-4fc7-b7f9-0bb50736fb20input-handle-top"
+      },
+      {
+         "source":"154a3e6a-5ab4-4fc7-b7f9-0bb50736fb20",
+         "sourceHandle":"output-handle",
+         "target":"da77c552-5043-4ff4-812b-189149fcc540",
+         "targetHandle":"input-handle-top",
+         "id":"reactflow__edge-154a3e6a-5ab4-4fc7-b7f9-0bb50736fb20output-handle-da77c552-5043-4ff4-812b-189149fcc540input-handle-top",
+         "selected":false
+      },
+      {
+         "source":"da77c552-5043-4ff4-812b-189149fcc540",
+         "sourceHandle":"output-handle",
+         "target":"93a41471-2040-4eb5-a35f-ee479d833aff",
+         "targetHandle":"input-handle-top",
+         "id":"reactflow__edge-da77c552-5043-4ff4-812b-189149fcc540output-handle-93a41471-2040-4eb5-a35f-ee479d833affinput-handle-top"
       }
    ],
    "id":"29311162-e0a2-4f3a-ae69-d171229b6e84",

@@ -525,7 +525,7 @@
       {
          "id":"7d7dd248-eab8-4e5f-9c88-e488995826d7",
          "position":{
-            "x":1420.8095793786513,
+            "x":1422.8095793786513,
             "y":1217.5465757728257
          },
          "type":"RoadmapNode",
@@ -546,8 +546,8 @@
          "height":43,
          "selected":false,
          "positionAbsolute":{
-            "x":2431.392663714783,
-            "y":1026.0739496337428
+            "x":2561.8867935502026,
+            "y":1645.894046707207
          },
          "dragging":false
       },
@@ -567,7 +567,7 @@
             "isContainer":false,
             "label":"CQRS",
             "isReadonly":false,
-            "url":"https://github.com/msg-CareerPaths/csharp-training/blob/main/chapters/opt-CQRS.md"
+            "url":"https://raw.githubusercontent.com/msg-CareerPaths/csharp-training/main/chapters/opt-CQRS.md"
          },
          "extent":"parent",
          "parentNode":"f47e1b57-a554-4882-8eb5-7336b3f2bb08",
@@ -596,7 +596,7 @@
             "isContainer":false,
             "label":"WebSocket",
             "isReadonly":false,
-            "url":"https://github.com/msg-CareerPaths/csharp-training/blob/main/chapters/opt-web-socket.md"
+            "url":"https://raw.githubusercontent.com/msg-CareerPaths/csharp-training/main/chapters/opt-web-socket.md"
          },
          "extent":"parent",
          "parentNode":"f47e1b57-a554-4882-8eb5-7336b3f2bb08",
@@ -625,7 +625,7 @@
             "isContainer":false,
             "label":"Kafka",
             "isReadonly":false,
-            "url":"https://github.com/msg-CareerPaths/csharp-training/blob/main/chapters/opt-kafka.md"
+            "url":"https://raw.githubusercontent.com/msg-CareerPaths/csharp-training/main/chapters/opt-kafka.md"
          },
          "extent":"parent",
          "parentNode":"f47e1b57-a554-4882-8eb5-7336b3f2bb08",
@@ -1078,8 +1078,8 @@
       {
          "id":"ad7f298d-3a72-4c6e-aebd-6a8882c415c6",
          "position":{
-            "x":1455.0127357687886,
-            "y":508.00000000000034
+            "x":1453.0127357687886,
+            "y":510.00000000000034
          },
          "type":"RoadmapNode",
          "zIndex":11,
@@ -1099,8 +1099,8 @@
          "height":43,
          "selected":false,
          "positionAbsolute":{
-            "x":3135.005240821864,
-            "y":1112.0156607929312
+            "x":2584.08994994034,
+            "y":1082.3474709343818
          },
          "dragging":false
       },
@@ -1445,7 +1445,7 @@
             "isContainer":false,
             "label":"Time Bookings",
             "isReadonly":false,
-            "url":"https://github.com/msg-CareerPaths/csharp-training/blob/main/chapters/timebooking.md"
+            "url":"https://raw.githubusercontent.com/msg-CareerPaths/csharp-training/main/chapters/timebooking.md"
          },
          "extent":"parent",
          "parentNode":"f47e1b57-a554-4882-8eb5-7336b3f2bb08",
@@ -1490,8 +1490,8 @@
       {
          "id":"f47e1b57-a554-4882-8eb5-7336b3f2bb08",
          "position":{
-            "x":1131.0772141715513,
-            "y":572.3474709343815
+            "x":1161.0772141715513,
+            "y":452.34747093438136
          },
          "type":"RoadmapNode",
          "zIndex":10,
@@ -1509,11 +1509,11 @@
          },
          "width":1710,
          "height":1298,
-         "selected":false,
+         "selected":true,
          "dragging":false,
          "positionAbsolute":{
-            "x":1131.0772141715513,
-            "y":572.3474709343815
+            "x":1161.0772141715513,
+            "y":452.34747093438136
          }
       }
    ],

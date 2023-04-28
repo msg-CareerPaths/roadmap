@@ -1,0 +1,1012 @@
+{
+    "nodes": [
+        {
+            "id": "6b01b098-2f52-4a68-b557-7e03d8a6b242",
+            "position": { "x": 301.815247731579, "y": 1321.5003384799124 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Logging, tracing, metrics",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/chapters/500-monitoring-tracing-logging.md"
+            },
+            "extent": "parent",
+            "parentNode": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "width": 334,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 12.88854750287905, "y": 2323.0982088655974 },
+            "dragging": false
+        },
+        {
+            "id": "8b0a52ca-03fc-4eb7-b8c5-782478eeaee0",
+            "position": { "x": 60.98778924922473, "y": 1200.2955165086823 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Optional path",
+                "isContainer": false,
+                "label": "Serverless authentication",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/chapters/430-opt-serverless-authentication.md"
+            },
+            "extent": "parent",
+            "parentNode": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "width": 341,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -227.9389109794752, "y": 2201.8933868943673 },
+            "dragging": false
+        },
+        {
+            "id": "d01ab3ea-ce27-4b93-ae0e-33371f803ba6",
+            "position": { "x": 75.28459817651668, "y": 1098.2962055911162 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Optional path",
+                "isContainer": false,
+                "label": "Serverless containers",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/chapters/420-opt-serverless-containers.md"
+            },
+            "extent": "parent",
+            "parentNode": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "width": 305,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -213.64210205218325, "y": 2099.894075976801 },
+            "dragging": false
+        },
+        {
+            "id": "f1bd8a1e-bd69-4196-beb7-2be6f436ecb5",
+            "position": { "x": 317.14632648125206, "y": 978.588974266374 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Functions-as-a-service",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/chapters/410-functions-as-a-service.md"
+            },
+            "extent": "parent",
+            "parentNode": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "width": 314,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -54.486655307234344, "y": 2064.0418245668425 },
+            "dragging": false
+        },
+        {
+            "id": "92d1b554-5577-4d2c-bf29-01b08be8331e",
+            "position": { "x": 291.9184252534755, "y": 875.3707107364235 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Serverless frontend hosting",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/chapters/400-serverless-frontend-hosting.md"
+            },
+            "extent": "parent",
+            "parentNode": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "width": 362,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -79.71455653501089, "y": 1960.823561036892 },
+            "dragging": false
+        },
+        {
+            "id": "a5e6fa40-cb32-4656-a2f5-583e2f4ebc48",
+            "position": { "x": 186.06611946926552, "y": 760.8420726677621 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Using cloud-native services for running containers",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/chapters/300-containers.md"
+            },
+            "extent": "parent",
+            "parentNode": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "width": 577,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -185.5668623192209, "y": 1846.2949229682306 },
+            "dragging": false
+        },
+        {
+            "id": "4ade9b0a-ca7f-4028-bf66-b79a51be9c80",
+            "position": { "x": 315.41197699553345, "y": 663.1021759880709 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Docker basics & usage",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/chapters/300-containers.md"
+            },
+            "extent": "parent",
+            "parentNode": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "width": 316,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -56.22100479295297, "y": 1748.5550262885395 },
+            "dragging": false
+        },
+        {
+            "id": "6e53f1e4-d3f1-437f-a741-85079b2a388f",
+            "position": { "x": 19.704315364635193, "y": 554.7522633428052 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Optional path",
+                "isContainer": false,
+                "label": "IaC: Defining infrastructure with AWS CDK ",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/chapters/210-opt-iac-cdk.md"
+            },
+            "extent": "parent",
+            "parentNode": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "width": 498,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -349.6312697138572, "y": 1640.5721318547871 },
+            "dragging": false
+        },
+        {
+            "id": "1b511bd4-9fa0-4d4b-97b1-d19944298274",
+            "position": { "x": 393.39829895018477, "y": 493.43034327584064 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Optional path",
+                "isContainer": false,
+                "label": "IaC: Defining infrastructure with Terraform",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/chapters/200-opt-iac-terraform.md"
+            },
+            "extent": "parent",
+            "parentNode": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "width": 500,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 24.06271387169238, "y": 1575.734495221312 },
+            "dragging": false
+        },
+        {
+            "id": "3ecb5d37-a77a-4789-93a7-e423e0b16ba8",
+            "position": { "x": 236.6318611293891, "y": 374.47566372903316 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "IaaS: Autoscaling and load balancing",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/chapters/120-iaas-autoscaling-and-load-balancing.md"
+            },
+            "extent": "parent",
+            "parentNode": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "width": 452,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -132.70372394910328, "y": 1460.295532241015 },
+            "dragging": false
+        },
+        {
+            "id": "346895f2-25ff-488a-ae13-faa6413ee752",
+            "position": { "x": 168.85865818456398, "y": 275.6876051992881 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "IaaS: Using managed backing services (DB, Cache)",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/chapters/110-iaas-managed-backing-services.md"
+            },
+            "extent": "parent",
+            "parentNode": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "width": 585,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -200.4769268939284, "y": 1361.50747371127 },
+            "dragging": false
+        },
+        {
+            "id": "49ad5a10-54b2-4aca-a6ba-b87688264f58",
+            "position": { "x": 236.6318611293891, "y": 178.0482450245404 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "IaaS: Running apps on \"bare\" servers",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/chapters/100-iaas-bare-servers.md"
+            },
+            "extent": "parent",
+            "parentNode": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "width": 449,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -132.70372394910328, "y": 1263.8681135365223 },
+            "dragging": false
+        },
+        {
+            "id": "48011540-59d9-47a6-bc82-0637f4e591c7",
+            "position": { "x": 353.79909333908654, "y": 81.55758320478935 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Introduction",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/chapters/000-introduction.md"
+            },
+            "extent": "parent",
+            "parentNode": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "width": 215,
+            "height": 43,
+            "selected": false,
+            "dragging": false,
+            "positionAbsolute": { "x": -16.685190094402998, "y": 1168.5261500717684 }
+        },
+        {
+            "id": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "position": { "x": -303.0511290317438, "y": 1658.0878529428314 },
+            "type": "RoadmapNode",
+            "zIndex": 10,
+            "style": { "zIndex": 10, "height": 1412, "width": 913 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": true,
+                "label": "DevOps Intro",
+                "isReadonly": false,
+                "url": "https://github.com/msg-CareerPaths/aws-devops-training/blob/master/README.md"
+            },
+            "width": 913,
+            "height": 1412,
+            "selected": true,
+            "dragging": false,
+            "positionAbsolute": { "x": -303.0511290317438, "y": 1658.0878529428314 }
+        },
+        {
+            "id": "62d2a0ae-2d4d-4fb1-9537-982da6eea49f",
+            "position": { "x": 297.6982212493199, "y": 811.0392524318554 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Infrastructure As Code ",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/009-infrastructure-as-code.md"
+            },
+            "extent": "parent",
+            "parentNode": "4d205c0b-e289-430c-ac4a-c439116175a5",
+            "width": 314,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 775.0164284188124, "y": 3061.4028380928703 },
+            "dragging": false
+        },
+        {
+            "id": "312e16c9-6fee-41e8-96ed-8d03c6728207",
+            "position": { "x": 293.88742836432255, "y": 723.0379259216543 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Simple Storage Service",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/008-aws-s3.md"
+            },
+            "extent": "parent",
+            "parentNode": "4d205c0b-e289-430c-ac4a-c439116175a5",
+            "width": 319,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 771.2056355338151, "y": 2973.401511582669 },
+            "dragging": false
+        },
+        {
+            "id": "1435bc0b-845a-4053-b5a5-e9d671fc2c87",
+            "position": { "x": 271.49999999999966, "y": 634.4999999999991 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Relational Database Service",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/007-aws-rds.md"
+            },
+            "extent": "parent",
+            "parentNode": "4d205c0b-e289-430c-ac4a-c439116175a5",
+            "width": 366,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 748.8182071694922, "y": 2884.863585661014 },
+            "dragging": false
+        },
+        {
+            "id": "bbe1dcbf-8d8c-4d5c-a8c5-1aa770f8432e",
+            "position": { "x": 285.9999999999999, "y": 550.9999999999995 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Elastic Container Service",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/006-aws-ecs.md"
+            },
+            "extent": "parent",
+            "parentNode": "4d205c0b-e289-430c-ac4a-c439116175a5",
+            "width": 336,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 740.3182071694924, "y": 2768.3635856610144 },
+            "dragging": false
+        },
+        {
+            "id": "0d56a1ca-30db-4ce9-9337-856f049e8d12",
+            "position": { "x": 295.08629515235214, "y": 464.8566140505577 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Elastic Compute Cloud",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/005-aws-ec2.md"
+            },
+            "extent": "parent",
+            "parentNode": "4d205c0b-e289-430c-ac4a-c439116175a5",
+            "width": 317,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 749.4045023218447, "y": 2682.2201997115726 },
+            "dragging": false
+        },
+        {
+            "id": "488a103a-6ed3-4486-9014-7f7ad8cdb99e",
+            "position": { "x": 273.9919907732865, "y": 378.13917703090056 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Virtual Private Cloud (VPC)",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/004-aws-vpc.md"
+            },
+            "extent": "parent",
+            "parentNode": "4d205c0b-e289-430c-ac4a-c439116175a5",
+            "width": 356,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 728.310197942779, "y": 2595.5027626919154 },
+            "dragging": false
+        },
+        {
+            "id": "59dc161d-944b-4c24-a74e-84f009b25b38",
+            "position": { "x": 217.92469103087626, "y": 302.32842933562324 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Identity and Acces Management (IAM)",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/003-aws-iam.md"
+            },
+            "extent": "parent",
+            "parentNode": "4d205c0b-e289-430c-ac4a-c439116175a5",
+            "width": 467,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 672.2428982003688, "y": 2519.692014996638 },
+            "dragging": false
+        },
+        {
+            "id": "cd182a9c-3162-4049-a0a7-afbb21dd9fd7",
+            "position": { "x": 277.8174254360041, "y": 224.89472417042953 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "AWS Global Infrastructure",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/002-aws-intro.md"
+            },
+            "extent": "parent",
+            "parentNode": "4d205c0b-e289-430c-ac4a-c439116175a5",
+            "width": 346,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 732.1356326054967, "y": 2442.2583098314444 },
+            "dragging": false
+        },
+        {
+            "id": "681caaa9-022f-4697-ba67-fdaba3c68169",
+            "position": { "x": 366.81875194620557, "y": 138.54229727026632 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Docker",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/001-docker.md"
+            },
+            "extent": "parent",
+            "parentNode": "4d205c0b-e289-430c-ac4a-c439116175a5",
+            "width": 166,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 821.1369591156981, "y": 2355.905882931281 },
+            "dragging": false
+        },
+        {
+            "id": "fbfd234c-2d26-41bf-b10e-c4ebe0ba84fd",
+            "position": { "x": 330.32511306011975, "y": 65.37841423000555 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Working Mode",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/chapters/000-intro.md"
+            },
+            "extent": "parent",
+            "parentNode": "4d205c0b-e289-430c-ac4a-c439116175a5",
+            "width": 237,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 784.6433202296123, "y": 2282.7419998910204 },
+            "dragging": false
+        },
+        {
+            "id": "4d205c0b-e289-430c-ac4a-c439116175a5",
+            "position": { "x": -303.70923574713026, "y": 717.8929818867197 },
+            "type": "RoadmapNode",
+            "zIndex": 10,
+            "style": { "zIndex": 10, "height": 885, "width": 909 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": true,
+                "label": "AWS Cloud",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-cloud-training/main/README.md"
+            },
+            "width": 909,
+            "height": 885,
+            "selected": false,
+            "positionAbsolute": { "x": -303.70923574713026, "y": 717.8929818867197 },
+            "dragging": false
+        }
+    ],
+    "edges": [
+        {
+            "source": "c8ca1c37-2312-4866-9702-f78eda7677cd",
+            "sourceHandle": "output-handle",
+            "target": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-c8ca1c37-2312-4866-9702-f78eda7677cdoutput-handle-df9e3664-f9e1-4281-b9e4-2f84808eceafinput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "e6840380-7391-49eb-aee5-11ca1723a7bc",
+            "sourceHandle": "output-handle",
+            "target": "2307bbc9-98de-407a-b66b-b3616e35ca2a",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-e6840380-7391-49eb-aee5-11ca1723a7bcoutput-handle-2307bbc9-98de-407a-b66b-b3616e35ca2ainput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "2307bbc9-98de-407a-b66b-b3616e35ca2a",
+            "sourceHandle": "output-handle",
+            "target": "3a40243e-1c44-4946-b00d-593fd5c63037",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-2307bbc9-98de-407a-b66b-b3616e35ca2aoutput-handle-3a40243e-1c44-4946-b00d-593fd5c63037input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "3a40243e-1c44-4946-b00d-593fd5c63037",
+            "sourceHandle": "output-handle",
+            "target": "a6b58828-d7fd-48f8-ac20-7a93a63e38db",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-3a40243e-1c44-4946-b00d-593fd5c63037output-handle-a6b58828-d7fd-48f8-ac20-7a93a63e38dbinput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "a6b58828-d7fd-48f8-ac20-7a93a63e38db",
+            "sourceHandle": "output-handle",
+            "target": "2a33307c-590c-4a33-92e2-19bc9df35c92",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-a6b58828-d7fd-48f8-ac20-7a93a63e38dboutput-handle-2a33307c-590c-4a33-92e2-19bc9df35c92input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "a6b58828-d7fd-48f8-ac20-7a93a63e38db",
+            "sourceHandle": "output-handle",
+            "target": "5b2d85ad-d20e-4d4f-bcdf-cb9078eb54c2",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-a6b58828-d7fd-48f8-ac20-7a93a63e38dboutput-handle-5b2d85ad-d20e-4d4f-bcdf-cb9078eb54c2input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "a6b58828-d7fd-48f8-ac20-7a93a63e38db",
+            "sourceHandle": "output-handle",
+            "target": "d23c12f7-bad3-4a35-90ff-ebe34d76e563",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-a6b58828-d7fd-48f8-ac20-7a93a63e38dboutput-handle-d23c12f7-bad3-4a35-90ff-ebe34d76e563input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "5b2d85ad-d20e-4d4f-bcdf-cb9078eb54c2",
+            "sourceHandle": "output-handle",
+            "target": "79419a2b-62f7-4cf9-8f99-8154d23f5a2b",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-5b2d85ad-d20e-4d4f-bcdf-cb9078eb54c2output-handle-79419a2b-62f7-4cf9-8f99-8154d23f5a2binput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "79419a2b-62f7-4cf9-8f99-8154d23f5a2b",
+            "sourceHandle": "output-handle",
+            "target": "063b921e-9f01-4212-85af-4b4b3f07a99d",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-79419a2b-62f7-4cf9-8f99-8154d23f5a2boutput-handle-063b921e-9f01-4212-85af-4b4b3f07a99dinput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "063b921e-9f01-4212-85af-4b4b3f07a99d",
+            "sourceHandle": "output-handle",
+            "target": "3e6d75cb-c9f6-4a29-9b8e-da218ed11cf1",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-063b921e-9f01-4212-85af-4b4b3f07a99doutput-handle-3e6d75cb-c9f6-4a29-9b8e-da218ed11cf1input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "2a33307c-590c-4a33-92e2-19bc9df35c92",
+            "sourceHandle": "output-handle",
+            "target": "79419a2b-62f7-4cf9-8f99-8154d23f5a2b",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-2a33307c-590c-4a33-92e2-19bc9df35c92output-handle-79419a2b-62f7-4cf9-8f99-8154d23f5a2binput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "d23c12f7-bad3-4a35-90ff-ebe34d76e563",
+            "sourceHandle": "output-handle",
+            "target": "79419a2b-62f7-4cf9-8f99-8154d23f5a2b",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-d23c12f7-bad3-4a35-90ff-ebe34d76e563output-handle-79419a2b-62f7-4cf9-8f99-8154d23f5a2binput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "3e6d75cb-c9f6-4a29-9b8e-da218ed11cf1",
+            "sourceHandle": "output-handle",
+            "target": "14a099ca-e088-43b2-a311-9f124abdf6ff",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-3e6d75cb-c9f6-4a29-9b8e-da218ed11cf1output-handle-14a099ca-e088-43b2-a311-9f124abdf6ffinput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "14a099ca-e088-43b2-a311-9f124abdf6ff",
+            "sourceHandle": "output-handle",
+            "target": "be9ca739-9970-4706-8947-0180a41a5081",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-14a099ca-e088-43b2-a311-9f124abdf6ffoutput-handle-be9ca739-9970-4706-8947-0180a41a5081input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "be9ca739-9970-4706-8947-0180a41a5081",
+            "sourceHandle": "output-handle",
+            "target": "01ad712d-64a2-4520-a91f-fe4f6db0badd",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-be9ca739-9970-4706-8947-0180a41a5081output-handle-01ad712d-64a2-4520-a91f-fe4f6db0baddinput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "01ad712d-64a2-4520-a91f-fe4f6db0badd",
+            "sourceHandle": "output-handle",
+            "target": "5300421f-e969-4c3f-9dde-95445d5e6423",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-01ad712d-64a2-4520-a91f-fe4f6db0baddoutput-handle-5300421f-e969-4c3f-9dde-95445d5e6423input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "14a099ca-e088-43b2-a311-9f124abdf6ff",
+            "sourceHandle": "output-handle",
+            "target": "7b8dc35f-6be8-4a3d-a005-84328e666725",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-14a099ca-e088-43b2-a311-9f124abdf6ffoutput-handle-7b8dc35f-6be8-4a3d-a005-84328e666725input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "7b8dc35f-6be8-4a3d-a005-84328e666725",
+            "sourceHandle": "output-handle",
+            "target": "01ad712d-64a2-4520-a91f-fe4f6db0badd",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-7b8dc35f-6be8-4a3d-a005-84328e666725output-handle-01ad712d-64a2-4520-a91f-fe4f6db0baddinput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "5300421f-e969-4c3f-9dde-95445d5e6423",
+            "sourceHandle": "output-handle",
+            "target": "2cd35ae2-adfe-4697-a429-cdf23ae69ade",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-5300421f-e969-4c3f-9dde-95445d5e6423output-handle-2cd35ae2-adfe-4697-a429-cdf23ae69adeinput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "5300421f-e969-4c3f-9dde-95445d5e6423",
+            "sourceHandle": "output-handle",
+            "target": "4ca0da53-c501-44f9-b00c-495975b520f0",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-5300421f-e969-4c3f-9dde-95445d5e6423output-handle-4ca0da53-c501-44f9-b00c-495975b520f0input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "5300421f-e969-4c3f-9dde-95445d5e6423",
+            "sourceHandle": "output-handle",
+            "target": "2e64b9a0-ecea-4e0f-9963-64e6b57073f2",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-5300421f-e969-4c3f-9dde-95445d5e6423output-handle-2e64b9a0-ecea-4e0f-9963-64e6b57073f2input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "5300421f-e969-4c3f-9dde-95445d5e6423",
+            "sourceHandle": "output-handle",
+            "target": "7f5c41e1-2595-41e3-a69b-edce07eb530a",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-5300421f-e969-4c3f-9dde-95445d5e6423output-handle-7f5c41e1-2595-41e3-a69b-edce07eb530ainput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "5300421f-e969-4c3f-9dde-95445d5e6423",
+            "sourceHandle": "output-handle",
+            "target": "12cf19fc-1841-43e8-941d-b00fda91abed",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-5300421f-e969-4c3f-9dde-95445d5e6423output-handle-12cf19fc-1841-43e8-941d-b00fda91abedinput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "bc4f5381-2906-44a6-bb72-05e1521af7cc",
+            "sourceHandle": "output-handle",
+            "target": "4ba7bad6-3d97-4201-ae3f-a22f514bb2b7",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-bc4f5381-2906-44a6-bb72-05e1521af7ccoutput-handle-4ba7bad6-3d97-4201-ae3f-a22f514bb2b7input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "4ba7bad6-3d97-4201-ae3f-a22f514bb2b7",
+            "sourceHandle": "output-handle",
+            "target": "4733ecf5-3c6f-446c-ba7e-c49e43f57c75",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-4ba7bad6-3d97-4201-ae3f-a22f514bb2b7output-handle-4733ecf5-3c6f-446c-ba7e-c49e43f57c75input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "4733ecf5-3c6f-446c-ba7e-c49e43f57c75",
+            "sourceHandle": "output-handle",
+            "target": "03d7e7a8-a55d-4bfb-8fe6-1d33025336c1",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-4733ecf5-3c6f-446c-ba7e-c49e43f57c75output-handle-03d7e7a8-a55d-4bfb-8fe6-1d33025336c1input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "03d7e7a8-a55d-4bfb-8fe6-1d33025336c1",
+            "sourceHandle": "output-handle",
+            "target": "cc861cf8-8ce5-407e-bdd3-a4d45ddec199",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-03d7e7a8-a55d-4bfb-8fe6-1d33025336c1output-handle-cc861cf8-8ce5-407e-bdd3-a4d45ddec199input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "cc861cf8-8ce5-407e-bdd3-a4d45ddec199",
+            "sourceHandle": "output-handle",
+            "target": "ddfa80aa-a8d1-4491-a451-690a2793ae12",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-cc861cf8-8ce5-407e-bdd3-a4d45ddec199output-handle-ddfa80aa-a8d1-4491-a451-690a2793ae12input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "ddfa80aa-a8d1-4491-a451-690a2793ae12",
+            "sourceHandle": "output-handle",
+            "target": "f125fb66-3ef9-4c5c-9ae4-76612195c7a2",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-ddfa80aa-a8d1-4491-a451-690a2793ae12output-handle-f125fb66-3ef9-4c5c-9ae4-76612195c7a2input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "f125fb66-3ef9-4c5c-9ae4-76612195c7a2",
+            "sourceHandle": "output-handle",
+            "target": "2ed3ec56-dd0a-4a13-a14b-9da3f475d34d",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-f125fb66-3ef9-4c5c-9ae4-76612195c7a2output-handle-2ed3ec56-dd0a-4a13-a14b-9da3f475d34dinput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "2ed3ec56-dd0a-4a13-a14b-9da3f475d34d",
+            "sourceHandle": "output-handle",
+            "target": "9c32354c-f937-4d17-9e0b-cf6e9d6e064c",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-2ed3ec56-dd0a-4a13-a14b-9da3f475d34doutput-handle-9c32354c-f937-4d17-9e0b-cf6e9d6e064cinput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "2ed3ec56-dd0a-4a13-a14b-9da3f475d34d",
+            "sourceHandle": "output-handle",
+            "target": "48b38841-61ef-4cda-88a6-c40f6c746c77",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-2ed3ec56-dd0a-4a13-a14b-9da3f475d34doutput-handle-48b38841-61ef-4cda-88a6-c40f6c746c77input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "2ed3ec56-dd0a-4a13-a14b-9da3f475d34d",
+            "sourceHandle": "output-handle",
+            "target": "7a092bdf-ac27-467c-aa71-a1c9728d7daf",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-2ed3ec56-dd0a-4a13-a14b-9da3f475d34doutput-handle-7a092bdf-ac27-467c-aa71-a1c9728d7dafinput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "7a092bdf-ac27-467c-aa71-a1c9728d7daf",
+            "sourceHandle": "output-handle",
+            "target": "b677429a-fd47-4af2-8630-5642693d4b08",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-7a092bdf-ac27-467c-aa71-a1c9728d7dafoutput-handle-b677429a-fd47-4af2-8630-5642693d4b08input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "ea2c5cf2-a2ee-4304-a1c9-babe505c1602",
+            "sourceHandle": "output-handle",
+            "target": "066d2a9d-7257-45c1-bed6-570736868b08",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-ea2c5cf2-a2ee-4304-a1c9-babe505c1602output-handle-066d2a9d-7257-45c1-bed6-570736868b08input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "066d2a9d-7257-45c1-bed6-570736868b08",
+            "sourceHandle": "output-handle",
+            "target": "21963041-a897-49a8-8425-8c85cec1f882",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-066d2a9d-7257-45c1-bed6-570736868b08output-handle-21963041-a897-49a8-8425-8c85cec1f882input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "48b38841-61ef-4cda-88a6-c40f6c746c77",
+            "sourceHandle": "output-handle",
+            "target": "ea2c5cf2-a2ee-4304-a1c9-babe505c1602",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-48b38841-61ef-4cda-88a6-c40f6c746c77output-handle-ea2c5cf2-a2ee-4304-a1c9-babe505c1602input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+            "sourceHandle": "output-handle",
+            "target": "4d205c0b-e289-430c-ac4a-c439116175a5",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-df9e3664-f9e1-4281-b9e4-2f84808eceafoutput-handle-4d205c0b-e289-430c-ac4a-c439116175a5input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "fbfd234c-2d26-41bf-b10e-c4ebe0ba84fd",
+            "sourceHandle": "output-handle",
+            "target": "681caaa9-022f-4697-ba67-fdaba3c68169",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-fbfd234c-2d26-41bf-b10e-c4ebe0ba84fdoutput-handle-681caaa9-022f-4697-ba67-fdaba3c68169input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "681caaa9-022f-4697-ba67-fdaba3c68169",
+            "sourceHandle": "output-handle",
+            "target": "cd182a9c-3162-4049-a0a7-afbb21dd9fd7",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-681caaa9-022f-4697-ba67-fdaba3c68169output-handle-cd182a9c-3162-4049-a0a7-afbb21dd9fd7input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "cd182a9c-3162-4049-a0a7-afbb21dd9fd7",
+            "sourceHandle": "output-handle",
+            "target": "59dc161d-944b-4c24-a74e-84f009b25b38",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-cd182a9c-3162-4049-a0a7-afbb21dd9fd7output-handle-59dc161d-944b-4c24-a74e-84f009b25b38input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "59dc161d-944b-4c24-a74e-84f009b25b38",
+            "sourceHandle": "output-handle",
+            "target": "488a103a-6ed3-4486-9014-7f7ad8cdb99e",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-59dc161d-944b-4c24-a74e-84f009b25b38output-handle-488a103a-6ed3-4486-9014-7f7ad8cdb99einput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "488a103a-6ed3-4486-9014-7f7ad8cdb99e",
+            "sourceHandle": "output-handle",
+            "target": "0d56a1ca-30db-4ce9-9337-856f049e8d12",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-488a103a-6ed3-4486-9014-7f7ad8cdb99eoutput-handle-0d56a1ca-30db-4ce9-9337-856f049e8d12input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "0d56a1ca-30db-4ce9-9337-856f049e8d12",
+            "sourceHandle": "output-handle",
+            "target": "bbe1dcbf-8d8c-4d5c-a8c5-1aa770f8432e",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-0d56a1ca-30db-4ce9-9337-856f049e8d12output-handle-bbe1dcbf-8d8c-4d5c-a8c5-1aa770f8432einput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "bbe1dcbf-8d8c-4d5c-a8c5-1aa770f8432e",
+            "sourceHandle": "output-handle",
+            "target": "1435bc0b-845a-4053-b5a5-e9d671fc2c87",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-bbe1dcbf-8d8c-4d5c-a8c5-1aa770f8432eoutput-handle-1435bc0b-845a-4053-b5a5-e9d671fc2c87input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "1435bc0b-845a-4053-b5a5-e9d671fc2c87",
+            "sourceHandle": "output-handle",
+            "target": "312e16c9-6fee-41e8-96ed-8d03c6728207",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-1435bc0b-845a-4053-b5a5-e9d671fc2c87output-handle-312e16c9-6fee-41e8-96ed-8d03c6728207input-handle-top",
+            "selected": false
+        },
+        {
+            "source": "312e16c9-6fee-41e8-96ed-8d03c6728207",
+            "sourceHandle": "output-handle",
+            "target": "62d2a0ae-2d4d-4fb1-9537-982da6eea49f",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-312e16c9-6fee-41e8-96ed-8d03c6728207output-handle-62d2a0ae-2d4d-4fb1-9537-982da6eea49finput-handle-top",
+            "selected": false
+        },
+        {
+            "source": "4d205c0b-e289-430c-ac4a-c439116175a5",
+            "sourceHandle": "output-handle",
+            "target": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-4d205c0b-e289-430c-ac4a-c439116175a5output-handle-c7b53c2b-b6fa-4ca5-a460-24d6644b9df4input-handle-top"
+        },
+        {
+            "source": "48011540-59d9-47a6-bc82-0637f4e591c7",
+            "sourceHandle": "output-handle",
+            "target": "49ad5a10-54b2-4aca-a6ba-b87688264f58",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-48011540-59d9-47a6-bc82-0637f4e591c7output-handle-49ad5a10-54b2-4aca-a6ba-b87688264f58input-handle-top"
+        },
+        {
+            "source": "49ad5a10-54b2-4aca-a6ba-b87688264f58",
+            "sourceHandle": "output-handle",
+            "target": "346895f2-25ff-488a-ae13-faa6413ee752",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-49ad5a10-54b2-4aca-a6ba-b87688264f58output-handle-346895f2-25ff-488a-ae13-faa6413ee752input-handle-top"
+        },
+        {
+            "source": "346895f2-25ff-488a-ae13-faa6413ee752",
+            "sourceHandle": "output-handle",
+            "target": "3ecb5d37-a77a-4789-93a7-e423e0b16ba8",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-346895f2-25ff-488a-ae13-faa6413ee752output-handle-3ecb5d37-a77a-4789-93a7-e423e0b16ba8input-handle-top"
+        },
+        {
+            "source": "3ecb5d37-a77a-4789-93a7-e423e0b16ba8",
+            "sourceHandle": "output-handle",
+            "target": "1b511bd4-9fa0-4d4b-97b1-d19944298274",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-3ecb5d37-a77a-4789-93a7-e423e0b16ba8output-handle-1b511bd4-9fa0-4d4b-97b1-d19944298274input-handle-top"
+        },
+        {
+            "source": "3ecb5d37-a77a-4789-93a7-e423e0b16ba8",
+            "sourceHandle": "output-handle",
+            "target": "6e53f1e4-d3f1-437f-a741-85079b2a388f",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-3ecb5d37-a77a-4789-93a7-e423e0b16ba8output-handle-6e53f1e4-d3f1-437f-a741-85079b2a388finput-handle-top"
+        },
+        {
+            "source": "6e53f1e4-d3f1-437f-a741-85079b2a388f",
+            "sourceHandle": "output-handle",
+            "target": "4ade9b0a-ca7f-4028-bf66-b79a51be9c80",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-6e53f1e4-d3f1-437f-a741-85079b2a388foutput-handle-4ade9b0a-ca7f-4028-bf66-b79a51be9c80input-handle-top"
+        },
+        {
+            "source": "1b511bd4-9fa0-4d4b-97b1-d19944298274",
+            "sourceHandle": "output-handle",
+            "target": "4ade9b0a-ca7f-4028-bf66-b79a51be9c80",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-1b511bd4-9fa0-4d4b-97b1-d19944298274output-handle-4ade9b0a-ca7f-4028-bf66-b79a51be9c80input-handle-top"
+        },
+        {
+            "source": "4ade9b0a-ca7f-4028-bf66-b79a51be9c80",
+            "sourceHandle": "output-handle",
+            "target": "a5e6fa40-cb32-4656-a2f5-583e2f4ebc48",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-4ade9b0a-ca7f-4028-bf66-b79a51be9c80output-handle-a5e6fa40-cb32-4656-a2f5-583e2f4ebc48input-handle-top"
+        },
+        {
+            "source": "a5e6fa40-cb32-4656-a2f5-583e2f4ebc48",
+            "sourceHandle": "output-handle",
+            "target": "92d1b554-5577-4d2c-bf29-01b08be8331e",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-a5e6fa40-cb32-4656-a2f5-583e2f4ebc48output-handle-92d1b554-5577-4d2c-bf29-01b08be8331einput-handle-top"
+        },
+        {
+            "source": "92d1b554-5577-4d2c-bf29-01b08be8331e",
+            "sourceHandle": "output-handle",
+            "target": "f1bd8a1e-bd69-4196-beb7-2be6f436ecb5",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-92d1b554-5577-4d2c-bf29-01b08be8331eoutput-handle-f1bd8a1e-bd69-4196-beb7-2be6f436ecb5input-handle-top"
+        },
+        {
+            "source": "f1bd8a1e-bd69-4196-beb7-2be6f436ecb5",
+            "sourceHandle": "output-handle",
+            "target": "6b01b098-2f52-4a68-b557-7e03d8a6b242",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-f1bd8a1e-bd69-4196-beb7-2be6f436ecb5output-handle-6b01b098-2f52-4a68-b557-7e03d8a6b242input-handle-top"
+        },
+        {
+            "source": "f1bd8a1e-bd69-4196-beb7-2be6f436ecb5",
+            "sourceHandle": "output-handle",
+            "target": "d01ab3ea-ce27-4b93-ae0e-33371f803ba6",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-f1bd8a1e-bd69-4196-beb7-2be6f436ecb5output-handle-d01ab3ea-ce27-4b93-ae0e-33371f803ba6input-handle-top"
+        },
+        {
+            "source": "d01ab3ea-ce27-4b93-ae0e-33371f803ba6",
+            "sourceHandle": "output-handle",
+            "target": "8b0a52ca-03fc-4eb7-b8c5-782478eeaee0",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-d01ab3ea-ce27-4b93-ae0e-33371f803ba6output-handle-8b0a52ca-03fc-4eb7-b8c5-782478eeaee0input-handle-top"
+        },
+        {
+            "source": "8b0a52ca-03fc-4eb7-b8c5-782478eeaee0",
+            "sourceHandle": "output-handle",
+            "target": "6b01b098-2f52-4a68-b557-7e03d8a6b242",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-8b0a52ca-03fc-4eb7-b8c5-782478eeaee0output-handle-6b01b098-2f52-4a68-b557-7e03d8a6b242input-handle-top"
+        }
+    ],
+    "id": "ca375f3c-b9bc-4360-938b-24a3c094a9e7",
+    "tags": ["aws"],
+    "title": "DevOps(AWS)",
+    "targetAudience": "Senior & IT Consultants"
+}

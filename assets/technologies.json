@@ -19,6 +19,11 @@
         "label": "AWS",
         "imageUrl": "/images/aws.svg"
     },
+    "azure": {
+        "value": "azure",
+        "label": "Azure",
+        "imageUrl": "/images/azure.svg"
+    },
     "react": {
         "value": "react",
         "label": "React",

@@ -1,965 +1,1522 @@
 {
-    "nodes": [
-        {
-            "id": "177d7305-0da6-4ddd-b6b0-28d6724bdd33",
-            "position": { "x": 294, "y": 1100 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "Microservices",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-900-microservices.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 233,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2537.5672724650076, "y": -43.27786649663403 },
-            "dragging": false
-        },
-        {
-            "id": "a920bdc5-92a4-4ccc-9239-904842ed6356",
-            "position": { "x": 320, "y": 1014 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "GraphQL",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-800-graphql.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 182,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2511.5672724650076, "y": -231.27786649663403 },
-            "dragging": false
-        },
-        {
-            "id": "f748a4c0-a9b7-4882-b6fe-f62461a977d6",
-            "position": { "x": 321.08127826503005, "y": 936.9187217349701 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "OpenAPI",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-700-openapi.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 182,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2510.4859941999775, "y": -308.35914476166397 },
-            "dragging": false
-        },
-        {
-            "id": "0d208dbf-ad3a-4bab-8505-d21ebb398121",
-            "position": { "x": 305.6262285556995, "y": 851.472294341948 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "Web Socket",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-600-websockets.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 212,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2525.941043909308, "y": -393.80557215468605 },
-            "dragging": false
-        },
-        {
-            "id": "bf213e45-860e-40d5-97b9-3f5dbe2a4865",
-            "position": { "x": 460.9187217349695, "y": 724.4863430799779 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "Mailing",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-500-mailing.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 169,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2370.648550730038, "y": -520.7915234166561 },
-            "dragging": false
-        },
-        {
-            "id": "4d1b605d-d8eb-4e4d-a630-7664e28994f8",
-            "position": { "x": 196.08061500992926, "y": 733.5676213450082 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "RabbitMQ",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-400-rabbitmq.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 194,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2635.4866574550783, "y": -511.7102451516258 },
-            "dragging": false
-        },
-        {
-            "id": "89e98acb-8df0-4382-98e0-e9a22f9dfa6d",
-            "position": { "x": 348, "y": 626 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "MongoDB",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-200-mongodb.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 194,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -1600.0516257796835, "y": -950.7622198113102 },
-            "dragging": false
-        },
-        {
-            "id": "bd5b50bc-8b2a-4126-881d-59942b6a5365",
-            "position": { "x": 587.5226892457613, "y": 626.3182071694926 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "OAuth",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-300-oauth.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 158,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2244.0445832192463, "y": -616.9596593271415 },
-            "dragging": false
-        },
-        {
-            "id": "b4ee23fe-2b6f-4600-a247-0b1e6911f5f0",
-            "position": { "x": 57.41421356237288, "y": 622.5857864376269 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "Task Scheduler",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-100-task-scheduler.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 245,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -1890.6374122173106, "y": -954.1764333736833 },
-            "dragging": false
-        },
-        {
-            "id": "391d24c1-fe9d-4749-8184-fe60ea20d18d",
-            "position": { "x": 327.08964152537146, "y": 520.6364143389851 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "Axios",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/700-axios.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 152,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2504.477630939636, "y": -622.6414521576489 },
-            "dragging": false
-        },
-        {
-            "id": "037b6576-0773-4287-9be5-4fae6f10c13b",
-            "position": { "x": 277.7112272953659, "y": 445.2728286779703 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "The `fs` Module",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/600-the-fs-module.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 249,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2553.8560451696417, "y": -698.0050378186637 },
-            "dragging": false
-        },
-        {
-            "id": "80e88652-daea-431f-8cdf-5aaace321b38",
-            "position": { "x": 312.8134664743816, "y": 364.9490442201119 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "Security",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/500-security.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 176,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2518.753805990626, "y": -778.3288222765221 },
-            "dragging": false
-        },
-        {
-            "id": "f0f69594-74b1-4506-949c-7828c725efab",
-            "position": { "x": 306.53538438032047, "y": 283.3634312495444 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "Database",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/400-database.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 190,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2525.031888084687, "y": -859.9144352470896 },
-            "dragging": false
-        },
-        {
-            "id": "dcbd9225-f93a-46cd-96a5-6a4180fb98ad",
-            "position": { "x": 296.37467504308324, "y": 196.37467504308347 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "REST APIs",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/300-rest-api.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 199,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2535.1925974219243, "y": -946.9031914535506 },
-            "dragging": false
-        },
-        {
-            "id": "93ca60d0-43f5-4a68-b870-a8fd807bf74d",
-            "position": { "x": 445.25187540310844, "y": 114.89444430272829 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "Nest js",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/200-nestjs.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 165,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2386.315397061899, "y": -1028.3834221939057 },
-            "dragging": false
-        },
-        {
-            "id": "6028ef3c-791f-4bf6-8e7f-2a2c54bd1e85",
-            "position": { "x": 168.06601717798185, "y": 110.89444430272829 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "Node.js",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/100-nodejs.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 172,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2663.5012552870257, "y": -1032.3834221939057 },
-            "dragging": false
-        },
-        {
-            "id": "678f07dc-5a25-4324-b4f9-f380eb0a710a",
-            "position": { "x": 292.03152929257567, "y": 31.69848480983501 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "Introduction",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/000-intro.md"
-            },
-            "extent": "parent",
-            "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "width": 215,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -2539.535743172432, "y": -1111.579381686799 },
-            "dragging": false
-        },
-        {
-            "id": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "position": { "x": -1081.5672724650076, "y": -1169.277866496634 },
-            "type": "RoadmapNode",
-            "zIndex": 10,
-            "style": { "zIndex": 10, "height": 1204, "width": 807 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": true,
-                "label": "NodeJS",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/readme.md"
-            },
-            "width": 807,
-            "height": 1204,
-            "selected": false,
-            "positionAbsolute": { "x": -1081.5672724650076, "y": -1169.277866496634 },
-            "dragging": false
-        },
-        {
-            "id": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "position": { "x": -1277.8148514858171, "y": 145.88225461580544 },
-            "type": "RoadmapNode",
-            "zIndex": 10,
-            "style": { "zIndex": 10, "height": 1184, "width": 1217 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": true,
-                "label": "Angular ",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/README.md"
-            },
-            "width": 1217,
-            "height": 1184,
-            "selected": true,
-            "dragging": false,
-            "positionAbsolute": { "x": -1277.8148514858171, "y": 145.88225461580544 }
-        },
-        {
-            "id": "21963041-a897-49a8-8425-8c85cec1f882",
-            "position": { "x": 345.7411011265923, "y": 1082 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Others",
-                "isContainer": false,
-                "label": "Frontend Development - Learn More",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/others-100-frontend-development-learn-more.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 441,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": -952.0737503592248, "y": 1285.8822546158053 },
-            "dragging": false
-        },
-        {
-            "id": "066d2a9d-7257-45c1-bed6-570736868b08",
-            "position": { "x": 403.63027932178306, "y": 1002.3485269824271 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "Mono-Repository with Nx",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/opt-600-monorepository-nx.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 339,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 674.1681806524466, "y": 1920.091601743538 },
-            "dragging": false
-        },
-        {
-            "id": "ea2c5cf2-a2ee-4304-a1c9-babe505c1602",
-            "position": { "x": 364.5782080842222, "y": 907.6829082881809 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "Component Library Development",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/opt-500-component-library-development.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 413,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 635.1161094148857, "y": 1825.4259830492917 },
-            "dragging": false
-        },
-        {
-            "id": "b677429a-fd47-4af2-8630-5642693d4b08",
-            "position": { "x": 752.6226463679013, "y": 812.7347404677575 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "E2E Testing",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/opt-400-e2e-testing.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 211,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 1049.1605476985649, "y": 1722.4778152288684 },
-            "dragging": false
-        },
-        {
-            "id": "7a092bdf-ac27-467c-aa71-a1c9728d7daf",
-            "position": { "x": 748.3494224391852, "y": 740.1184032065953 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "Unit Testing",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/opt-300-unit-testing.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 212,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 1027.296287922386, "y": 1678.0429919337955 },
-            "dragging": false
-        },
-        {
-            "id": "48b38841-61ef-4cda-88a6-c40f6c746c77",
-            "position": { "x": 437.18151396608914, "y": 778.7271713220298 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "Normalized NgRx",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/opt-200-normalized-ngrx.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 266,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 733.7194152967527, "y": 1688.4702460831406 },
-            "dragging": false
-        },
-        {
-            "id": "9c32354c-f937-4d17-9e0b-cf6e9d6e064c",
-            "position": { "x": 70, "y": 774.0000000000002 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Optional path",
-                "isContainer": false,
-                "label": "Internationalization",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/opt-100-internationalization.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 283,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 366.53790133066354, "y": 1683.743074761111 },
-            "dragging": false
-        },
-        {
-            "id": "2ed3ec56-dd0a-4a13-a14b-9da3f475d34d",
-            "position": { "x": 414, "y": 601.9999999999998 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "Use Material Components",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/900-material-components-library.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 348,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 643.4897341949586, "y": 1693.2444690832021 },
-            "dragging": false
-        },
-        {
-            "id": "f125fb66-3ef9-4c5c-9ae4-76612195c7a2",
-            "position": { "x": 494, "y": 519.9999999999998 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "Simple NgRx",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/800-ngrx.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 221,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 723.4897341949586, "y": 1611.2444690832021 },
-            "dragging": false
-        },
-        {
-            "id": "ddfa80aa-a8d1-4491-a451-690a2793ae12",
-            "position": { "x": 362.4330419100926, "y": 441.94603557501364 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "Authentication, Authorization and Guards",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/700-authentication.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 492,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 663.9227761050512, "y": 1335.190504658216 },
-            "dragging": false
-        },
-        {
-            "id": "cc861cf8-8ce5-407e-bdd3-a4d45ddec199",
-            "position": { "x": 450.7204785759908, "y": 354.85828723706754 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "Forms and Validation",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/600-forms-and-validations.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 302,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 750.2102127709494, "y": 1274.10275632027 },
-            "dragging": false
-        },
-        {
-            "id": "03d7e7a8-a55d-4bfb-8fe6-1d33025336c1",
-            "position": { "x": 429.65760498882037, "y": 269.939055638142 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "Services using HttpClient",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/500-services-using-http-client.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 339,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 729.147339183779, "y": 1189.1835247213444 },
-            "dragging": false
-        },
-        {
-            "id": "4733ecf5-3c6f-446c-ba7e-c49e43f57c75",
-            "position": { "x": 482.142378764166, "y": 194.61731573020256 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11, "height": 43, "width": 242 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "Routing",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/400-routing.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 242,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 781.6321129591246, "y": 1113.861784813405 },
-            "dragging": false
-        },
-        {
-            "id": "4ba7bad6-3d97-4201-ae3f-a22f514bb2b7",
-            "position": { "x": 496.65653966109073, "y": 124.37447626713106 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "Angular Intro",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/200-angular-intro.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 222,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 796.1462738560493, "y": 1043.6189453503334 },
-            "dragging": false
-        },
-        {
-            "id": "bc4f5381-2906-44a6-bb72-05e1521af7cc",
-            "position": { "x": 452.40227140649847, "y": 26.908685288118704 },
-            "type": "RoadmapNode",
-            "zIndex": 11,
-            "style": { "zIndex": 11 },
-            "data": {
-                "pathType": "Main path",
-                "isContainer": false,
-                "label": "HTML and CSS Basics",
-                "isReadonly": false,
-                "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/100-html-and-css-basics.md"
-            },
-            "extent": "parent",
-            "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "width": 312,
-            "height": 43,
-            "selected": false,
-            "positionAbsolute": { "x": 751.8920056014571, "y": 946.1531543713211 },
-            "dragging": false
-        }
-    ],
-    "edges": [
-        {
-            "source": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
-            "sourceHandle": "output-handle",
-            "target": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-10d734c3-ca4d-47de-b601-e3a9c1e28a27output-handle-df9e3664-f9e1-4281-b9e4-2f84808eceafinput-handle-top"
-        },
-        {
-            "source": "678f07dc-5a25-4324-b4f9-f380eb0a710a",
-            "sourceHandle": "output-handle",
-            "target": "6028ef3c-791f-4bf6-8e7f-2a2c54bd1e85",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-678f07dc-5a25-4324-b4f9-f380eb0a710aoutput-handle-6028ef3c-791f-4bf6-8e7f-2a2c54bd1e85input-handle-top"
-        },
-        {
-            "source": "678f07dc-5a25-4324-b4f9-f380eb0a710a",
-            "sourceHandle": "output-handle",
-            "target": "93ca60d0-43f5-4a68-b870-a8fd807bf74d",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-678f07dc-5a25-4324-b4f9-f380eb0a710aoutput-handle-93ca60d0-43f5-4a68-b870-a8fd807bf74dinput-handle-top"
-        },
-        {
-            "source": "6028ef3c-791f-4bf6-8e7f-2a2c54bd1e85",
-            "sourceHandle": "output-handle",
-            "target": "dcbd9225-f93a-46cd-96a5-6a4180fb98ad",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-6028ef3c-791f-4bf6-8e7f-2a2c54bd1e85output-handle-dcbd9225-f93a-46cd-96a5-6a4180fb98adinput-handle-top"
-        },
-        {
-            "source": "93ca60d0-43f5-4a68-b870-a8fd807bf74d",
-            "sourceHandle": "output-handle",
-            "target": "dcbd9225-f93a-46cd-96a5-6a4180fb98ad",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-93ca60d0-43f5-4a68-b870-a8fd807bf74doutput-handle-dcbd9225-f93a-46cd-96a5-6a4180fb98adinput-handle-top"
-        },
-        {
-            "source": "dcbd9225-f93a-46cd-96a5-6a4180fb98ad",
-            "sourceHandle": "output-handle",
-            "target": "f0f69594-74b1-4506-949c-7828c725efab",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-dcbd9225-f93a-46cd-96a5-6a4180fb98adoutput-handle-f0f69594-74b1-4506-949c-7828c725efabinput-handle-top"
-        },
-        {
-            "source": "f0f69594-74b1-4506-949c-7828c725efab",
-            "sourceHandle": "output-handle",
-            "target": "80e88652-daea-431f-8cdf-5aaace321b38",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-f0f69594-74b1-4506-949c-7828c725efaboutput-handle-80e88652-daea-431f-8cdf-5aaace321b38input-handle-top"
-        },
-        {
-            "source": "80e88652-daea-431f-8cdf-5aaace321b38",
-            "sourceHandle": "output-handle",
-            "target": "037b6576-0773-4287-9be5-4fae6f10c13b",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-80e88652-daea-431f-8cdf-5aaace321b38output-handle-037b6576-0773-4287-9be5-4fae6f10c13binput-handle-top"
-        },
-        {
-            "source": "037b6576-0773-4287-9be5-4fae6f10c13b",
-            "sourceHandle": "output-handle",
-            "target": "391d24c1-fe9d-4749-8184-fe60ea20d18d",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-037b6576-0773-4287-9be5-4fae6f10c13boutput-handle-391d24c1-fe9d-4749-8184-fe60ea20d18dinput-handle-top"
-        },
-        {
-            "source": "391d24c1-fe9d-4749-8184-fe60ea20d18d",
-            "sourceHandle": "output-handle",
-            "target": "b4ee23fe-2b6f-4600-a247-0b1e6911f5f0",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-391d24c1-fe9d-4749-8184-fe60ea20d18doutput-handle-b4ee23fe-2b6f-4600-a247-0b1e6911f5f0input-handle-top"
-        },
-        {
-            "source": "391d24c1-fe9d-4749-8184-fe60ea20d18d",
-            "sourceHandle": "output-handle",
-            "target": "89e98acb-8df0-4382-98e0-e9a22f9dfa6d",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-391d24c1-fe9d-4749-8184-fe60ea20d18doutput-handle-89e98acb-8df0-4382-98e0-e9a22f9dfa6dinput-handle-top"
-        },
-        {
-            "source": "391d24c1-fe9d-4749-8184-fe60ea20d18d",
-            "sourceHandle": "output-handle",
-            "target": "bd5b50bc-8b2a-4126-881d-59942b6a5365",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-391d24c1-fe9d-4749-8184-fe60ea20d18doutput-handle-bd5b50bc-8b2a-4126-881d-59942b6a5365input-handle-top"
-        },
-        {
-            "source": "b4ee23fe-2b6f-4600-a247-0b1e6911f5f0",
-            "sourceHandle": "output-handle",
-            "target": "4d1b605d-d8eb-4e4d-a630-7664e28994f8",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-b4ee23fe-2b6f-4600-a247-0b1e6911f5f0output-handle-4d1b605d-d8eb-4e4d-a630-7664e28994f8input-handle-top"
-        },
-        {
-            "source": "89e98acb-8df0-4382-98e0-e9a22f9dfa6d",
-            "sourceHandle": "output-handle",
-            "target": "4d1b605d-d8eb-4e4d-a630-7664e28994f8",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-89e98acb-8df0-4382-98e0-e9a22f9dfa6doutput-handle-4d1b605d-d8eb-4e4d-a630-7664e28994f8input-handle-top"
-        },
-        {
-            "source": "89e98acb-8df0-4382-98e0-e9a22f9dfa6d",
-            "sourceHandle": "output-handle",
-            "target": "bf213e45-860e-40d5-97b9-3f5dbe2a4865",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-89e98acb-8df0-4382-98e0-e9a22f9dfa6doutput-handle-bf213e45-860e-40d5-97b9-3f5dbe2a4865input-handle-top"
-        },
-        {
-            "source": "bd5b50bc-8b2a-4126-881d-59942b6a5365",
-            "sourceHandle": "output-handle",
-            "target": "bf213e45-860e-40d5-97b9-3f5dbe2a4865",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-bd5b50bc-8b2a-4126-881d-59942b6a5365output-handle-bf213e45-860e-40d5-97b9-3f5dbe2a4865input-handle-top"
-        },
-        {
-            "source": "4d1b605d-d8eb-4e4d-a630-7664e28994f8",
-            "sourceHandle": "output-handle",
-            "target": "0d208dbf-ad3a-4bab-8505-d21ebb398121",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-4d1b605d-d8eb-4e4d-a630-7664e28994f8output-handle-0d208dbf-ad3a-4bab-8505-d21ebb398121input-handle-top"
-        },
-        {
-            "source": "bf213e45-860e-40d5-97b9-3f5dbe2a4865",
-            "sourceHandle": "output-handle",
-            "target": "0d208dbf-ad3a-4bab-8505-d21ebb398121",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-bf213e45-860e-40d5-97b9-3f5dbe2a4865output-handle-0d208dbf-ad3a-4bab-8505-d21ebb398121input-handle-top"
-        },
-        {
-            "source": "0d208dbf-ad3a-4bab-8505-d21ebb398121",
-            "sourceHandle": "output-handle",
-            "target": "f748a4c0-a9b7-4882-b6fe-f62461a977d6",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-0d208dbf-ad3a-4bab-8505-d21ebb398121output-handle-f748a4c0-a9b7-4882-b6fe-f62461a977d6input-handle-top"
-        },
-        {
-            "source": "f748a4c0-a9b7-4882-b6fe-f62461a977d6",
-            "sourceHandle": "output-handle",
-            "target": "a920bdc5-92a4-4ccc-9239-904842ed6356",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-f748a4c0-a9b7-4882-b6fe-f62461a977d6output-handle-a920bdc5-92a4-4ccc-9239-904842ed6356input-handle-top"
-        },
-        {
-            "source": "a920bdc5-92a4-4ccc-9239-904842ed6356",
-            "sourceHandle": "output-handle",
-            "target": "177d7305-0da6-4ddd-b6b0-28d6724bdd33",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-a920bdc5-92a4-4ccc-9239-904842ed6356output-handle-177d7305-0da6-4ddd-b6b0-28d6724bdd33input-handle-top"
-        },
-        {
-            "source": "bc4f5381-2906-44a6-bb72-05e1521af7cc",
-            "sourceHandle": "output-handle",
-            "target": "4ba7bad6-3d97-4201-ae3f-a22f514bb2b7",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-bc4f5381-2906-44a6-bb72-05e1521af7ccoutput-handle-4ba7bad6-3d97-4201-ae3f-a22f514bb2b7input-handle-top"
-        },
-        {
-            "source": "4ba7bad6-3d97-4201-ae3f-a22f514bb2b7",
-            "sourceHandle": "output-handle",
-            "target": "4733ecf5-3c6f-446c-ba7e-c49e43f57c75",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-4ba7bad6-3d97-4201-ae3f-a22f514bb2b7output-handle-4733ecf5-3c6f-446c-ba7e-c49e43f57c75input-handle-top"
-        },
-        {
-            "source": "4733ecf5-3c6f-446c-ba7e-c49e43f57c75",
-            "sourceHandle": "output-handle",
-            "target": "03d7e7a8-a55d-4bfb-8fe6-1d33025336c1",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-4733ecf5-3c6f-446c-ba7e-c49e43f57c75output-handle-03d7e7a8-a55d-4bfb-8fe6-1d33025336c1input-handle-top"
-        },
-        {
-            "source": "03d7e7a8-a55d-4bfb-8fe6-1d33025336c1",
-            "sourceHandle": "output-handle",
-            "target": "cc861cf8-8ce5-407e-bdd3-a4d45ddec199",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-03d7e7a8-a55d-4bfb-8fe6-1d33025336c1output-handle-cc861cf8-8ce5-407e-bdd3-a4d45ddec199input-handle-top"
-        },
-        {
-            "source": "cc861cf8-8ce5-407e-bdd3-a4d45ddec199",
-            "sourceHandle": "output-handle",
-            "target": "ddfa80aa-a8d1-4491-a451-690a2793ae12",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-cc861cf8-8ce5-407e-bdd3-a4d45ddec199output-handle-ddfa80aa-a8d1-4491-a451-690a2793ae12input-handle-top"
-        },
-        {
-            "source": "ddfa80aa-a8d1-4491-a451-690a2793ae12",
-            "sourceHandle": "output-handle",
-            "target": "f125fb66-3ef9-4c5c-9ae4-76612195c7a2",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-ddfa80aa-a8d1-4491-a451-690a2793ae12output-handle-f125fb66-3ef9-4c5c-9ae4-76612195c7a2input-handle-top"
-        },
-        {
-            "source": "f125fb66-3ef9-4c5c-9ae4-76612195c7a2",
-            "sourceHandle": "output-handle",
-            "target": "2ed3ec56-dd0a-4a13-a14b-9da3f475d34d",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-f125fb66-3ef9-4c5c-9ae4-76612195c7a2output-handle-2ed3ec56-dd0a-4a13-a14b-9da3f475d34dinput-handle-top"
-        },
-        {
-            "source": "2ed3ec56-dd0a-4a13-a14b-9da3f475d34d",
-            "sourceHandle": "output-handle",
-            "target": "7a092bdf-ac27-467c-aa71-a1c9728d7daf",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-2ed3ec56-dd0a-4a13-a14b-9da3f475d34doutput-handle-7a092bdf-ac27-467c-aa71-a1c9728d7dafinput-handle-top"
-        },
-        {
-            "source": "7a092bdf-ac27-467c-aa71-a1c9728d7daf",
-            "sourceHandle": "output-handle",
-            "target": "b677429a-fd47-4af2-8630-5642693d4b08",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-7a092bdf-ac27-467c-aa71-a1c9728d7dafoutput-handle-b677429a-fd47-4af2-8630-5642693d4b08input-handle-top"
-        },
-        {
-            "source": "2ed3ec56-dd0a-4a13-a14b-9da3f475d34d",
-            "sourceHandle": "output-handle",
-            "target": "48b38841-61ef-4cda-88a6-c40f6c746c77",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-2ed3ec56-dd0a-4a13-a14b-9da3f475d34doutput-handle-48b38841-61ef-4cda-88a6-c40f6c746c77input-handle-top"
-        },
-        {
-            "source": "2ed3ec56-dd0a-4a13-a14b-9da3f475d34d",
-            "sourceHandle": "output-handle",
-            "target": "9c32354c-f937-4d17-9e0b-cf6e9d6e064c",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-2ed3ec56-dd0a-4a13-a14b-9da3f475d34doutput-handle-9c32354c-f937-4d17-9e0b-cf6e9d6e064cinput-handle-top"
-        },
-        {
-            "source": "48b38841-61ef-4cda-88a6-c40f6c746c77",
-            "sourceHandle": "output-handle",
-            "target": "ea2c5cf2-a2ee-4304-a1c9-babe505c1602",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-48b38841-61ef-4cda-88a6-c40f6c746c77output-handle-ea2c5cf2-a2ee-4304-a1c9-babe505c1602input-handle-top"
-        },
-        {
-            "source": "ea2c5cf2-a2ee-4304-a1c9-babe505c1602",
-            "sourceHandle": "output-handle",
-            "target": "066d2a9d-7257-45c1-bed6-570736868b08",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-ea2c5cf2-a2ee-4304-a1c9-babe505c1602output-handle-066d2a9d-7257-45c1-bed6-570736868b08input-handle-top"
-        },
-        {
-            "source": "066d2a9d-7257-45c1-bed6-570736868b08",
-            "sourceHandle": "output-handle",
-            "target": "21963041-a897-49a8-8425-8c85cec1f882",
-            "targetHandle": "input-handle-top",
-            "id": "reactflow__edge-066d2a9d-7257-45c1-bed6-570736868b08output-handle-21963041-a897-49a8-8425-8c85cec1f882input-handle-top"
-        }
-    ],
-    "id": "66c797aa-ca8d-4fe9-a268-f2adc2286716",
-    "tags": ["nodejs", "angular"],
-    "title": "Full-Stack(Node + Angular)",
-    "targetAudience": "Associate & IT Consultants"
+  "nodes": [
+    {
+      "id": "a3f4fe67-4856-4a87-9020-2fb26069dc36",
+      "position": {
+        "x": 373.631483815199,
+        "y": 1186.3464168796877
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Others",
+        "isContainer": false,
+        "label": "Frontend Development Learn More",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/others-100-frontend-development-learn-more.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 430,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 844.7946524504388,
+        "y": 2023.4983774465013
+      },
+      "dragging": false
+    },
+    {
+      "id": "33521508-fe22-493a-a884-ebb66f138b8d",
+      "position": {
+        "x": 271.27136380993477,
+        "y": 1104.8921901299816
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "Nx Monorepository",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/opt-600-monorepository-nx.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 282,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 742.4345324451746,
+        "y": 1942.0441506967952
+      },
+      "dragging": false
+    },
+    {
+      "id": "2b7d7063-6214-415f-92f3-f5f15aed7193",
+      "position": {
+        "x": 611.2481898142657,
+        "y": 1097.2504697181707
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "Component Library Development",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/opt-500-component-library-development.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 413,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 1082.4113584495055,
+        "y": 1934.4024302849843
+      },
+      "dragging": false
+    },
+    {
+      "id": "952ed06f-e120-40d8-aee3-7e5e62df1f21",
+      "position": {
+        "x": 820.1689898656984,
+        "y": 1027.7983407261975
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "E2E Testing",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/opt-400-e2e-testing.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 211,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 1291.3321585009382,
+        "y": 1864.950301293011
+      },
+      "dragging": false
+    },
+    {
+      "id": "166bf5f5-7788-47e6-ad6a-d5eb5b60db5f",
+      "position": {
+        "x": 198.96410239745785,
+        "y": 1015.7382033229246
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "Unit Testing",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/opt-300-unit-testing.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 212,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 670.1272710326976,
+        "y": 1854.6312650163304
+      },
+      "dragging": false
+    },
+    {
+      "id": "1d8fa515-91aa-4ece-a2fa-1409a9abf4c8",
+      "position": {
+        "x": 879.8247129571112,
+        "y": 938.3533421442385
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "Normalized NGRX",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/opt-200-normalized-ngrx.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 271,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 1350.987881592351,
+        "y": 1775.505302711052
+      },
+      "dragging": false
+    },
+    {
+      "id": "51e92ad4-f559-4b5f-8b91-39d595adedf5",
+      "position": {
+        "x": 31.48931711517173,
+        "y": 942.8021535169914
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "Internationalization",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/opt-100-internationalization.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 283,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 502.65248575041153,
+        "y": 1781.6952152103972
+      },
+      "dragging": false
+    },
+    {
+      "id": "76068d27-07b9-49b3-9854-088ebef0ee6b",
+      "position": {
+        "x": 400.7863184241828,
+        "y": 870.6301056161542
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Material Components Library",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/1200-material-components-library.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 376,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 871.9494870594226,
+        "y": 1707.7820661829678
+      },
+      "dragging": false
+    },
+    {
+      "id": "bc0e6976-8593-43ca-9173-68aa3977e477",
+      "position": {
+        "x": 512.8939345176033,
+        "y": 799.9917819856128
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "NGRX",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/1100-ngrx.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 155,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 984.0571031528431,
+        "y": 1638.8848436790186
+      },
+      "dragging": false
+    },
+    {
+      "id": "096db65c-e36b-4ce1-8555-f5b3f44f141a",
+      "position": {
+        "x": 470,
+        "y": 737.9999999999998
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Authentication",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/1000-authentication.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 239,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 951.1777556537415,
+        "y": 1542.4345379610868
+      },
+      "dragging": false
+    },
+    {
+      "id": "0eeed5ab-4353-485d-9fd1-d2c89f53599f",
+      "position": {
+        "x": 432.40520658001185,
+        "y": 673.5874368804268
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Forms and Validations",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/900-forms-and-validations.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 313,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 913.5829622337534,
+        "y": 1478.0219748415138
+      },
+      "dragging": false
+    },
+    {
+      "id": "14881f50-06d4-4627-9cd5-1211e7b50631",
+      "position": {
+        "x": 418.2901286364129,
+        "y": 600.4389649001482
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Services and HTTP Client",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/800-services-and-http-client.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 341,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 899.4678842901544,
+        "y": 1404.8735028612352
+      },
+      "dragging": false
+    },
+    {
+      "id": "62063912-f271-4f3d-a197-401236da4ef1",
+      "position": {
+        "x": 503.5177977468147,
+        "y": 526.5242019864736
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Routing",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/700-routing.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 172,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 984.6955534005563,
+        "y": 1330.9587399475606
+      },
+      "dragging": false
+    },
+    {
+      "id": "95d97987-e1df-4ff2-9f0f-d9b8a5238e1b",
+      "position": {
+        "x": 359.2947393772131,
+        "y": 456.9695373334325
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Modules and Standalone Components",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/600-modules-and-standalone.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 465,
+      "height": 43,
+      "selected": true,
+      "positionAbsolute": {
+        "x": -915.5420919875471,
+        "y": 604.1214979002461
+      },
+      "dragging": false
+    },
+    {
+      "id": "fe553587-877c-496d-a738-f5aee0def3d1",
+      "position": {
+        "x": 440.7717054843297,
+        "y": 380.54747616406326
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Angular Components",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/500-components.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 301,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 921.9494611380712,
+        "y": 1184.9820141251503
+      },
+      "dragging": false
+    },
+    {
+      "id": "1f3b19ad-f0a5-441b-8c7a-483ef46678aa",
+      "position": {
+        "x": 442.6540732538697,
+        "y": 308.66892883878995
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Angular Introduction",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/400-angular-intro.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 294,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 923.8318289076112,
+        "y": 1113.103466799877
+      },
+      "dragging": false
+    },
+    {
+      "id": "f586a538-8584-4b4f-adab-8b42b2e8ff3d",
+      "position": {
+        "x": 409.62438014845225,
+        "y": 235.44053152088054
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "HTML, CSS, JS Introduction",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/300-html-css-js-basics.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 362,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 880.8021358021938,
+        "y": 1101.8750694819676
+      },
+      "dragging": false
+    },
+    {
+      "id": "603df15c-dbb9-48fb-9b3b-e3c748e5c515",
+      "position": {
+        "x": 485.0276582762531,
+        "y": 163.07795619438025
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Web Basics",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/200-the-web-basics.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 210,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 956.2054139299946,
+        "y": 1029.5124941554673
+      },
+      "dragging": false
+    },
+    {
+      "id": "23ad879b-481d-4dc9-868c-d2854cb18d7d",
+      "position": {
+        "x": 464.8820849911074,
+        "y": 98.02534382442946
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Git Introduction",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/100-git-introduction.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 247,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -809.9547463736528,
+        "y": 245.17730439124307
+      },
+      "dragging": false
+    },
+    {
+      "id": "e82cae4d-a6f1-4259-8789-17bb72d65fe7",
+      "position": {
+        "x": 481.2857947289539,
+        "y": 27.305887149607315
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Introduction",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/chapters/000-introduction.md"
+      },
+      "extent": "parent",
+      "parentNode": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "width": 215,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 952.4635503826954,
+        "y": 893.7404251106943
+      },
+      "dragging": false
+    },
+    {
+      "id": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "position": {
+        "x": -1274.8368313647602,
+        "y": 147.1519605668136
+      },
+      "type": "RoadmapNode",
+      "zIndex": 10,
+      "style": {
+        "zIndex": 10,
+        "height": 1259,
+        "width": 1217
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": true,
+        "label": "Angular ",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/angular-training/main/README.md"
+      },
+      "width": 1217,
+      "height": 1259,
+      "selected": false,
+      "dragging": false,
+      "positionAbsolute": {
+        "x": -1274.8368313647602,
+        "y": 147.1519605668136
+      }
+    },
+    {
+      "id": "177d7305-0da6-4ddd-b6b0-28d6724bdd33",
+      "position": {
+        "x": 294,
+        "y": 1100
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "Microservices",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-900-microservices.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 233,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2537.5672724650076,
+        "y": -43.27786649663403
+      },
+      "dragging": false
+    },
+    {
+      "id": "a920bdc5-92a4-4ccc-9239-904842ed6356",
+      "position": {
+        "x": 320,
+        "y": 1014
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "GraphQL",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-800-graphql.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 182,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2511.5672724650076,
+        "y": -231.27786649663403
+      },
+      "dragging": false
+    },
+    {
+      "id": "f748a4c0-a9b7-4882-b6fe-f62461a977d6",
+      "position": {
+        "x": 321.08127826503005,
+        "y": 936.9187217349701
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "OpenAPI",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-700-openapi.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 182,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2510.4859941999775,
+        "y": -308.35914476166397
+      },
+      "dragging": false
+    },
+    {
+      "id": "0d208dbf-ad3a-4bab-8505-d21ebb398121",
+      "position": {
+        "x": 305.6262285556995,
+        "y": 851.472294341948
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "Web Socket",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-600-websockets.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 212,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2525.941043909308,
+        "y": -393.80557215468605
+      },
+      "dragging": false
+    },
+    {
+      "id": "bf213e45-860e-40d5-97b9-3f5dbe2a4865",
+      "position": {
+        "x": 460.9187217349695,
+        "y": 724.4863430799779
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "Mailing",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-500-mailing.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 169,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2370.648550730038,
+        "y": -520.7915234166561
+      },
+      "dragging": false
+    },
+    {
+      "id": "4d1b605d-d8eb-4e4d-a630-7664e28994f8",
+      "position": {
+        "x": 196.08061500992926,
+        "y": 733.5676213450082
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "RabbitMQ",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-400-rabbitmq.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 194,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2635.4866574550783,
+        "y": -511.7102451516258
+      },
+      "dragging": false
+    },
+    {
+      "id": "89e98acb-8df0-4382-98e0-e9a22f9dfa6d",
+      "position": {
+        "x": 348,
+        "y": 626
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "MongoDB",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-200-mongodb.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 194,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -1600.0516257796835,
+        "y": -950.7622198113102
+      },
+      "dragging": false
+    },
+    {
+      "id": "bd5b50bc-8b2a-4126-881d-59942b6a5365",
+      "position": {
+        "x": 587.5226892457613,
+        "y": 626.3182071694926
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "OAuth",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-300-oauth.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 158,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2244.0445832192463,
+        "y": -616.9596593271415
+      },
+      "dragging": false
+    },
+    {
+      "id": "b4ee23fe-2b6f-4600-a247-0b1e6911f5f0",
+      "position": {
+        "x": 57.41421356237288,
+        "y": 622.5857864376269
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "Task Scheduler",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/opt-100-task-scheduler.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 245,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -1890.6374122173106,
+        "y": -954.1764333736833
+      },
+      "dragging": false
+    },
+    {
+      "id": "391d24c1-fe9d-4749-8184-fe60ea20d18d",
+      "position": {
+        "x": 327.08964152537146,
+        "y": 520.6364143389851
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Axios",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/700-axios.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 152,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2504.477630939636,
+        "y": -622.6414521576489
+      },
+      "dragging": false
+    },
+    {
+      "id": "037b6576-0773-4287-9be5-4fae6f10c13b",
+      "position": {
+        "x": 277.7112272953659,
+        "y": 445.2728286779703
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "The `fs` Module",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/600-the-fs-module.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 249,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2553.8560451696417,
+        "y": -698.0050378186637
+      },
+      "dragging": false
+    },
+    {
+      "id": "80e88652-daea-431f-8cdf-5aaace321b38",
+      "position": {
+        "x": 312.8134664743816,
+        "y": 364.9490442201119
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Security",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/500-security.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 176,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2518.753805990626,
+        "y": -778.3288222765221
+      },
+      "dragging": false
+    },
+    {
+      "id": "f0f69594-74b1-4506-949c-7828c725efab",
+      "position": {
+        "x": 306.53538438032047,
+        "y": 283.3634312495444
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Database",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/400-database.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 190,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2525.031888084687,
+        "y": -859.9144352470896
+      },
+      "dragging": false
+    },
+    {
+      "id": "dcbd9225-f93a-46cd-96a5-6a4180fb98ad",
+      "position": {
+        "x": 296.37467504308324,
+        "y": 196.37467504308347
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "REST APIs",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/300-rest-api.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 199,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2535.1925974219243,
+        "y": -946.9031914535506
+      },
+      "dragging": false
+    },
+    {
+      "id": "93ca60d0-43f5-4a68-b870-a8fd807bf74d",
+      "position": {
+        "x": 445.25187540310844,
+        "y": 114.89444430272829
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Nest js",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/200-nestjs.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 165,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2386.315397061899,
+        "y": -1028.3834221939057
+      },
+      "dragging": false
+    },
+    {
+      "id": "6028ef3c-791f-4bf6-8e7f-2a2c54bd1e85",
+      "position": {
+        "x": 168.06601717798185,
+        "y": 110.89444430272829
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Node.js",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/100-nodejs.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 172,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2663.5012552870257,
+        "y": -1032.3834221939057
+      },
+      "dragging": false
+    },
+    {
+      "id": "678f07dc-5a25-4324-b4f9-f380eb0a710a",
+      "position": {
+        "x": 292.03152929257567,
+        "y": 31.69848480983501
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": false,
+        "label": "Introduction",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/chapters/000-intro.md"
+      },
+      "extent": "parent",
+      "parentNode": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "width": 215,
+      "height": 43,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -2539.535743172432,
+        "y": -1111.579381686799
+      },
+      "dragging": false
+    },
+    {
+      "id": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "position": {
+        "x": -1081.5672724650076,
+        "y": -1169.277866496634
+      },
+      "type": "RoadmapNode",
+      "zIndex": 10,
+      "style": {
+        "zIndex": 10,
+        "height": 1204,
+        "width": 807
+      },
+      "data": {
+        "pathType": "Main path",
+        "isContainer": true,
+        "label": "NodeJS",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/nodejs-training/main/readme.md"
+      },
+      "width": 807,
+      "height": 1204,
+      "selected": false,
+      "positionAbsolute": {
+        "x": -1081.5672724650076,
+        "y": -1169.277866496634
+      },
+      "dragging": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "678f07dc-5a25-4324-b4f9-f380eb0a710a",
+      "sourceHandle": "output-handle",
+      "target": "6028ef3c-791f-4bf6-8e7f-2a2c54bd1e85",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-678f07dc-5a25-4324-b4f9-f380eb0a710aoutput-handle-6028ef3c-791f-4bf6-8e7f-2a2c54bd1e85input-handle-top"
+    },
+    {
+      "source": "678f07dc-5a25-4324-b4f9-f380eb0a710a",
+      "sourceHandle": "output-handle",
+      "target": "93ca60d0-43f5-4a68-b870-a8fd807bf74d",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-678f07dc-5a25-4324-b4f9-f380eb0a710aoutput-handle-93ca60d0-43f5-4a68-b870-a8fd807bf74dinput-handle-top"
+    },
+    {
+      "source": "6028ef3c-791f-4bf6-8e7f-2a2c54bd1e85",
+      "sourceHandle": "output-handle",
+      "target": "dcbd9225-f93a-46cd-96a5-6a4180fb98ad",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-6028ef3c-791f-4bf6-8e7f-2a2c54bd1e85output-handle-dcbd9225-f93a-46cd-96a5-6a4180fb98adinput-handle-top"
+    },
+    {
+      "source": "93ca60d0-43f5-4a68-b870-a8fd807bf74d",
+      "sourceHandle": "output-handle",
+      "target": "dcbd9225-f93a-46cd-96a5-6a4180fb98ad",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-93ca60d0-43f5-4a68-b870-a8fd807bf74doutput-handle-dcbd9225-f93a-46cd-96a5-6a4180fb98adinput-handle-top"
+    },
+    {
+      "source": "dcbd9225-f93a-46cd-96a5-6a4180fb98ad",
+      "sourceHandle": "output-handle",
+      "target": "f0f69594-74b1-4506-949c-7828c725efab",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-dcbd9225-f93a-46cd-96a5-6a4180fb98adoutput-handle-f0f69594-74b1-4506-949c-7828c725efabinput-handle-top"
+    },
+    {
+      "source": "f0f69594-74b1-4506-949c-7828c725efab",
+      "sourceHandle": "output-handle",
+      "target": "80e88652-daea-431f-8cdf-5aaace321b38",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-f0f69594-74b1-4506-949c-7828c725efaboutput-handle-80e88652-daea-431f-8cdf-5aaace321b38input-handle-top"
+    },
+    {
+      "source": "80e88652-daea-431f-8cdf-5aaace321b38",
+      "sourceHandle": "output-handle",
+      "target": "037b6576-0773-4287-9be5-4fae6f10c13b",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-80e88652-daea-431f-8cdf-5aaace321b38output-handle-037b6576-0773-4287-9be5-4fae6f10c13binput-handle-top"
+    },
+    {
+      "source": "037b6576-0773-4287-9be5-4fae6f10c13b",
+      "sourceHandle": "output-handle",
+      "target": "391d24c1-fe9d-4749-8184-fe60ea20d18d",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-037b6576-0773-4287-9be5-4fae6f10c13boutput-handle-391d24c1-fe9d-4749-8184-fe60ea20d18dinput-handle-top"
+    },
+    {
+      "source": "391d24c1-fe9d-4749-8184-fe60ea20d18d",
+      "sourceHandle": "output-handle",
+      "target": "b4ee23fe-2b6f-4600-a247-0b1e6911f5f0",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-391d24c1-fe9d-4749-8184-fe60ea20d18doutput-handle-b4ee23fe-2b6f-4600-a247-0b1e6911f5f0input-handle-top"
+    },
+    {
+      "source": "391d24c1-fe9d-4749-8184-fe60ea20d18d",
+      "sourceHandle": "output-handle",
+      "target": "89e98acb-8df0-4382-98e0-e9a22f9dfa6d",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-391d24c1-fe9d-4749-8184-fe60ea20d18doutput-handle-89e98acb-8df0-4382-98e0-e9a22f9dfa6dinput-handle-top"
+    },
+    {
+      "source": "391d24c1-fe9d-4749-8184-fe60ea20d18d",
+      "sourceHandle": "output-handle",
+      "target": "bd5b50bc-8b2a-4126-881d-59942b6a5365",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-391d24c1-fe9d-4749-8184-fe60ea20d18doutput-handle-bd5b50bc-8b2a-4126-881d-59942b6a5365input-handle-top"
+    },
+    {
+      "source": "b4ee23fe-2b6f-4600-a247-0b1e6911f5f0",
+      "sourceHandle": "output-handle",
+      "target": "4d1b605d-d8eb-4e4d-a630-7664e28994f8",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-b4ee23fe-2b6f-4600-a247-0b1e6911f5f0output-handle-4d1b605d-d8eb-4e4d-a630-7664e28994f8input-handle-top"
+    },
+    {
+      "source": "89e98acb-8df0-4382-98e0-e9a22f9dfa6d",
+      "sourceHandle": "output-handle",
+      "target": "4d1b605d-d8eb-4e4d-a630-7664e28994f8",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-89e98acb-8df0-4382-98e0-e9a22f9dfa6doutput-handle-4d1b605d-d8eb-4e4d-a630-7664e28994f8input-handle-top"
+    },
+    {
+      "source": "89e98acb-8df0-4382-98e0-e9a22f9dfa6d",
+      "sourceHandle": "output-handle",
+      "target": "bf213e45-860e-40d5-97b9-3f5dbe2a4865",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-89e98acb-8df0-4382-98e0-e9a22f9dfa6doutput-handle-bf213e45-860e-40d5-97b9-3f5dbe2a4865input-handle-top"
+    },
+    {
+      "source": "bd5b50bc-8b2a-4126-881d-59942b6a5365",
+      "sourceHandle": "output-handle",
+      "target": "bf213e45-860e-40d5-97b9-3f5dbe2a4865",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-bd5b50bc-8b2a-4126-881d-59942b6a5365output-handle-bf213e45-860e-40d5-97b9-3f5dbe2a4865input-handle-top"
+    },
+    {
+      "source": "4d1b605d-d8eb-4e4d-a630-7664e28994f8",
+      "sourceHandle": "output-handle",
+      "target": "0d208dbf-ad3a-4bab-8505-d21ebb398121",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-4d1b605d-d8eb-4e4d-a630-7664e28994f8output-handle-0d208dbf-ad3a-4bab-8505-d21ebb398121input-handle-top"
+    },
+    {
+      "source": "bf213e45-860e-40d5-97b9-3f5dbe2a4865",
+      "sourceHandle": "output-handle",
+      "target": "0d208dbf-ad3a-4bab-8505-d21ebb398121",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-bf213e45-860e-40d5-97b9-3f5dbe2a4865output-handle-0d208dbf-ad3a-4bab-8505-d21ebb398121input-handle-top"
+    },
+    {
+      "source": "0d208dbf-ad3a-4bab-8505-d21ebb398121",
+      "sourceHandle": "output-handle",
+      "target": "f748a4c0-a9b7-4882-b6fe-f62461a977d6",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-0d208dbf-ad3a-4bab-8505-d21ebb398121output-handle-f748a4c0-a9b7-4882-b6fe-f62461a977d6input-handle-top"
+    },
+    {
+      "source": "f748a4c0-a9b7-4882-b6fe-f62461a977d6",
+      "sourceHandle": "output-handle",
+      "target": "a920bdc5-92a4-4ccc-9239-904842ed6356",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-f748a4c0-a9b7-4882-b6fe-f62461a977d6output-handle-a920bdc5-92a4-4ccc-9239-904842ed6356input-handle-top"
+    },
+    {
+      "source": "a920bdc5-92a4-4ccc-9239-904842ed6356",
+      "sourceHandle": "output-handle",
+      "target": "177d7305-0da6-4ddd-b6b0-28d6724bdd33",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-a920bdc5-92a4-4ccc-9239-904842ed6356output-handle-177d7305-0da6-4ddd-b6b0-28d6724bdd33input-handle-top"
+    },
+    {
+      "source": "bc4f5381-2906-44a6-bb72-05e1521af7cc",
+      "sourceHandle": "output-handle",
+      "target": "4ba7bad6-3d97-4201-ae3f-a22f514bb2b7",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-bc4f5381-2906-44a6-bb72-05e1521af7ccoutput-handle-4ba7bad6-3d97-4201-ae3f-a22f514bb2b7input-handle-top"
+    },
+    {
+      "source": "4ba7bad6-3d97-4201-ae3f-a22f514bb2b7",
+      "sourceHandle": "output-handle",
+      "target": "4733ecf5-3c6f-446c-ba7e-c49e43f57c75",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-4ba7bad6-3d97-4201-ae3f-a22f514bb2b7output-handle-4733ecf5-3c6f-446c-ba7e-c49e43f57c75input-handle-top"
+    },
+    {
+      "source": "4733ecf5-3c6f-446c-ba7e-c49e43f57c75",
+      "sourceHandle": "output-handle",
+      "target": "03d7e7a8-a55d-4bfb-8fe6-1d33025336c1",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-4733ecf5-3c6f-446c-ba7e-c49e43f57c75output-handle-03d7e7a8-a55d-4bfb-8fe6-1d33025336c1input-handle-top"
+    },
+    {
+      "source": "03d7e7a8-a55d-4bfb-8fe6-1d33025336c1",
+      "sourceHandle": "output-handle",
+      "target": "cc861cf8-8ce5-407e-bdd3-a4d45ddec199",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-03d7e7a8-a55d-4bfb-8fe6-1d33025336c1output-handle-cc861cf8-8ce5-407e-bdd3-a4d45ddec199input-handle-top"
+    },
+    {
+      "source": "cc861cf8-8ce5-407e-bdd3-a4d45ddec199",
+      "sourceHandle": "output-handle",
+      "target": "ddfa80aa-a8d1-4491-a451-690a2793ae12",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-cc861cf8-8ce5-407e-bdd3-a4d45ddec199output-handle-ddfa80aa-a8d1-4491-a451-690a2793ae12input-handle-top"
+    },
+    {
+      "source": "ddfa80aa-a8d1-4491-a451-690a2793ae12",
+      "sourceHandle": "output-handle",
+      "target": "f125fb66-3ef9-4c5c-9ae4-76612195c7a2",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-ddfa80aa-a8d1-4491-a451-690a2793ae12output-handle-f125fb66-3ef9-4c5c-9ae4-76612195c7a2input-handle-top"
+    },
+    {
+      "source": "f125fb66-3ef9-4c5c-9ae4-76612195c7a2",
+      "sourceHandle": "output-handle",
+      "target": "2ed3ec56-dd0a-4a13-a14b-9da3f475d34d",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-f125fb66-3ef9-4c5c-9ae4-76612195c7a2output-handle-2ed3ec56-dd0a-4a13-a14b-9da3f475d34dinput-handle-top"
+    },
+    {
+      "source": "2ed3ec56-dd0a-4a13-a14b-9da3f475d34d",
+      "sourceHandle": "output-handle",
+      "target": "7a092bdf-ac27-467c-aa71-a1c9728d7daf",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-2ed3ec56-dd0a-4a13-a14b-9da3f475d34doutput-handle-7a092bdf-ac27-467c-aa71-a1c9728d7dafinput-handle-top"
+    },
+    {
+      "source": "7a092bdf-ac27-467c-aa71-a1c9728d7daf",
+      "sourceHandle": "output-handle",
+      "target": "b677429a-fd47-4af2-8630-5642693d4b08",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-7a092bdf-ac27-467c-aa71-a1c9728d7dafoutput-handle-b677429a-fd47-4af2-8630-5642693d4b08input-handle-top"
+    },
+    {
+      "source": "2ed3ec56-dd0a-4a13-a14b-9da3f475d34d",
+      "sourceHandle": "output-handle",
+      "target": "48b38841-61ef-4cda-88a6-c40f6c746c77",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-2ed3ec56-dd0a-4a13-a14b-9da3f475d34doutput-handle-48b38841-61ef-4cda-88a6-c40f6c746c77input-handle-top"
+    },
+    {
+      "source": "2ed3ec56-dd0a-4a13-a14b-9da3f475d34d",
+      "sourceHandle": "output-handle",
+      "target": "9c32354c-f937-4d17-9e0b-cf6e9d6e064c",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-2ed3ec56-dd0a-4a13-a14b-9da3f475d34doutput-handle-9c32354c-f937-4d17-9e0b-cf6e9d6e064cinput-handle-top"
+    },
+    {
+      "source": "48b38841-61ef-4cda-88a6-c40f6c746c77",
+      "sourceHandle": "output-handle",
+      "target": "ea2c5cf2-a2ee-4304-a1c9-babe505c1602",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-48b38841-61ef-4cda-88a6-c40f6c746c77output-handle-ea2c5cf2-a2ee-4304-a1c9-babe505c1602input-handle-top"
+    },
+    {
+      "source": "ea2c5cf2-a2ee-4304-a1c9-babe505c1602",
+      "sourceHandle": "output-handle",
+      "target": "066d2a9d-7257-45c1-bed6-570736868b08",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-ea2c5cf2-a2ee-4304-a1c9-babe505c1602output-handle-066d2a9d-7257-45c1-bed6-570736868b08input-handle-top"
+    },
+    {
+      "source": "066d2a9d-7257-45c1-bed6-570736868b08",
+      "sourceHandle": "output-handle",
+      "target": "21963041-a897-49a8-8425-8c85cec1f882",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-066d2a9d-7257-45c1-bed6-570736868b08output-handle-21963041-a897-49a8-8425-8c85cec1f882input-handle-top"
+    },
+    {
+      "source": "10d734c3-ca4d-47de-b601-e3a9c1e28a27",
+      "sourceHandle": "output-handle",
+      "target": "df9e3664-f9e1-4281-b9e4-2f84808eceaf",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-10d734c3-ca4d-47de-b601-e3a9c1e28a27output-handle-df9e3664-f9e1-4281-b9e4-2f84808eceafinput-handle-top"
+    },
+    {
+      "source": "e82cae4d-a6f1-4259-8789-17bb72d65fe7",
+      "sourceHandle": "output-handle",
+      "target": "23ad879b-481d-4dc9-868c-d2854cb18d7d",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-e82cae4d-a6f1-4259-8789-17bb72d65fe7output-handle-23ad879b-481d-4dc9-868c-d2854cb18d7dinput-handle-top"
+    },
+    {
+      "source": "23ad879b-481d-4dc9-868c-d2854cb18d7d",
+      "sourceHandle": "output-handle",
+      "target": "603df15c-dbb9-48fb-9b3b-e3c748e5c515",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-23ad879b-481d-4dc9-868c-d2854cb18d7doutput-handle-603df15c-dbb9-48fb-9b3b-e3c748e5c515input-handle-top"
+    },
+    {
+      "source": "603df15c-dbb9-48fb-9b3b-e3c748e5c515",
+      "sourceHandle": "output-handle",
+      "target": "f586a538-8584-4b4f-adab-8b42b2e8ff3d",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-603df15c-dbb9-48fb-9b3b-e3c748e5c515output-handle-f586a538-8584-4b4f-adab-8b42b2e8ff3dinput-handle-top"
+    },
+    {
+      "source": "f586a538-8584-4b4f-adab-8b42b2e8ff3d",
+      "sourceHandle": "output-handle",
+      "target": "1f3b19ad-f0a5-441b-8c7a-483ef46678aa",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-f586a538-8584-4b4f-adab-8b42b2e8ff3doutput-handle-1f3b19ad-f0a5-441b-8c7a-483ef46678aainput-handle-top"
+    },
+    {
+      "source": "1f3b19ad-f0a5-441b-8c7a-483ef46678aa",
+      "sourceHandle": "output-handle",
+      "target": "fe553587-877c-496d-a738-f5aee0def3d1",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-1f3b19ad-f0a5-441b-8c7a-483ef46678aaoutput-handle-fe553587-877c-496d-a738-f5aee0def3d1input-handle-top"
+    },
+    {
+      "source": "fe553587-877c-496d-a738-f5aee0def3d1",
+      "sourceHandle": "output-handle",
+      "target": "95d97987-e1df-4ff2-9f0f-d9b8a5238e1b",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-fe553587-877c-496d-a738-f5aee0def3d1output-handle-95d97987-e1df-4ff2-9f0f-d9b8a5238e1binput-handle-top"
+    },
+    {
+      "source": "95d97987-e1df-4ff2-9f0f-d9b8a5238e1b",
+      "sourceHandle": "output-handle",
+      "target": "62063912-f271-4f3d-a197-401236da4ef1",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-95d97987-e1df-4ff2-9f0f-d9b8a5238e1boutput-handle-62063912-f271-4f3d-a197-401236da4ef1input-handle-top"
+    },
+    {
+      "source": "62063912-f271-4f3d-a197-401236da4ef1",
+      "sourceHandle": "output-handle",
+      "target": "14881f50-06d4-4627-9cd5-1211e7b50631",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-62063912-f271-4f3d-a197-401236da4ef1output-handle-14881f50-06d4-4627-9cd5-1211e7b50631input-handle-top"
+    },
+    {
+      "source": "14881f50-06d4-4627-9cd5-1211e7b50631",
+      "sourceHandle": "output-handle",
+      "target": "0eeed5ab-4353-485d-9fd1-d2c89f53599f",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-14881f50-06d4-4627-9cd5-1211e7b50631output-handle-0eeed5ab-4353-485d-9fd1-d2c89f53599finput-handle-top"
+    },
+    {
+      "source": "0eeed5ab-4353-485d-9fd1-d2c89f53599f",
+      "sourceHandle": "output-handle",
+      "target": "096db65c-e36b-4ce1-8555-f5b3f44f141a",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-0eeed5ab-4353-485d-9fd1-d2c89f53599foutput-handle-096db65c-e36b-4ce1-8555-f5b3f44f141ainput-handle-top"
+    },
+    {
+      "source": "096db65c-e36b-4ce1-8555-f5b3f44f141a",
+      "sourceHandle": "output-handle",
+      "target": "bc0e6976-8593-43ca-9173-68aa3977e477",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-096db65c-e36b-4ce1-8555-f5b3f44f141aoutput-handle-bc0e6976-8593-43ca-9173-68aa3977e477input-handle-top"
+    },
+    {
+      "source": "bc0e6976-8593-43ca-9173-68aa3977e477",
+      "sourceHandle": "output-handle",
+      "target": "76068d27-07b9-49b3-9854-088ebef0ee6b",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-bc0e6976-8593-43ca-9173-68aa3977e477output-handle-76068d27-07b9-49b3-9854-088ebef0ee6binput-handle-top"
+    },
+    {
+      "source": "76068d27-07b9-49b3-9854-088ebef0ee6b",
+      "sourceHandle": "output-handle",
+      "target": "51e92ad4-f559-4b5f-8b91-39d595adedf5",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-76068d27-07b9-49b3-9854-088ebef0ee6boutput-handle-51e92ad4-f559-4b5f-8b91-39d595adedf5input-handle-top"
+    },
+    {
+      "source": "76068d27-07b9-49b3-9854-088ebef0ee6b",
+      "sourceHandle": "output-handle",
+      "target": "1d8fa515-91aa-4ece-a2fa-1409a9abf4c8",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-76068d27-07b9-49b3-9854-088ebef0ee6boutput-handle-1d8fa515-91aa-4ece-a2fa-1409a9abf4c8input-handle-top"
+    },
+    {
+      "source": "76068d27-07b9-49b3-9854-088ebef0ee6b",
+      "sourceHandle": "output-handle",
+      "target": "166bf5f5-7788-47e6-ad6a-d5eb5b60db5f",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-76068d27-07b9-49b3-9854-088ebef0ee6boutput-handle-166bf5f5-7788-47e6-ad6a-d5eb5b60db5finput-handle-top"
+    },
+    {
+      "source": "76068d27-07b9-49b3-9854-088ebef0ee6b",
+      "sourceHandle": "output-handle",
+      "target": "952ed06f-e120-40d8-aee3-7e5e62df1f21",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-76068d27-07b9-49b3-9854-088ebef0ee6boutput-handle-952ed06f-e120-40d8-aee3-7e5e62df1f21input-handle-top"
+    },
+    {
+      "source": "76068d27-07b9-49b3-9854-088ebef0ee6b",
+      "sourceHandle": "output-handle",
+      "target": "33521508-fe22-493a-a884-ebb66f138b8d",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-76068d27-07b9-49b3-9854-088ebef0ee6boutput-handle-33521508-fe22-493a-a884-ebb66f138b8dinput-handle-top"
+    },
+    {
+      "source": "76068d27-07b9-49b3-9854-088ebef0ee6b",
+      "sourceHandle": "output-handle",
+      "target": "2b7d7063-6214-415f-92f3-f5f15aed7193",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-76068d27-07b9-49b3-9854-088ebef0ee6boutput-handle-2b7d7063-6214-415f-92f3-f5f15aed7193input-handle-top"
+    },
+    {
+      "source": "76068d27-07b9-49b3-9854-088ebef0ee6b",
+      "sourceHandle": "output-handle",
+      "target": "a3f4fe67-4856-4a87-9020-2fb26069dc36",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-76068d27-07b9-49b3-9854-088ebef0ee6boutput-handle-a3f4fe67-4856-4a87-9020-2fb26069dc36input-handle-top"
+    }
+  ],
+  "id": "66c797aa-ca8d-4fe9-a268-f2adc2286716",
+  "tags": [
+    "nodejs",
+    "angular"
+  ],
+  "title": "Full-Stack(Node + Angular)",
+  "targetAudience": "Associate & IT Consultants"
 }

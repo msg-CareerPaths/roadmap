@@ -1,6 +1,235 @@
 {
     "nodes": [
         {
+            "id": "8605f412-110a-4b3c-b933-93842928c926",
+            "position": { "x": 276, "y": 1042 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Optional path",
+                "isContainer": false,
+                "label": "Real-time APIs using AppSync",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-serverless-training/master/chapters/090-appsync-subscriptions.md"
+            },
+            "extent": "parent",
+            "parentNode": "b76d2583-20df-4ad2-9d5d-4e7f1273fffc",
+            "width": 386,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -42.880405039789366, "y": 509.83175294983596 },
+            "dragging": false
+        },
+        {
+            "id": "17c1ba37-3559-4347-8a39-62e957140c71",
+            "position": { "x": 277.55339324044655, "y": 920.8705505632961 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Optional path",
+                "isContainer": false,
+                "label": "GraphQL APIs using AppSync",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-serverless-training/master/chapters/080-appsync.md"
+            },
+            "extent": "parent",
+            "parentNode": "b76d2583-20df-4ad2-9d5d-4e7f1273fffc",
+            "width": 380,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -41.32701179934284, "y": 388.70230351313205 },
+            "dragging": false
+        },
+        {
+            "id": "830cb6ac-bfd5-42d5-906b-6353b681d590",
+            "position": { "x": 211.36568535430078, "y": 801.7411011265923 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Step Functions and Lambda Function URLs",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-serverless-training/master/chapters/070-step-functions.md"
+            },
+            "extent": "parent",
+            "parentNode": "b76d2583-20df-4ad2-9d5d-4e7f1273fffc",
+            "width": 511,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -107.51471968548859, "y": 269.57285407642826 },
+            "dragging": false
+        },
+        {
+            "id": "619cf088-6966-4769-86de-de956f7ad126",
+            "position": { "x": 192.76952467504447, "y": 679.1486983549971 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "EventBridge Rules, S3 Storage, and SNS Topics",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-serverless-training/master/chapters/060-eb-s3-sns.md"
+            },
+            "extent": "parent",
+            "parentNode": "b76d2583-20df-4ad2-9d5d-4e7f1273fffc",
+            "width": 546,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -126.1108803647449, "y": 146.98045130483303 },
+            "dragging": false
+        },
+        {
+            "id": "c481d498-a491-40c1-acfd-893943a70df9",
+            "position": { "x": 249.70260329000592, "y": 562 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Background Processing using SQS",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-serverless-training/master/chapters/050-sqs-ses.md"
+            },
+            "extent": "parent",
+            "parentNode": "b76d2583-20df-4ad2-9d5d-4e7f1273fffc",
+            "width": 429,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -69.17780174978344, "y": 29.83175294983596 },
+            "dragging": false
+        },
+        {
+            "id": "ba8b9e9e-8d53-4604-bbc5-e4876114ef55",
+            "position": { "x": 274, "y": 448 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Authentication using Cognito",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-serverless-training/master/chapters/040-cognito.md"
+            },
+            "extent": "parent",
+            "parentNode": "b76d2583-20df-4ad2-9d5d-4e7f1273fffc",
+            "width": 376,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -44.880405039789366, "y": -84.16824705016407 },
+            "dragging": false
+        },
+        {
+            "id": "0096bb7b-b187-43a3-bcee-b1d11a478f2d",
+            "position": { "x": 304, "y": 334 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "DynamoDB Migrations",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-serverless-training/master/chapters/030-dynamodb-migrations.md"
+            },
+            "extent": "parent",
+            "parentNode": "b76d2583-20df-4ad2-9d5d-4e7f1273fffc",
+            "width": 313,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -132.88040503978937, "y": 237.83175294983585 },
+            "dragging": false
+        },
+        {
+            "id": "b4c51052-f235-4b52-9b7c-f212e359f3fa",
+            "position": { "x": 261.2780316430916, "y": 230.65975395538646 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "DynamoDB Single Table Design",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-serverless-training/master/chapters/020-dynamodb-single-table.md"
+            },
+            "extent": "parent",
+            "parentNode": "b76d2583-20df-4ad2-9d5d-4e7f1273fffc",
+            "width": 398,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -57.60237339669777, "y": -301.5084930947776 },
+            "dragging": false
+        },
+        {
+            "id": "a79ef378-dc9a-4676-9772-db62f1cf73c9",
+            "position": { "x": 298, "y": 126 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "API Gateway & Lambda",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-serverless-training/master/chapters/010-apigw-and-lambda.md"
+            },
+            "extent": "parent",
+            "parentNode": "b76d2583-20df-4ad2-9d5d-4e7f1273fffc",
+            "width": 323,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": -226.88040503978937, "y": 261.83175294983585 },
+            "dragging": false
+        },
+        {
+            "id": "d653c458-efbf-41c9-a6c8-db21d937018a",
+            "position": { "x": 350.7219683569084, "y": 34.65975395538646 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Introduction",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-serverless-training/master/chapters/000-introduction.md"
+            },
+            "extent": "parent",
+            "parentNode": "b76d2583-20df-4ad2-9d5d-4e7f1273fffc",
+            "width": 215,
+            "height": 43,
+            "selected": true,
+            "positionAbsolute": { "x": 31.841563317119068, "y": -497.5084930947776 },
+            "dragging": false
+        },
+        {
+            "id": "b76d2583-20df-4ad2-9d5d-4e7f1273fffc",
+            "position": { "x": -308.88040503978937, "y": 3181.8317529498363 },
+            "type": "RoadmapNode",
+            "zIndex": 10,
+            "style": { "zIndex": 10, "height": 1165, "width": 918 },
+            "data": {
+                "pathType": "Optional path",
+                "isContainer": true,
+                "label": "AWS Serverless",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/msg-CareerPaths/aws-serverless-training/master/README.md"
+            },
+            "width": 918,
+            "height": 1165,
+            "selected": false,
+            "dragging": false,
+            "positionAbsolute": { "x": -308.88040503978937, "y": 3181.8317529498363 }
+        },
+        {
             "id": "6b01b098-2f52-4a68-b557-7e03d8a6b242",
             "position": { "x": 301.815247731579, "y": 1321.5003384799124 },
             "type": "RoadmapNode",
@@ -288,7 +517,7 @@
             },
             "width": 913,
             "height": 1412,
-            "selected": true,
+            "selected": false,
             "dragging": false,
             "positionAbsolute": { "x": -303.0511290317438, "y": 1658.0878529428314 }
         },
@@ -1003,6 +1232,76 @@
             "target": "6b01b098-2f52-4a68-b557-7e03d8a6b242",
             "targetHandle": "input-handle-top",
             "id": "reactflow__edge-8b0a52ca-03fc-4eb7-b8c5-782478eeaee0output-handle-6b01b098-2f52-4a68-b557-7e03d8a6b242input-handle-top"
+        },
+        {
+            "source": "d653c458-efbf-41c9-a6c8-db21d937018a",
+            "sourceHandle": "output-handle",
+            "target": "a79ef378-dc9a-4676-9772-db62f1cf73c9",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-d653c458-efbf-41c9-a6c8-db21d937018aoutput-handle-a79ef378-dc9a-4676-9772-db62f1cf73c9input-handle-top"
+        },
+        {
+            "source": "a79ef378-dc9a-4676-9772-db62f1cf73c9",
+            "sourceHandle": "output-handle",
+            "target": "b4c51052-f235-4b52-9b7c-f212e359f3fa",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-a79ef378-dc9a-4676-9772-db62f1cf73c9output-handle-b4c51052-f235-4b52-9b7c-f212e359f3fainput-handle-top"
+        },
+        {
+            "source": "b4c51052-f235-4b52-9b7c-f212e359f3fa",
+            "sourceHandle": "output-handle",
+            "target": "0096bb7b-b187-43a3-bcee-b1d11a478f2d",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-b4c51052-f235-4b52-9b7c-f212e359f3faoutput-handle-0096bb7b-b187-43a3-bcee-b1d11a478f2dinput-handle-top"
+        },
+        {
+            "source": "0096bb7b-b187-43a3-bcee-b1d11a478f2d",
+            "sourceHandle": "output-handle",
+            "target": "ba8b9e9e-8d53-4604-bbc5-e4876114ef55",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-0096bb7b-b187-43a3-bcee-b1d11a478f2doutput-handle-ba8b9e9e-8d53-4604-bbc5-e4876114ef55input-handle-top"
+        },
+        {
+            "source": "ba8b9e9e-8d53-4604-bbc5-e4876114ef55",
+            "sourceHandle": "output-handle",
+            "target": "c481d498-a491-40c1-acfd-893943a70df9",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-ba8b9e9e-8d53-4604-bbc5-e4876114ef55output-handle-c481d498-a491-40c1-acfd-893943a70df9input-handle-top"
+        },
+        {
+            "source": "c481d498-a491-40c1-acfd-893943a70df9",
+            "sourceHandle": "output-handle",
+            "target": "619cf088-6966-4769-86de-de956f7ad126",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-c481d498-a491-40c1-acfd-893943a70df9output-handle-619cf088-6966-4769-86de-de956f7ad126input-handle-top"
+        },
+        {
+            "source": "619cf088-6966-4769-86de-de956f7ad126",
+            "sourceHandle": "output-handle",
+            "target": "830cb6ac-bfd5-42d5-906b-6353b681d590",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-619cf088-6966-4769-86de-de956f7ad126output-handle-830cb6ac-bfd5-42d5-906b-6353b681d590input-handle-top"
+        },
+        {
+            "source": "830cb6ac-bfd5-42d5-906b-6353b681d590",
+            "sourceHandle": "output-handle",
+            "target": "17c1ba37-3559-4347-8a39-62e957140c71",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-830cb6ac-bfd5-42d5-906b-6353b681d590output-handle-17c1ba37-3559-4347-8a39-62e957140c71input-handle-top"
+        },
+        {
+            "source": "17c1ba37-3559-4347-8a39-62e957140c71",
+            "sourceHandle": "output-handle",
+            "target": "8605f412-110a-4b3c-b933-93842928c926",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-17c1ba37-3559-4347-8a39-62e957140c71output-handle-8605f412-110a-4b3c-b933-93842928c926input-handle-top"
+        },
+        {
+            "source": "c7b53c2b-b6fa-4ca5-a460-24d6644b9df4",
+            "sourceHandle": "output-handle",
+            "target": "b76d2583-20df-4ad2-9d5d-4e7f1273fffc",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-c7b53c2b-b6fa-4ca5-a460-24d6644b9df4output-handle-b76d2583-20df-4ad2-9d5d-4e7f1273fffcinput-handle-top"
         }
     ],
     "id": "ca375f3c-b9bc-4360-938b-24a3c094a9e7",

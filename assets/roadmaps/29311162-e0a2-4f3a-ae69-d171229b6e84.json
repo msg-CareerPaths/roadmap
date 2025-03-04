@@ -989,18 +989,18 @@
       {
          "id":"c616748c-4a03-44a3-988e-493a0ae85aba",
          "position":{
-            "x":346.562558371194,
-            "y":950.778980027003
+            "x":518.562558371194,
+            "y":946.778980027003
          },
          "type":"RoadmapNode",
          "zIndex":11,
          "style":{
             "zIndex":11,
             "height":42,
-            "width":342
+            "width":144
          },
          "data":{
-            "pathType":"Main path",
+            "pathType":"Optional path",
             "isContainer":false,
             "label":"MAUI",
             "isReadonly":false,
@@ -1008,12 +1008,12 @@
          },
          "extent":"parent",
          "parentNode":"f47e1b57-a554-4882-8eb5-7336b3f2bb08",
-         "width":342,
+         "width":144,
          "height":42,
-         "selected":true,
+         "selected":false,
          "positionAbsolute":{
-            "x":1435.6397725427453,
-            "y":1231.1264509613843
+            "x":1607.6397725427453,
+            "y":1227.1264509613843
          },
          "dragging":false
       },

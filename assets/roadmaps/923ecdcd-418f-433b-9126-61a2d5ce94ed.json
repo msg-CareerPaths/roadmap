@@ -1,0 +1,1786 @@
+{
+    "nodes": [
+        {
+            "id": "b67bfa3c-bc16-400e-99e8-f8136e7c4a4e",
+            "position": { "x": 234.8724081175751, "y": 497.45448236137963 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Image Pull Secret",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day7/challenges/image-pull-secret.md"
+            },
+            "extent": "parent",
+            "parentNode": "e2b70309-9922-4ea2-a8cc-851728d46dc3",
+            "width": 266,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 370.2506716386715, "y": 4083.055174979531 },
+            "dragging": false
+        },
+        {
+            "id": "8946dfd2-3ffd-4af7-bc31-69d5a2fb6938",
+            "position": { "x": 11.87557119695606, "y": 420.9230235365526 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 4: Deploy a Microservice-Oriented Sample Application",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day7/challenges/challenge-4.md"
+            },
+            "extent": "parent",
+            "parentNode": "e2b70309-9922-4ea2-a8cc-851728d46dc3",
+            "width": 712,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 147.25383471805247, "y": 4006.523716154704 },
+            "dragging": false
+        },
+        {
+            "id": "55aa6836-2a8a-429d-910d-68122acab72e",
+            "position": { "x": 113.47768032646883, "y": 344.39156471172464 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 3: Configuration with Kubernetes",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day7/challenges/challenge-3.md"
+            },
+            "extent": "parent",
+            "parentNode": "e2b70309-9922-4ea2-a8cc-851728d46dc3",
+            "width": 511,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 248.85594384756524, "y": 3929.992257329876 },
+            "dragging": false
+        },
+        {
+            "id": "5a3fb052-e284-4f68-a2ba-f3f7492d96bc",
+            "position": { "x": 126.67275943419781, "y": 271.8186296192166 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 2: Basic Kubernetes Concepts",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day7/challenges/challenge-2.md"
+            },
+            "extent": "parent",
+            "parentNode": "e2b70309-9922-4ea2-a8cc-851728d46dc3",
+            "width": 486,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 262.05102295529423, "y": 3857.419322237368 },
+            "dragging": false
+        },
+        {
+            "id": "fa244cc9-84e8-4d7b-a9e8-515cdc37c736",
+            "position": { "x": 89.72653793255665, "y": 191.32864706206965 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 1: Create your first Kubernetes Cluster",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day7/challenges/challenge-1.md"
+            },
+            "extent": "parent",
+            "parentNode": "e2b70309-9922-4ea2-a8cc-851728d46dc3",
+            "width": 562,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 225.10480145365307, "y": 3776.929339680221 },
+            "dragging": false
+        },
+        {
+            "id": "a6945539-bd3b-4671-a19b-edeb2be95490",
+            "position": { "x": 170.21652048970327, "y": 120.0752198803334 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 0: Setup your System",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day7/challenges/challenge-0.md"
+            },
+            "extent": "parent",
+            "parentNode": "e2b70309-9922-4ea2-a8cc-851728d46dc3",
+            "width": 401,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 305.5947840107997, "y": 3705.6759124984846 },
+            "dragging": false
+        },
+        {
+            "id": "4e871d1c-bf7d-453b-bd7f-3be487b44e05",
+            "position": { "x": 100.2826012187399, "y": 48.821792698597164 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Optional path",
+                "isContainer": false,
+                "label": " Bonus : Secure Endpoints with SSL Certificates",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day7/challenges/bonus-1.md"
+            },
+            "extent": "parent",
+            "parentNode": "e2b70309-9922-4ea2-a8cc-851728d46dc3",
+            "width": 547,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 235.6608647398363, "y": 3634.4224853167484 },
+            "dragging": false
+        },
+        {
+            "id": "e2b70309-9922-4ea2-a8cc-851728d46dc3",
+            "position": { "x": 140.43311016875566, "y": 3605.3933112797445 },
+            "type": "RoadmapNode",
+            "zIndex": 10,
+            "style": { "zIndex": 10, "height": 585, "width": 733 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": true,
+                "label": "Day 7 Kubernetes",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day7/README.md"
+            },
+            "width": 733,
+            "height": 585,
+            "selected": true,
+            "positionAbsolute": { "x": 140.43311016875566, "y": 3605.3933112797445 },
+            "dragging": false
+        },
+        {
+            "id": "1ad47cd3-1a15-46da-9f72-095d2de99939",
+            "position": { "x": 194.1300219944988, "y": 466.3715321287964 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 6: Self-learning",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day6/challenges/challenge6.md"
+            },
+            "extent": "parent",
+            "parentNode": "3e930f1c-dac8-4001-871f-b626a9e2b4ef",
+            "width": 341,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 328.1300219944988, "y": 3492.3715321287964 },
+            "dragging": false
+        },
+        {
+            "id": "010767ec-7356-42dd-81d6-f02169322bab",
+            "position": { "x": 133.24900917965596, "y": 400.89572589396494 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 5: Azure Container Services",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day6/challenges/challenge5.md"
+            },
+            "extent": "parent",
+            "parentNode": "3e930f1c-dac8-4001-871f-b626a9e2b4ef",
+            "width": 462,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 267.24900917965596, "y": 3426.895725893965 },
+            "dragging": false
+        },
+        {
+            "id": "4ee72e58-4f34-42c2-84b6-344eb509aecc",
+            "position": { "x": 165.2131057496333, "y": 328.91049493275614 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 4: Image and Registry",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day6/challenges/challenge4.md"
+            },
+            "extent": "parent",
+            "parentNode": "3e930f1c-dac8-4001-871f-b626a9e2b4ef",
+            "width": 406,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 299.2131057496333, "y": 3354.910494932756 },
+            "dragging": false
+        },
+        {
+            "id": "04bb78b8-d6f6-4e4d-87e9-c883e96593af",
+            "position": { "x": 187.19099596403402, "y": 258.42967459002284 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 3: Docker Objects",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day6/challenges/challenge3.md"
+            },
+            "extent": "parent",
+            "parentNode": "3e930f1c-dac8-4001-871f-b626a9e2b4ef",
+            "width": 367,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 321.190995964034, "y": 3284.429674590023 },
+            "dragging": false
+        },
+        {
+            "id": "4dd30791-a258-436b-a9ef-e1daa7c4c5a3",
+            "position": { "x": 190.9802873803099, "y": 185.6752793975238 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 2: Container 101",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day6/challenges/challenge2.md"
+            },
+            "extent": "parent",
+            "parentNode": "3e930f1c-dac8-4001-871f-b626a9e2b4ef",
+            "width": 356,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 324.9802873803099, "y": 3211.675279397524 },
+            "dragging": false
+        },
+        {
+            "id": "391b3124-a875-4a0a-9c9d-9401e206d552",
+            "position": { "x": 204.62173647890364, "y": 118.98375047106629 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 1: Docker 101",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day6/challenges/challenge1.md"
+            },
+            "extent": "parent",
+            "parentNode": "3e930f1c-dac8-4001-871f-b626a9e2b4ef",
+            "width": 331,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 338.62173647890364, "y": 3144.9837504710663 },
+            "dragging": false
+        },
+        {
+            "id": "316aca03-938a-4117-9e63-9408d9865eca",
+            "position": { "x": 196.28529536309645, "y": 51.53436326135352 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 0: Prerequisites",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day6/challenges/challenge0.md"
+            },
+            "extent": "parent",
+            "parentNode": "3e930f1c-dac8-4001-871f-b626a9e2b4ef",
+            "width": 348,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 330.28529536309645, "y": 3077.5343632613535 },
+            "dragging": false
+        },
+        {
+            "id": "3e930f1c-dac8-4001-871f-b626a9e2b4ef",
+            "position": { "x": 134, "y": 3026 },
+            "type": "RoadmapNode",
+            "zIndex": 10,
+            "style": { "zIndex": 10, "height": 541, "width": 745 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": true,
+                "label": "Day 6 Containerization",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day6/README.md"
+            },
+            "width": 745,
+            "height": 541,
+            "selected": false,
+            "positionAbsolute": { "x": 134, "y": 3026 },
+            "dragging": false
+        },
+        {
+            "id": "b69ca957-e557-444f-8c5d-f473d57dca1c",
+            "position": { "x": 136.951612469662, "y": 348.20429991909896 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Breakout: Deploy the backend services",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day5/challenges/04-breakout.md"
+            },
+            "extent": "parent",
+            "parentNode": "4b901d0f-b60b-41ec-a880-2b0f6fab635d",
+            "width": 468,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 270.827183666618, "y": 2898.038394848374 },
+            "dragging": false
+        },
+        {
+            "id": "777fe07f-3eba-4cd2-9136-38409e5ca772",
+            "position": { "x": 74.79364718731472, "y": 278.8902084892943 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 3: Azure AD applications and deployment",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day5/challenges/03-challenge.md"
+            },
+            "extent": "parent",
+            "parentNode": "4b901d0f-b60b-41ec-a880-2b0f6fab635d",
+            "width": 592,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 208.66921838427072, "y": 2828.7243034185694 },
+            "dragging": false
+        },
+        {
+            "id": "692d3109-438f-4615-8400-6b9d0e662653",
+            "position": { "x": 156.5, "y": 196 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 2: OAuth 2 Implicit Flow",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day5/challenges/02-challenge.md"
+            },
+            "extent": "parent",
+            "parentNode": "4b901d0f-b60b-41ec-a880-2b0f6fab635d",
+            "width": 426,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 290.375571196956, "y": 2745.834094929275 },
+            "dragging": false
+        },
+        {
+            "id": "130aaaec-bef4-4a0c-a0eb-f1eed2064548",
+            "position": { "x": 73.51669471981018, "y": 120.65421575966775 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 1: Receive an ID Token in a Fragment URL",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day5/challenges/01-challenge.md"
+            },
+            "extent": "parent",
+            "parentNode": "4b901d0f-b60b-41ec-a880-2b0f6fab635d",
+            "width": 595,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 207.39226591676618, "y": 2670.488310688943 },
+            "dragging": false
+        },
+        {
+            "id": "5eca6997-7fdd-49c2-9351-4a040fb14fb2",
+            "position": { "x": 87.30107497977457, "y": 51.840124329863556 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 0: Request an ID Token from Azure AD",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day5/challenges/00-challenge.md"
+            },
+            "extent": "parent",
+            "parentNode": "4b901d0f-b60b-41ec-a880-2b0f6fab635d",
+            "width": 563,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 221.17664617673057, "y": 2601.6742192591387 },
+            "dragging": false
+        },
+        {
+            "id": "4b901d0f-b60b-41ec-a880-2b0f6fab635d",
+            "position": { "x": 133.875571196956, "y": 2549.834094929275 },
+            "type": "RoadmapNode",
+            "zIndex": 10,
+            "style": { "zIndex": 10, "height": 436, "width": 741 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": true,
+                "label": "Day 5 Identity and Architecture",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day5/README.md"
+            },
+            "width": 741,
+            "height": 436,
+            "selected": false,
+            "positionAbsolute": { "x": 133.875571196956, "y": 2549.834094929275 },
+            "dragging": false
+        },
+        {
+            "id": "d0f52410-ba38-411b-8615-b7ce52cacee0",
+            "position": { "x": 110.27504207971538, "y": 503.1298794887007 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Breakout 1:  Deploy the sample application",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4/challenges/06-breakout.md"
+            },
+            "extent": "parent",
+            "parentNode": "21bc6721-17dc-4978-ac24-eeb8e97745be",
+            "width": 501,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 735.5559011913947, "y": 2395.897378976303 },
+            "dragging": false
+        },
+        {
+            "id": "61cbf07e-b3e8-4e9e-8907-1cbcecbaeefb",
+            "position": { "x": 127.50551740467085, "y": 426.16708970389936 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 05: Create a CI/CD workflow",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4/challenges/05-challenge-common-cicd.md"
+            },
+            "extent": "parent",
+            "parentNode": "21bc6721-17dc-4978-ac24-eeb8e97745be",
+            "width": 469,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 752.7863765163502, "y": 2318.934589191502 },
+            "dragging": false
+        },
+        {
+            "id": "e767d346-8fcf-4ac2-b524-f87901c129b3",
+            "position": { "x": 18.3791736799526, "y": 356.0964900490808 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 04: Import the Azure Developer College's repository",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4/challenges/04-challenge-azdc-repo.md"
+            },
+            "extent": "parent",
+            "parentNode": "21bc6721-17dc-4978-ac24-eeb8e97745be",
+            "width": 688,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 643.6600327916319, "y": 2248.863989536683 },
+            "dragging": false
+        },
+        {
+            "id": "69b76c94-98d5-42e7-a2e4-72ae57e0f94c",
+            "position": { "x": 20.676570389946733, "y": 286.0258903942613 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 03: Deploy to Azure WebApp using GitHub Actions",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4/challenges/03-challenge-bicep.md"
+            },
+            "extent": "parent",
+            "parentNode": "21bc6721-17dc-4978-ac24-eeb8e97745be",
+            "width": 678,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 645.957429501626, "y": 2178.7933898818637 },
+            "dragging": false
+        },
+        {
+            "id": "749ee0f8-383d-4220-b90f-f547f1350936",
+            "position": { "x": 124.05942233967971, "y": 211.36049731945468 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge: 02 GitHub Actions in Action",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4/challenges/02-github-actions-intro.md"
+            },
+            "extent": "parent",
+            "parentNode": "21bc6721-17dc-4978-ac24-eeb8e97745be",
+            "width": 468,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 749.340281451359, "y": 2104.127996807057 },
+            "dragging": false
+        },
+        {
+            "id": "b0a36432-82b4-42cd-bff1-fdcad7513177",
+            "position": { "x": 139.39828039849976, "y": 125.43745680884967 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 01: GitHub project boards",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4/challenges/01-challenge-boards.md"
+            },
+            "extent": "parent",
+            "parentNode": "21bc6721-17dc-4978-ac24-eeb8e97745be",
+            "width": 444,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 756.6382510251998, "y": 1999.825782616499 },
+            "dragging": false
+        },
+        {
+            "id": "5f28e694-5789-407a-a577-b41ebe6075a5",
+            "position": { "x": 113.67874248827991, "y": 54.5657963943745 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 0: Create a GitHub organization",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4/challenges/00-challenge-org.md"
+            },
+            "extent": "parent",
+            "parentNode": "21bc6721-17dc-4978-ac24-eeb8e97745be",
+            "width": 498,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 730.9187131149799, "y": 1928.9541222020239 },
+            "dragging": false
+        },
+        {
+            "id": "21bc6721-17dc-4978-ac24-eeb8e97745be",
+            "position": { "x": 618.388668981697, "y": 1873.2396274526527 },
+            "type": "RoadmapNode",
+            "zIndex": 10,
+            "style": { "zIndex": 10, "height": 577, "width": 726 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": true,
+                "label": "Day 4 DevOps and Monitoring",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4/README.md"
+            },
+            "width": 726,
+            "height": 577,
+            "selected": false,
+            "positionAbsolute": { "x": 618.388668981697, "y": 1873.2396274526527 },
+            "dragging": false
+        },
+        {
+            "id": "9dde679d-fe49-4893-9c49-a838ebf86bdb",
+            "position": { "x": 99, "y": 477 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Breakout: Create CI/CD Pipelines",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4-azdevops/challenges/challenge-bo-1.md"
+            },
+            "extent": "parent",
+            "parentNode": "db030026-e4bb-4c9e-b220-ad5817fe2c13",
+            "width": 413,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 276.9999999999998, "y": 2291.9999999999995 },
+            "dragging": false
+        },
+        {
+            "id": "6fcf3d59-e30d-4cc5-8ab0-2164dbfe3861",
+            "position": { "x": 26.5, "y": 401.5 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 5: Build and deploy the SCM Frontend",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4-azdevops/challenges/challenge-5.md"
+            },
+            "extent": "parent",
+            "parentNode": "db030026-e4bb-4c9e-b220-ad5817fe2c13",
+            "width": 557,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 204.49999999999977, "y": 2216.4999999999995 },
+            "dragging": false
+        },
+        {
+            "id": "c777cb15-e68d-4a58-a0d6-64695dbb5ebc",
+            "position": { "x": 69, "y": 327.5 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 4: Work with Azure Pipelines",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4-azdevops/challenges/challenge-4.md"
+            },
+            "extent": "parent",
+            "parentNode": "db030026-e4bb-4c9e-b220-ad5817fe2c13",
+            "width": 470,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 246.99999999999977, "y": 2142.4999999999995 },
+            "dragging": false
+        },
+        {
+            "id": "d7ae024b-edcf-4387-ad4a-d635a0452412",
+            "position": { "x": 69, "y": 259.5 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 3: Work with Azure Pipelines",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4-azdevops/challenges/challenge-3.md"
+            },
+            "extent": "parent",
+            "parentNode": "db030026-e4bb-4c9e-b220-ad5817fe2c13",
+            "width": 470,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 233.49999999999983, "y": 2052.9999999999995 },
+            "dragging": false
+        },
+        {
+            "id": "45ec0ef8-3fb1-44a4-aa39-a7284bde95b0",
+            "position": { "x": 82, "y": 189 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 2: Work with Azure Repos",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4-azdevops/challenges/challenge-2.md"
+            },
+            "extent": "parent",
+            "parentNode": "db030026-e4bb-4c9e-b220-ad5817fe2c13",
+            "width": 443,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 259.99999999999983, "y": 2008.9999999999995 },
+            "dragging": false
+        },
+        {
+            "id": "07a10f54-18b8-499c-8bce-0edc44a78453",
+            "position": { "x": 47.5, "y": 121.5 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 1: Plan your first Project Iteration",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4-azdevops/challenges/challenge-1.md"
+            },
+            "extent": "parent",
+            "parentNode": "db030026-e4bb-4c9e-b220-ad5817fe2c13",
+            "width": 512,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 225.49999999999983, "y": 1941.4999999999995 },
+            "dragging": false
+        },
+        {
+            "id": "16a4477a-d469-4952-a5ab-ce6edcb7e337",
+            "position": { "x": 13, "y": 55 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 0: Create an Azure DevOps Organization",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4-azdevops/challenges/challenge-0.md"
+            },
+            "extent": "parent",
+            "parentNode": "db030026-e4bb-4c9e-b220-ad5817fe2c13",
+            "width": 581,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 190.99999999999983, "y": 1874.9999999999995 },
+            "dragging": false
+        },
+        {
+            "id": "db030026-e4bb-4c9e-b220-ad5817fe2c13",
+            "position": { "x": -270.0000000000002, "y": 1878.9999999999995 },
+            "type": "RoadmapNode",
+            "zIndex": 10,
+            "style": { "zIndex": 10, "height": 578, "width": 627 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": true,
+                "label": "Day 4 Azure DevOps",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day4-azdevops/README.md"
+            },
+            "width": 627,
+            "height": 578,
+            "selected": false,
+            "positionAbsolute": { "x": -270.0000000000002, "y": 1878.9999999999995 },
+            "dragging": false
+        },
+        {
+            "id": "208a74a0-7e29-4e70-9c3e-dc00f1e24a63",
+            "position": { "x": 78, "y": 468.0000000000002 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Breakout 2: Add Congitive Services",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day3/challenges/06-challenge-bo-2.md"
+            },
+            "extent": "parent",
+            "parentNode": "7ec72cbd-1b5e-428f-9e72-e88c533ba109",
+            "width": 433,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 262, "y": 1664.0000000000002 },
+            "dragging": false
+        },
+        {
+            "id": "9c6158d0-df3b-4b6a-8a74-3aafc6539416",
+            "position": { "x": 90, "y": 389.9999999999998 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 04: Cognitive Services",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day3/challenges/05-challenge-cognitive-services.md"
+            },
+            "extent": "parent",
+            "parentNode": "7ec72cbd-1b5e-428f-9e72-e88c533ba109",
+            "width": 410,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 274, "y": 1585.9999999999998 },
+            "dragging": false
+        },
+        {
+            "id": "d01c8c5c-49be-4542-b8c8-f7698fff87e2",
+            "position": { "x": 67.5, "y": 317.4999999999998 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Breakout 1: Add data storage services",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day3/challenges/04-challenge-bo-1.md"
+            },
+            "extent": "parent",
+            "parentNode": "7ec72cbd-1b5e-428f-9e72-e88c533ba109",
+            "width": 462,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 251.5, "y": 1513.4999999999998 },
+            "dragging": false
+        },
+        {
+            "id": "6fbdafbf-28cf-4725-95ff-de9afa71a907",
+            "position": { "x": 139, "y": 250.5 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Azure Cognitive Search",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day3/challenges/03-challenge-search.md"
+            },
+            "extent": "parent",
+            "parentNode": "7ec72cbd-1b5e-428f-9e72-e88c533ba109",
+            "width": 321,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 323, "y": 1446.5 },
+            "dragging": false
+        },
+        {
+            "id": "8f38fee7-f633-44e0-a02e-4822ab0bcfb4",
+            "position": { "x": 123, "y": 178.5 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Optional path",
+                "isContainer": false,
+                "label": "Challenge 2: Azure SQL DB",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day3/challenges/02-challenge-sql.md"
+            },
+            "extent": "parent",
+            "parentNode": "7ec72cbd-1b5e-428f-9e72-e88c533ba109",
+            "width": 355,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 307, "y": 1374.5 },
+            "dragging": false
+        },
+        {
+            "id": "7feb5d90-2389-46c6-a96f-8fb51b3353f0",
+            "position": { "x": 126, "y": 108 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 01: Cosmos DB",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day3/challenges/01-challenge-cosmosdb.md"
+            },
+            "extent": "parent",
+            "parentNode": "7ec72cbd-1b5e-428f-9e72-e88c533ba109",
+            "width": 347,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 310, "y": 1304 },
+            "dragging": false
+        },
+        {
+            "id": "e06461df-aa37-480e-9a9c-b79539081656",
+            "position": { "x": 150, "y": 36 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Baseline Deployment",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day3/challenges/00-challenge-baseline.md"
+            },
+            "extent": "parent",
+            "parentNode": "7ec72cbd-1b5e-428f-9e72-e88c533ba109",
+            "width": 300,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 334, "y": 1232 },
+            "dragging": false
+        },
+        {
+            "id": "7ec72cbd-1b5e-428f-9e72-e88c533ba109",
+            "position": { "x": 184, "y": 1196 },
+            "type": "RoadmapNode",
+            "zIndex": 10,
+            "style": { "zIndex": 10, "height": 596, "width": 598 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": true,
+                "label": "Day 3 Data and AI",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day3/README.md"
+            },
+            "width": 598,
+            "height": 596,
+            "selected": false,
+            "positionAbsolute": { "x": 184, "y": 1196 },
+            "dragging": false
+        },
+        {
+            "id": "56666a06-c245-40f0-bf6d-19ba0e7271de",
+            "position": { "x": 83, "y": 543.4999999999999 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Optional path",
+                "isContainer": false,
+                "label": "Breakout 4 : Create a infrastructure",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day2/challenges/07-challenge-bo-4.md"
+            },
+            "extent": "parent",
+            "parentNode": "3ff56aed-5a1f-4ddc-8717-e443be02b773",
+            "width": 433,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 265, "y": 1087.5 },
+            "dragging": false
+        },
+        {
+            "id": "408c2d66-a258-448e-a20b-31e27704a1fe",
+            "position": { "x": 38.30422478502942, "y": 473.57950643309164 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Breakout 3: User a Content Delivery Network ",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day2/challenges/06-challenge-bo-3.md"
+            },
+            "extent": "parent",
+            "parentNode": "3ff56aed-5a1f-4ddc-8717-e443be02b773",
+            "width": 522,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 220.30422478502942, "y": 1017.5795064330918 },
+            "dragging": false
+        },
+        {
+            "id": "2f83b7f7-d66c-493e-ae91-19f13c0b445b",
+            "position": { "x": 50.5, "y": 404 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Breakout 2: Add a serverless microservice",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day2/challenges/05-challenge-bo-2.md"
+            },
+            "extent": "parent",
+            "parentNode": "3ff56aed-5a1f-4ddc-8717-e443be02b773",
+            "width": 500,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 232.5, "y": 948.0000000000001 },
+            "dragging": false
+        },
+        {
+            "id": "08e5d61c-dc8e-45af-8c79-e8f2f4705bcb",
+            "position": { "x": 137, "y": 336.5 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Optional path",
+                "isContainer": false,
+                "label": "Challenge 3: Messaging",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day2/challenges/04-challenge-messaging.md"
+            },
+            "extent": "parent",
+            "parentNode": "3ff56aed-5a1f-4ddc-8717-e443be02b773",
+            "width": 327,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 319, "y": 880.5000000000001 },
+            "dragging": false
+        },
+        {
+            "id": "00519f9c-9f44-447c-b33d-b71c8546359c",
+            "position": { "x": 140, "y": 263.5 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 2: Serverless",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day2/challenges/03-challenge-serverless.md"
+            },
+            "extent": "parent",
+            "parentNode": "3ff56aed-5a1f-4ddc-8717-e443be02b773",
+            "width": 321,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 322, "y": 807.5000000000001 },
+            "dragging": false
+        },
+        {
+            "id": "8b35e837-1695-4854-ae16-a711cb43b561",
+            "position": { "x": 54.41933225246157, "y": 195.4676628836154 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Breakout 1: Deploy the Azure Dev College",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day2/challenges/02-challenge-bo-1.md"
+            },
+            "extent": "parent",
+            "parentNode": "3ff56aed-5a1f-4ddc-8717-e443be02b773",
+            "width": 493,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 236.41933225246157, "y": 739.4676628836155 },
+            "dragging": false
+        },
+        {
+            "id": "3bedfb0d-4a6d-4b4a-a108-294fc5c88ee3",
+            "position": { "x": 109.51915659415027, "y": 125.353251523425 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 1: Azure Web Apps",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day2/challenges/01-challenge-appservice.md"
+            },
+            "extent": "parent",
+            "parentNode": "3ff56aed-5a1f-4ddc-8717-e443be02b773",
+            "width": 380,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 291.5191565941503, "y": 669.3532515234251 },
+            "dragging": false
+        },
+        {
+            "id": "b46a47bb-1a11-4b8a-8ee9-9128cbc86faf",
+            "position": { "x": 98.96309330796709, "y": 47.50228478782424 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 0: Setup your System",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day2/challenges/00-challenge-setup.md"
+            },
+            "extent": "parent",
+            "parentNode": "3ff56aed-5a1f-4ddc-8717-e443be02b773",
+            "width": 401,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 280.9630933079671, "y": 591.5022847878244 },
+            "dragging": false
+        },
+        {
+            "id": "3ff56aed-5a1f-4ddc-8717-e443be02b773",
+            "position": { "x": 182, "y": 544.0000000000001 },
+            "type": "RoadmapNode",
+            "zIndex": 10,
+            "style": { "zIndex": 10, "height": 621, "width": 598 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": true,
+                "label": "Day 2- Azure Development",
+                "isReadonly": false,
+                "url": "https://github.com/azuredevcollege/trainingdays/blob/master/day2/README.md"
+            },
+            "width": 598,
+            "height": 621,
+            "selected": false,
+            "positionAbsolute": { "x": 182, "y": 544.0000000000001 },
+            "dragging": false
+        },
+        {
+            "id": "4fdac820-142e-47c6-bf1e-345bdc19c555",
+            "position": { "x": 106, "y": 696.0000000000001 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 9: Azure Automation",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day1/challenge-09/README.md"
+            },
+            "extent": "parent",
+            "parentNode": "54238f32-ab22-4fc6-8d0f-d2f5e7d21aab",
+            "width": 395,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 282.5, "y": 442.0000000000001 },
+            "dragging": false
+        },
+        {
+            "id": "0c589356-f788-4016-84c3-88613c2522f1",
+            "position": { "x": 116, "y": 620.0000000000001 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": " Challenge 8: Distribute traffic",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day1/challenge-08/README.md"
+            },
+            "extent": "parent",
+            "parentNode": "54238f32-ab22-4fc6-8d0f-d2f5e7d21aab",
+            "width": 375,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 292.5, "y": 366.0000000000001 },
+            "dragging": false
+        },
+        {
+            "id": "0fefbf6a-d6d1-41d3-9f64-4faae85a0381",
+            "position": { "x": 30.611651689888333, "y": 554.8705505632962 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Optional path",
+                "isContainer": false,
+                "label": "Challenge 7: VM and Custom Script Extensions",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day1/challenge-07/README.md"
+            },
+            "extent": "parent",
+            "parentNode": "54238f32-ab22-4fc6-8d0f-d2f5e7d21aab",
+            "width": 548,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 207.11165168988833, "y": 300.8705505632962 },
+            "dragging": false
+        },
+        {
+            "id": "753829b7-16e9-4c91-97a9-0df4a7b2904c",
+            "position": { "x": 118.5, "y": 476 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 6: Load balancing",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day1/challenge-06/README.md"
+            },
+            "extent": "parent",
+            "parentNode": "54238f32-ab22-4fc6-8d0f-d2f5e7d21aab",
+            "width": 368,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 295, "y": 222 },
+            "dragging": false
+        },
+        {
+            "id": "f7d012a5-1589-4342-a2cc-54ccc93d8e14",
+            "position": { "x": 46.87055056329615, "y": 400.6116516898884 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 5: Connect Two Virtual Networks",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day1/challenge-05/README.md"
+            },
+            "extent": "parent",
+            "parentNode": "54238f32-ab22-4fc6-8d0f-d2f5e7d21aab",
+            "width": 513,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 223.37055056329615, "y": 146.6116516898884 },
+            "dragging": false
+        },
+        {
+            "id": "63e07e79-bac1-401a-a45b-39b044a137f7",
+            "position": { "x": 169, "y": 330.5 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 4: ARM",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day1/challenge-04/README.md"
+            },
+            "extent": "parent",
+            "parentNode": "54238f32-ab22-4fc6-8d0f-d2f5e7d21aab",
+            "width": 268,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 345.5, "y": 76.5 },
+            "dragging": false
+        },
+        {
+            "id": "762cae84-1b91-4ff0-ab95-352bb6e8db00",
+            "position": { "x": 111.31792637108248, "y": 263.53216207296157 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 3: Storage Account",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day1/challenge-03/README.md"
+            },
+            "extent": "parent",
+            "parentNode": "54238f32-ab22-4fc6-8d0f-d2f5e7d21aab",
+            "width": 381,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 287.8179263710825, "y": 9.532162072961569 },
+            "dragging": false
+        },
+        {
+            "id": "ee6662ea-61bc-4f0b-90df-f8b21dd1b11d",
+            "position": { "x": 138.54833063115393, "y": 191.17504422202205 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 2: Cloud Shell",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day1/challenge-02/README.md"
+            },
+            "extent": "parent",
+            "parentNode": "54238f32-ab22-4fc6-8d0f-d2f5e7d21aab",
+            "width": 329,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 315.04833063115393, "y": -62.82495577797795 },
+            "dragging": false
+        },
+        {
+            "id": "e4c78456-6a13-4a7a-ab19-8b6cd6560660",
+            "position": { "x": 111.49841846030955, "y": 126.35940263876375 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 1: Virtual Machines",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day1/challenge-01/README.md"
+            },
+            "extent": "parent",
+            "parentNode": "54238f32-ab22-4fc6-8d0f-d2f5e7d21aab",
+            "width": 383,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 287.99841846030955, "y": -127.64059736123625 },
+            "dragging": false
+        },
+        {
+            "id": "f0cb790d-f96b-4a6d-95e5-4fa356c2acec",
+            "position": { "x": 137.33409492927473, "y": 59.31950791077281 },
+            "type": "RoadmapNode",
+            "zIndex": 11,
+            "style": { "zIndex": 11 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": false,
+                "label": "Challenge 0: Networking",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day1/challenge-00/README.md"
+            },
+            "extent": "parent",
+            "parentNode": "54238f32-ab22-4fc6-8d0f-d2f5e7d21aab",
+            "width": 332,
+            "height": 43,
+            "selected": false,
+            "positionAbsolute": { "x": 313.8340949292747, "y": -194.6804920892272 },
+            "dragging": false
+        },
+        {
+            "id": "54238f32-ab22-4fc6-8d0f-d2f5e7d21aab",
+            "position": { "x": 176.5, "y": -254 },
+            "type": "RoadmapNode",
+            "zIndex": 10,
+            "style": { "zIndex": 10, "height": 757, "width": 607 },
+            "data": {
+                "pathType": "Main path",
+                "isContainer": true,
+                "label": "Day 1- Azure Fundamentals & Infrastructure",
+                "isReadonly": false,
+                "url": "https://raw.githubusercontent.com/azuredevcollege/trainingdays/master/day1/README.md"
+            },
+            "width": 607,
+            "height": 757,
+            "selected": false,
+            "positionAbsolute": { "x": 176.5, "y": -254 },
+            "dragging": false
+        }
+    ],
+    "edges": [
+        {
+            "source": "f0cb790d-f96b-4a6d-95e5-4fa356c2acec",
+            "sourceHandle": "output-handle",
+            "target": "e4c78456-6a13-4a7a-ab19-8b6cd6560660",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-f0cb790d-f96b-4a6d-95e5-4fa356c2acecoutput-handle-e4c78456-6a13-4a7a-ab19-8b6cd6560660input-handle-top"
+        },
+        {
+            "source": "e4c78456-6a13-4a7a-ab19-8b6cd6560660",
+            "sourceHandle": "output-handle",
+            "target": "ee6662ea-61bc-4f0b-90df-f8b21dd1b11d",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-e4c78456-6a13-4a7a-ab19-8b6cd6560660output-handle-ee6662ea-61bc-4f0b-90df-f8b21dd1b11dinput-handle-top"
+        },
+        {
+            "source": "ee6662ea-61bc-4f0b-90df-f8b21dd1b11d",
+            "sourceHandle": "output-handle",
+            "target": "762cae84-1b91-4ff0-ab95-352bb6e8db00",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-ee6662ea-61bc-4f0b-90df-f8b21dd1b11doutput-handle-762cae84-1b91-4ff0-ab95-352bb6e8db00input-handle-top"
+        },
+        {
+            "source": "762cae84-1b91-4ff0-ab95-352bb6e8db00",
+            "sourceHandle": "output-handle",
+            "target": "63e07e79-bac1-401a-a45b-39b044a137f7",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-762cae84-1b91-4ff0-ab95-352bb6e8db00output-handle-63e07e79-bac1-401a-a45b-39b044a137f7input-handle-top"
+        },
+        {
+            "source": "63e07e79-bac1-401a-a45b-39b044a137f7",
+            "sourceHandle": "output-handle",
+            "target": "f7d012a5-1589-4342-a2cc-54ccc93d8e14",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-63e07e79-bac1-401a-a45b-39b044a137f7output-handle-f7d012a5-1589-4342-a2cc-54ccc93d8e14input-handle-top"
+        },
+        {
+            "source": "f7d012a5-1589-4342-a2cc-54ccc93d8e14",
+            "sourceHandle": "output-handle",
+            "target": "753829b7-16e9-4c91-97a9-0df4a7b2904c",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-f7d012a5-1589-4342-a2cc-54ccc93d8e14output-handle-753829b7-16e9-4c91-97a9-0df4a7b2904cinput-handle-top"
+        },
+        {
+            "source": "753829b7-16e9-4c91-97a9-0df4a7b2904c",
+            "sourceHandle": "output-handle",
+            "target": "0fefbf6a-d6d1-41d3-9f64-4faae85a0381",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-753829b7-16e9-4c91-97a9-0df4a7b2904coutput-handle-0fefbf6a-d6d1-41d3-9f64-4faae85a0381input-handle-top"
+        },
+        {
+            "source": "0fefbf6a-d6d1-41d3-9f64-4faae85a0381",
+            "sourceHandle": "output-handle",
+            "target": "0c589356-f788-4016-84c3-88613c2522f1",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-0fefbf6a-d6d1-41d3-9f64-4faae85a0381output-handle-0c589356-f788-4016-84c3-88613c2522f1input-handle-top"
+        },
+        {
+            "source": "0c589356-f788-4016-84c3-88613c2522f1",
+            "sourceHandle": "output-handle",
+            "target": "4fdac820-142e-47c6-bf1e-345bdc19c555",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-0c589356-f788-4016-84c3-88613c2522f1output-handle-4fdac820-142e-47c6-bf1e-345bdc19c555input-handle-top"
+        },
+        {
+            "source": "b46a47bb-1a11-4b8a-8ee9-9128cbc86faf",
+            "sourceHandle": "output-handle",
+            "target": "3bedfb0d-4a6d-4b4a-a108-294fc5c88ee3",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-b46a47bb-1a11-4b8a-8ee9-9128cbc86fafoutput-handle-3bedfb0d-4a6d-4b4a-a108-294fc5c88ee3input-handle-top"
+        },
+        {
+            "source": "3bedfb0d-4a6d-4b4a-a108-294fc5c88ee3",
+            "sourceHandle": "output-handle",
+            "target": "8b35e837-1695-4854-ae16-a711cb43b561",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-3bedfb0d-4a6d-4b4a-a108-294fc5c88ee3output-handle-8b35e837-1695-4854-ae16-a711cb43b561input-handle-top"
+        },
+        {
+            "source": "8b35e837-1695-4854-ae16-a711cb43b561",
+            "sourceHandle": "output-handle",
+            "target": "00519f9c-9f44-447c-b33d-b71c8546359c",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-8b35e837-1695-4854-ae16-a711cb43b561output-handle-00519f9c-9f44-447c-b33d-b71c8546359cinput-handle-top"
+        },
+        {
+            "source": "00519f9c-9f44-447c-b33d-b71c8546359c",
+            "sourceHandle": "output-handle",
+            "target": "08e5d61c-dc8e-45af-8c79-e8f2f4705bcb",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-00519f9c-9f44-447c-b33d-b71c8546359coutput-handle-08e5d61c-dc8e-45af-8c79-e8f2f4705bcbinput-handle-top"
+        },
+        {
+            "source": "08e5d61c-dc8e-45af-8c79-e8f2f4705bcb",
+            "sourceHandle": "output-handle",
+            "target": "2f83b7f7-d66c-493e-ae91-19f13c0b445b",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-08e5d61c-dc8e-45af-8c79-e8f2f4705bcboutput-handle-2f83b7f7-d66c-493e-ae91-19f13c0b445binput-handle-top"
+        },
+        {
+            "source": "2f83b7f7-d66c-493e-ae91-19f13c0b445b",
+            "sourceHandle": "output-handle",
+            "target": "408c2d66-a258-448e-a20b-31e27704a1fe",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-2f83b7f7-d66c-493e-ae91-19f13c0b445boutput-handle-408c2d66-a258-448e-a20b-31e27704a1feinput-handle-top"
+        },
+        {
+            "source": "408c2d66-a258-448e-a20b-31e27704a1fe",
+            "sourceHandle": "output-handle",
+            "target": "56666a06-c245-40f0-bf6d-19ba0e7271de",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-408c2d66-a258-448e-a20b-31e27704a1feoutput-handle-56666a06-c245-40f0-bf6d-19ba0e7271deinput-handle-top"
+        },
+        {
+            "source": "54238f32-ab22-4fc6-8d0f-d2f5e7d21aab",
+            "sourceHandle": "output-handle",
+            "target": "3ff56aed-5a1f-4ddc-8717-e443be02b773",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-54238f32-ab22-4fc6-8d0f-d2f5e7d21aaboutput-handle-3ff56aed-5a1f-4ddc-8717-e443be02b773input-handle-top"
+        },
+        {
+            "source": "e06461df-aa37-480e-9a9c-b79539081656",
+            "sourceHandle": "output-handle",
+            "target": "7feb5d90-2389-46c6-a96f-8fb51b3353f0",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-e06461df-aa37-480e-9a9c-b79539081656output-handle-7feb5d90-2389-46c6-a96f-8fb51b3353f0input-handle-top"
+        },
+        {
+            "source": "7feb5d90-2389-46c6-a96f-8fb51b3353f0",
+            "sourceHandle": "output-handle",
+            "target": "8f38fee7-f633-44e0-a02e-4822ab0bcfb4",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-7feb5d90-2389-46c6-a96f-8fb51b3353f0output-handle-8f38fee7-f633-44e0-a02e-4822ab0bcfb4input-handle-top"
+        },
+        {
+            "source": "8f38fee7-f633-44e0-a02e-4822ab0bcfb4",
+            "sourceHandle": "output-handle",
+            "target": "6fbdafbf-28cf-4725-95ff-de9afa71a907",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-8f38fee7-f633-44e0-a02e-4822ab0bcfb4output-handle-6fbdafbf-28cf-4725-95ff-de9afa71a907input-handle-top"
+        },
+        {
+            "source": "6fbdafbf-28cf-4725-95ff-de9afa71a907",
+            "sourceHandle": "output-handle",
+            "target": "d01c8c5c-49be-4542-b8c8-f7698fff87e2",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-6fbdafbf-28cf-4725-95ff-de9afa71a907output-handle-d01c8c5c-49be-4542-b8c8-f7698fff87e2input-handle-top"
+        },
+        {
+            "source": "d01c8c5c-49be-4542-b8c8-f7698fff87e2",
+            "sourceHandle": "output-handle",
+            "target": "9c6158d0-df3b-4b6a-8a74-3aafc6539416",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-d01c8c5c-49be-4542-b8c8-f7698fff87e2output-handle-9c6158d0-df3b-4b6a-8a74-3aafc6539416input-handle-top"
+        },
+        {
+            "source": "9c6158d0-df3b-4b6a-8a74-3aafc6539416",
+            "sourceHandle": "output-handle",
+            "target": "208a74a0-7e29-4e70-9c3e-dc00f1e24a63",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-9c6158d0-df3b-4b6a-8a74-3aafc6539416output-handle-208a74a0-7e29-4e70-9c3e-dc00f1e24a63input-handle-top"
+        },
+        {
+            "source": "16a4477a-d469-4952-a5ab-ce6edcb7e337",
+            "sourceHandle": "output-handle",
+            "target": "07a10f54-18b8-499c-8bce-0edc44a78453",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-16a4477a-d469-4952-a5ab-ce6edcb7e337output-handle-07a10f54-18b8-499c-8bce-0edc44a78453input-handle-top"
+        },
+        {
+            "source": "07a10f54-18b8-499c-8bce-0edc44a78453",
+            "sourceHandle": "output-handle",
+            "target": "45ec0ef8-3fb1-44a4-aa39-a7284bde95b0",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-07a10f54-18b8-499c-8bce-0edc44a78453output-handle-45ec0ef8-3fb1-44a4-aa39-a7284bde95b0input-handle-top"
+        },
+        {
+            "source": "45ec0ef8-3fb1-44a4-aa39-a7284bde95b0",
+            "sourceHandle": "output-handle",
+            "target": "d7ae024b-edcf-4387-ad4a-d635a0452412",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-45ec0ef8-3fb1-44a4-aa39-a7284bde95b0output-handle-d7ae024b-edcf-4387-ad4a-d635a0452412input-handle-top"
+        },
+        {
+            "source": "d7ae024b-edcf-4387-ad4a-d635a0452412",
+            "sourceHandle": "output-handle",
+            "target": "c777cb15-e68d-4a58-a0d6-64695dbb5ebc",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-d7ae024b-edcf-4387-ad4a-d635a0452412output-handle-c777cb15-e68d-4a58-a0d6-64695dbb5ebcinput-handle-top"
+        },
+        {
+            "source": "c777cb15-e68d-4a58-a0d6-64695dbb5ebc",
+            "sourceHandle": "output-handle",
+            "target": "6fcf3d59-e30d-4cc5-8ab0-2164dbfe3861",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-c777cb15-e68d-4a58-a0d6-64695dbb5ebcoutput-handle-6fcf3d59-e30d-4cc5-8ab0-2164dbfe3861input-handle-top"
+        },
+        {
+            "source": "6fcf3d59-e30d-4cc5-8ab0-2164dbfe3861",
+            "sourceHandle": "output-handle",
+            "target": "9dde679d-fe49-4893-9c49-a838ebf86bdb",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-6fcf3d59-e30d-4cc5-8ab0-2164dbfe3861output-handle-9dde679d-fe49-4893-9c49-a838ebf86bdbinput-handle-top"
+        },
+        {
+            "source": "3ff56aed-5a1f-4ddc-8717-e443be02b773",
+            "sourceHandle": "output-handle",
+            "target": "7ec72cbd-1b5e-428f-9e72-e88c533ba109",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-3ff56aed-5a1f-4ddc-8717-e443be02b773output-handle-7ec72cbd-1b5e-428f-9e72-e88c533ba109input-handle-top"
+        },
+        {
+            "source": "7ec72cbd-1b5e-428f-9e72-e88c533ba109",
+            "sourceHandle": "output-handle",
+            "target": "db030026-e4bb-4c9e-b220-ad5817fe2c13",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-7ec72cbd-1b5e-428f-9e72-e88c533ba109output-handle-db030026-e4bb-4c9e-b220-ad5817fe2c13input-handle-top"
+        },
+        {
+            "source": "5f28e694-5789-407a-a577-b41ebe6075a5",
+            "sourceHandle": "output-handle",
+            "target": "b0a36432-82b4-42cd-bff1-fdcad7513177",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-5f28e694-5789-407a-a577-b41ebe6075a5output-handle-b0a36432-82b4-42cd-bff1-fdcad7513177input-handle-top"
+        },
+        {
+            "source": "b0a36432-82b4-42cd-bff1-fdcad7513177",
+            "sourceHandle": "output-handle",
+            "target": "749ee0f8-383d-4220-b90f-f547f1350936",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-b0a36432-82b4-42cd-bff1-fdcad7513177output-handle-749ee0f8-383d-4220-b90f-f547f1350936input-handle-top"
+        },
+        {
+            "source": "749ee0f8-383d-4220-b90f-f547f1350936",
+            "sourceHandle": "output-handle",
+            "target": "69b76c94-98d5-42e7-a2e4-72ae57e0f94c",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-749ee0f8-383d-4220-b90f-f547f1350936output-handle-69b76c94-98d5-42e7-a2e4-72ae57e0f94cinput-handle-top"
+        },
+        {
+            "source": "69b76c94-98d5-42e7-a2e4-72ae57e0f94c",
+            "sourceHandle": "output-handle",
+            "target": "e767d346-8fcf-4ac2-b524-f87901c129b3",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-69b76c94-98d5-42e7-a2e4-72ae57e0f94coutput-handle-e767d346-8fcf-4ac2-b524-f87901c129b3input-handle-top"
+        },
+        {
+            "source": "e767d346-8fcf-4ac2-b524-f87901c129b3",
+            "sourceHandle": "output-handle",
+            "target": "61cbf07e-b3e8-4e9e-8907-1cbcecbaeefb",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-e767d346-8fcf-4ac2-b524-f87901c129b3output-handle-61cbf07e-b3e8-4e9e-8907-1cbcecbaeefbinput-handle-top"
+        },
+        {
+            "source": "61cbf07e-b3e8-4e9e-8907-1cbcecbaeefb",
+            "sourceHandle": "output-handle",
+            "target": "d0f52410-ba38-411b-8615-b7ce52cacee0",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-61cbf07e-b3e8-4e9e-8907-1cbcecbaeefboutput-handle-d0f52410-ba38-411b-8615-b7ce52cacee0input-handle-top"
+        },
+        {
+            "source": "7ec72cbd-1b5e-428f-9e72-e88c533ba109",
+            "sourceHandle": "output-handle",
+            "target": "21bc6721-17dc-4978-ac24-eeb8e97745be",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-7ec72cbd-1b5e-428f-9e72-e88c533ba109output-handle-21bc6721-17dc-4978-ac24-eeb8e97745beinput-handle-top"
+        },
+        {
+            "source": "db030026-e4bb-4c9e-b220-ad5817fe2c13",
+            "sourceHandle": "output-handle",
+            "target": "4b901d0f-b60b-41ec-a880-2b0f6fab635d",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-db030026-e4bb-4c9e-b220-ad5817fe2c13output-handle-4b901d0f-b60b-41ec-a880-2b0f6fab635dinput-handle-top"
+        },
+        {
+            "source": "21bc6721-17dc-4978-ac24-eeb8e97745be",
+            "sourceHandle": "output-handle",
+            "target": "4b901d0f-b60b-41ec-a880-2b0f6fab635d",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-21bc6721-17dc-4978-ac24-eeb8e97745beoutput-handle-4b901d0f-b60b-41ec-a880-2b0f6fab635dinput-handle-top"
+        },
+        {
+            "source": "5eca6997-7fdd-49c2-9351-4a040fb14fb2",
+            "sourceHandle": "output-handle",
+            "target": "130aaaec-bef4-4a0c-a0eb-f1eed2064548",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-5eca6997-7fdd-49c2-9351-4a040fb14fb2output-handle-130aaaec-bef4-4a0c-a0eb-f1eed2064548input-handle-top"
+        },
+        {
+            "source": "130aaaec-bef4-4a0c-a0eb-f1eed2064548",
+            "sourceHandle": "output-handle",
+            "target": "692d3109-438f-4615-8400-6b9d0e662653",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-130aaaec-bef4-4a0c-a0eb-f1eed2064548output-handle-692d3109-438f-4615-8400-6b9d0e662653input-handle-top"
+        },
+        {
+            "source": "692d3109-438f-4615-8400-6b9d0e662653",
+            "sourceHandle": "output-handle",
+            "target": "777fe07f-3eba-4cd2-9136-38409e5ca772",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-692d3109-438f-4615-8400-6b9d0e662653output-handle-777fe07f-3eba-4cd2-9136-38409e5ca772input-handle-top"
+        },
+        {
+            "source": "777fe07f-3eba-4cd2-9136-38409e5ca772",
+            "sourceHandle": "output-handle",
+            "target": "b69ca957-e557-444f-8c5d-f473d57dca1c",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-777fe07f-3eba-4cd2-9136-38409e5ca772output-handle-b69ca957-e557-444f-8c5d-f473d57dca1cinput-handle-top"
+        },
+        {
+            "source": "316aca03-938a-4117-9e63-9408d9865eca",
+            "sourceHandle": "output-handle",
+            "target": "391b3124-a875-4a0a-9c9d-9401e206d552",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-316aca03-938a-4117-9e63-9408d9865ecaoutput-handle-391b3124-a875-4a0a-9c9d-9401e206d552input-handle-top"
+        },
+        {
+            "source": "391b3124-a875-4a0a-9c9d-9401e206d552",
+            "sourceHandle": "output-handle",
+            "target": "4dd30791-a258-436b-a9ef-e1daa7c4c5a3",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-391b3124-a875-4a0a-9c9d-9401e206d552output-handle-4dd30791-a258-436b-a9ef-e1daa7c4c5a3input-handle-top"
+        },
+        {
+            "source": "4dd30791-a258-436b-a9ef-e1daa7c4c5a3",
+            "sourceHandle": "output-handle",
+            "target": "04bb78b8-d6f6-4e4d-87e9-c883e96593af",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-4dd30791-a258-436b-a9ef-e1daa7c4c5a3output-handle-04bb78b8-d6f6-4e4d-87e9-c883e96593afinput-handle-top"
+        },
+        {
+            "source": "04bb78b8-d6f6-4e4d-87e9-c883e96593af",
+            "sourceHandle": "output-handle",
+            "target": "4ee72e58-4f34-42c2-84b6-344eb509aecc",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-04bb78b8-d6f6-4e4d-87e9-c883e96593afoutput-handle-4ee72e58-4f34-42c2-84b6-344eb509aeccinput-handle-top"
+        },
+        {
+            "source": "4ee72e58-4f34-42c2-84b6-344eb509aecc",
+            "sourceHandle": "output-handle",
+            "target": "010767ec-7356-42dd-81d6-f02169322bab",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-4ee72e58-4f34-42c2-84b6-344eb509aeccoutput-handle-010767ec-7356-42dd-81d6-f02169322babinput-handle-top"
+        },
+        {
+            "source": "010767ec-7356-42dd-81d6-f02169322bab",
+            "sourceHandle": "output-handle",
+            "target": "1ad47cd3-1a15-46da-9f72-095d2de99939",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-010767ec-7356-42dd-81d6-f02169322baboutput-handle-1ad47cd3-1a15-46da-9f72-095d2de99939input-handle-top"
+        },
+        {
+            "source": "4e871d1c-bf7d-453b-bd7f-3be487b44e05",
+            "sourceHandle": "output-handle",
+            "target": "a6945539-bd3b-4671-a19b-edeb2be95490",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-4e871d1c-bf7d-453b-bd7f-3be487b44e05output-handle-a6945539-bd3b-4671-a19b-edeb2be95490input-handle-top"
+        },
+        {
+            "source": "a6945539-bd3b-4671-a19b-edeb2be95490",
+            "sourceHandle": "output-handle",
+            "target": "fa244cc9-84e8-4d7b-a9e8-515cdc37c736",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-a6945539-bd3b-4671-a19b-edeb2be95490output-handle-fa244cc9-84e8-4d7b-a9e8-515cdc37c736input-handle-top"
+        },
+        {
+            "source": "fa244cc9-84e8-4d7b-a9e8-515cdc37c736",
+            "sourceHandle": "output-handle",
+            "target": "5a3fb052-e284-4f68-a2ba-f3f7492d96bc",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-fa244cc9-84e8-4d7b-a9e8-515cdc37c736output-handle-5a3fb052-e284-4f68-a2ba-f3f7492d96bcinput-handle-top"
+        },
+        {
+            "source": "5a3fb052-e284-4f68-a2ba-f3f7492d96bc",
+            "sourceHandle": "output-handle",
+            "target": "55aa6836-2a8a-429d-910d-68122acab72e",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-5a3fb052-e284-4f68-a2ba-f3f7492d96bcoutput-handle-55aa6836-2a8a-429d-910d-68122acab72einput-handle-top"
+        },
+        {
+            "source": "55aa6836-2a8a-429d-910d-68122acab72e",
+            "sourceHandle": "output-handle",
+            "target": "8946dfd2-3ffd-4af7-bc31-69d5a2fb6938",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-55aa6836-2a8a-429d-910d-68122acab72eoutput-handle-8946dfd2-3ffd-4af7-bc31-69d5a2fb6938input-handle-top"
+        },
+        {
+            "source": "8946dfd2-3ffd-4af7-bc31-69d5a2fb6938",
+            "sourceHandle": "output-handle",
+            "target": "b67bfa3c-bc16-400e-99e8-f8136e7c4a4e",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-8946dfd2-3ffd-4af7-bc31-69d5a2fb6938output-handle-b67bfa3c-bc16-400e-99e8-f8136e7c4a4einput-handle-top"
+        },
+        {
+            "source": "3e930f1c-dac8-4001-871f-b626a9e2b4ef",
+            "sourceHandle": "output-handle",
+            "target": "e2b70309-9922-4ea2-a8cc-851728d46dc3",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-3e930f1c-dac8-4001-871f-b626a9e2b4efoutput-handle-e2b70309-9922-4ea2-a8cc-851728d46dc3input-handle-top"
+        },
+        {
+            "source": "4b901d0f-b60b-41ec-a880-2b0f6fab635d",
+            "sourceHandle": "output-handle",
+            "target": "3e930f1c-dac8-4001-871f-b626a9e2b4ef",
+            "targetHandle": "input-handle-top",
+            "id": "reactflow__edge-4b901d0f-b60b-41ec-a880-2b0f6fab635doutput-handle-3e930f1c-dac8-4001-871f-b626a9e2b4efinput-handle-top"
+        }
+    ],
+    "id": "923ecdcd-418f-433b-9126-61a2d5ce94ed",
+    "tags": ["azure"],
+    "title": "DevOps(Azure) ",
+    "targetAudience": "Associate & IT Consultants"
+}

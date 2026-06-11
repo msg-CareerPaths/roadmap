@@ -581,64 +581,6 @@
       "dragging": false
     },
     {
-      "id": "12cf19fc-1841-43e8-941d-b00fda91abed",
-      "position": {
-        "x": 57.24762965244463,
-        "y": 1222.4403994231452
-      },
-      "type": "RoadmapNode",
-      "zIndex": 11,
-      "style": {
-        "zIndex": 11
-      },
-      "data": {
-        "pathType": "Optional path",
-        "isContainer": false,
-        "label": "Olingo",
-        "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-400-olingo.md"
-      },
-      "extent": "parent",
-      "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
-      "width": 160,
-      "height": 43,
-      "selected": false,
-      "positionAbsolute": {
-        "x": 307.78213204837834,
-        "y": 658.0792778624564
-      },
-      "dragging": false
-    },
-    {
-      "id": "7f5c41e1-2595-41e3-a69b-edce07eb530a",
-      "position": {
-        "x": 231.2465141947715,
-        "y": 1219.2998021178864
-      },
-      "type": "RoadmapNode",
-      "zIndex": 11,
-      "style": {
-        "zIndex": 11
-      },
-      "data": {
-        "pathType": "Optional path",
-        "isContainer": false,
-        "label": "MVC with Thymeleaf",
-        "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-500-mvc-thymeleaf.md"
-      },
-      "extent": "parent",
-      "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
-      "width": 297,
-      "height": 43,
-      "selected": false,
-      "dragging": false,
-      "positionAbsolute": {
-        "x": 316.96531920097704,
-        "y": 657.4613698029586
-      }
-    },
-    {
       "id": "2e64b9a0-ecea-4e0f-9963-64e6b57073f2",
       "position": {
         "x": 544.0599806691534,
@@ -683,7 +625,7 @@
         "isContainer": false,
         "label": "Java Mail",
         "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-700-java-mail.md"
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-200-java-mail.md"
       },
       "extent": "parent",
       "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
@@ -712,7 +654,7 @@
         "isContainer": false,
         "label": "Web Socket",
         "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-800-websocket.md"
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-500-websocket.md"
       },
       "extent": "parent",
       "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
@@ -726,35 +668,6 @@
       "dragging": false
     },
     {
-      "id": "7b8dc35f-6be8-4a3d-a005-84328e666725",
-      "position": {
-        "x": 764.5,
-        "y": 884.5
-      },
-      "type": "RoadmapNode",
-      "zIndex": 11,
-      "style": {
-        "zIndex": 11
-      },
-      "data": {
-        "pathType": "Optional path",
-        "isContainer": false,
-        "label": "OAuth",
-        "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-300-oauth.md"
-      },
-      "extent": "parent",
-      "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
-      "width": 158,
-      "height": 43,
-      "selected": false,
-      "dragging": false,
-      "positionAbsolute": {
-        "x": -225.34647304086502,
-        "y": -993.7693293129864
-      }
-    },
-    {
       "id": "5300421f-e969-4c3f-9dde-95445d5e6423",
       "position": {
         "x": 434.7042032118503,
@@ -766,11 +679,11 @@
         "zIndex": 11
       },
       "data": {
-        "pathType": "Main path",
+        "pathType": "Optional path",
         "isContainer": false,
         "label": "Task Scheduler",
         "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/1100-task-scheduler.md"
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-100-task-scheduler.md"
       },
       "extent": "parent",
       "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
@@ -780,35 +693,6 @@
       "positionAbsolute": {
         "x": -668.1422698290147,
         "y": -624.6323572451647
-      },
-      "dragging": false
-    },
-    {
-      "id": "01ad712d-64a2-4520-a91f-fe4f6db0badd",
-      "position": {
-        "x": 416.21673407754906,
-        "y": 977.8025272791315
-      },
-      "type": "RoadmapNode",
-      "zIndex": 11,
-      "style": {
-        "zIndex": 11
-      },
-      "data": {
-        "pathType": "Main path",
-        "isContainer": false,
-        "label": "Rest Template",
-        "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/1000-rest-template.md"
-      },
-      "extent": "parent",
-      "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
-      "width": 236,
-      "height": 43,
-      "selected": false,
-      "positionAbsolute": {
-        "x": -686.629738963316,
-        "y": -717.466802033855
       },
       "dragging": false
     },
@@ -828,7 +712,7 @@
         "isContainer": false,
         "label": "Security",
         "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/900-security.md"
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/800-security-oauth.md"
       },
       "extent": "parent",
       "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
@@ -857,7 +741,7 @@
         "isContainer": false,
         "label": "Testing",
         "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/800-testing.md"
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/700-testing.md"
       },
       "extent": "parent",
       "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
@@ -882,11 +766,11 @@
         "zIndex": 11
       },
       "data": {
-        "pathType": "Main path",
+        "pathType": "Optional path",
         "isContainer": false,
         "label": "Custom Format Support",
         "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/700-custom-format-support.md"
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-400-custom-format-support.md"
       },
       "extent": "parent",
       "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
@@ -973,7 +857,7 @@
         "isContainer": false,
         "label": "MongoDB",
         "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-200-mongodb.md"
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-800-mongodb.md"
       },
       "extent": "parent",
       "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
@@ -1031,7 +915,7 @@
         "isContainer": false,
         "label": "JDBC",
         "isReadonly": false,
-        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/op1-100-jdbc.md"
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-700-jdbc.md"
       },
       "extent": "parent",
       "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
@@ -1221,6 +1105,56 @@
         "y": -545.8342096261076
       },
       "dragging": false
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "position": {
+        "x": 764.5,
+        "y": 876.8290743993014
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "Security Basics",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-900-security-basics.md"
+      },
+      "extent": "parent",
+      "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
+      "width": 220,
+      "height": 43,
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "position": {
+        "x": 1190,
+        "y": 1222
+      },
+      "type": "RoadmapNode",
+      "zIndex": 11,
+      "style": {
+        "zIndex": 11
+      },
+      "data": {
+        "pathType": "Optional path",
+        "isContainer": false,
+        "label": "State Machine",
+        "isReadonly": false,
+        "url": "https://raw.githubusercontent.com/msg-CareerPaths/spring-training/master/chapters/opt-300-state-machine.md"
+      },
+      "extent": "parent",
+      "parentNode": "c8ca1c37-2312-4866-9702-f78eda7677cd",
+      "width": 210,
+      "height": 43,
+      "selected": false,
+      "dragging": false
     }
   ],
   "edges": [
@@ -1323,35 +1257,6 @@
       "id": "reactflow__edge-14a099ca-e088-43b2-a311-9f124abdf6ffoutput-handle-be9ca739-9970-4706-8947-0180a41a5081input-handle-top"
     },
     {
-      "source": "be9ca739-9970-4706-8947-0180a41a5081",
-      "sourceHandle": "output-handle",
-      "target": "01ad712d-64a2-4520-a91f-fe4f6db0badd",
-      "targetHandle": "input-handle-top",
-      "id": "reactflow__edge-be9ca739-9970-4706-8947-0180a41a5081output-handle-01ad712d-64a2-4520-a91f-fe4f6db0baddinput-handle-top"
-    },
-    {
-      "source": "01ad712d-64a2-4520-a91f-fe4f6db0badd",
-      "sourceHandle": "output-handle",
-      "target": "5300421f-e969-4c3f-9dde-95445d5e6423",
-      "targetHandle": "input-handle-top",
-      "id": "reactflow__edge-01ad712d-64a2-4520-a91f-fe4f6db0baddoutput-handle-5300421f-e969-4c3f-9dde-95445d5e6423input-handle-top"
-    },
-    {
-      "source": "14a099ca-e088-43b2-a311-9f124abdf6ff",
-      "sourceHandle": "output-handle",
-      "target": "7b8dc35f-6be8-4a3d-a005-84328e666725",
-      "targetHandle": "input-handle-top",
-      "id": "reactflow__edge-14a099ca-e088-43b2-a311-9f124abdf6ffoutput-handle-7b8dc35f-6be8-4a3d-a005-84328e666725input-handle-top",
-      "selected": false
-    },
-    {
-      "source": "7b8dc35f-6be8-4a3d-a005-84328e666725",
-      "sourceHandle": "output-handle",
-      "target": "01ad712d-64a2-4520-a91f-fe4f6db0badd",
-      "targetHandle": "input-handle-top",
-      "id": "reactflow__edge-7b8dc35f-6be8-4a3d-a005-84328e666725output-handle-01ad712d-64a2-4520-a91f-fe4f6db0baddinput-handle-top"
-    },
-    {
       "source": "5300421f-e969-4c3f-9dde-95445d5e6423",
       "sourceHandle": "output-handle",
       "target": "2cd35ae2-adfe-4697-a429-cdf23ae69ade",
@@ -1371,20 +1276,6 @@
       "target": "2e64b9a0-ecea-4e0f-9963-64e6b57073f2",
       "targetHandle": "input-handle-top",
       "id": "reactflow__edge-5300421f-e969-4c3f-9dde-95445d5e6423output-handle-2e64b9a0-ecea-4e0f-9963-64e6b57073f2input-handle-top"
-    },
-    {
-      "source": "5300421f-e969-4c3f-9dde-95445d5e6423",
-      "sourceHandle": "output-handle",
-      "target": "7f5c41e1-2595-41e3-a69b-edce07eb530a",
-      "targetHandle": "input-handle-top",
-      "id": "reactflow__edge-5300421f-e969-4c3f-9dde-95445d5e6423output-handle-7f5c41e1-2595-41e3-a69b-edce07eb530ainput-handle-top"
-    },
-    {
-      "source": "5300421f-e969-4c3f-9dde-95445d5e6423",
-      "sourceHandle": "output-handle",
-      "target": "12cf19fc-1841-43e8-941d-b00fda91abed",
-      "targetHandle": "input-handle-top",
-      "id": "reactflow__edge-5300421f-e969-4c3f-9dde-95445d5e6423output-handle-12cf19fc-1841-43e8-941d-b00fda91abedinput-handle-top"
     },
     {
       "source": "bc4f5381-2906-44a6-bb72-05e1521af7cc",
@@ -1616,6 +1507,27 @@
       "target": "a3f4fe67-4856-4a87-9020-2fb26069dc36",
       "targetHandle": "input-handle-top",
       "id": "reactflow__edge-76068d27-07b9-49b3-9854-088ebef0ee6boutput-handle-a3f4fe67-4856-4a87-9020-2fb26069dc36input-handle-top"
+    },
+    {
+      "source": "be9ca739-9970-4706-8947-0180a41a5081",
+      "sourceHandle": "output-handle",
+      "target": "5300421f-e969-4c3f-9dde-95445d5e6423",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-be9ca739-9970-4706-8947-0180a41a5081output-handle-5300421f-e969-4c3f-9dde-95445d5e6423input-handle-top"
+    },
+    {
+      "source": "be9ca739-9970-4706-8947-0180a41a5081",
+      "sourceHandle": "output-handle",
+      "target": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-be9ca739-9970-4706-8947-0180a41a5081output-handle-a1b2c3d4-e5f6-7890-abcd-ef1234567890input-handle-top"
+    },
+    {
+      "source": "5300421f-e969-4c3f-9dde-95445d5e6423",
+      "sourceHandle": "output-handle",
+      "target": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "targetHandle": "input-handle-top",
+      "id": "reactflow__edge-5300421f-e969-4c3f-9dde-95445d5e6423output-handle-b2c3d4e5-f6a7-8901-bcde-f12345678901input-handle-top"
     }
   ],
   "id": "f62b75d6-a170-48f2-a7a3-81b65cddc19b",
@@ -1623,6 +1535,6 @@
     "spring",
     "angular"
   ],
-  "title": "Full-Stack(Spring + Angular)",
+  "title": "Full-Stack (Spring + Angular)",
   "targetAudience": "Associate & IT Consultants"
 }
